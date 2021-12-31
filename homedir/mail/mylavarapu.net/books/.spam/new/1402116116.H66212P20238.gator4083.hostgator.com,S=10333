@@ -1,0 +1,154 @@
+Return-path: <vks09@yahoo.com>
+Envelope-to: books@mylavarapu.net
+Delivery-date: Fri, 06 Jun 2014 23:41:56 -0500
+Received: from nm19-vm6.bullet.mail.sg3.yahoo.com ([106.10.149.117]:39308)
+	by gator4083.hostgator.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <vks09@yahoo.com>)
+	id 1Wt8S3-0005BB-12
+	for books@mylavarapu.net; Fri, 06 Jun 2014 23:41:55 -0500
+Received: from [106.10.166.60] by nm19.bullet.mail.sg3.yahoo.com with NNFMP; 07 Jun 2014 04:41:51 -0000
+Received: from [106.10.151.122] by tm17.bullet.mail.sg3.yahoo.com with NNFMP; 07 Jun 2014 04:41:51 -0000
+Received: from [127.0.0.1] by omp1004.mail.sg3.yahoo.com with NNFMP; 07 Jun 2014 04:41:51 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 801798.473.bm@omp1004.mail.sg3.yahoo.com
+Received: (qmail 69645 invoked by uid 60001); 7 Jun 2014 04:41:51 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1402116111; bh=bGYg5vQBXOEM2/XmWc3WeNkdH+PYEreMcZhD8AaAUWU=; h=References:Message-ID:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type; b=6Jih4to2mYvL1Z82LTam2d27vUZvn1gyE+O2SIh7fEsh+r+npHROQgqzlWLEeiGLXz1r2MA+i/+2HR1PYtx5VeuK1P119SuR5EInoVlJokijvO/FYdQb2kkDD2dEXYScBudLcN35pba6ZeRECYZNGv12obUTNKQHlg96/+3a/Cc=
+X-YMail-OSG: FEgHCRcVM1k0N_qt1OTdoVoRLgaAf8pFOZrmbk59isC2x7H
+ nVQdTxPX_ENmI7vBbDioRYtZHl.mpWpINylHecSctlqYRbAAiGhAlfEmVi9l
+ LoldjpKO2t0j91GbYNs4xFllA_SS9ubxRLgV_FJJ9bBeAOI0n2wqKKIAGH35
+ .jDqJ5gcnORFgK1TPexS.NfoOldwWinjct0EfkPZQVjOVSi0HKpGFWjf2qq3
+ Emjy0.86cNmljpgrKrNZA6puMZP8fsPbyRtb7ZSMcxNVikDFQD_vUUOEAdxo
+ eWn2g19FeRlSmzIPUTXi43obJQAHI0R.b4KiMAyOgQbFmqk3nB9ANe6AA7uV
+ mVvCFZfvB4LZ6d3sCoUGAAYQd7kpqr7QRK1U2VRXGxKjHSCb1Xl9yIBZlDCQ
+ CV9m06SAqmz.L9oYssQpk2_PApWgsJnZxoDZ7TM7E8.c6U93eQUhn1ATeHIw
+ H7E1Mpqq.banbd5E2DJXl2_ZYjuzfaIWMbBYsq3pRm2zowUhO0.HEB_Aw_pC
+ DZ004hU3EeLCLvTJvIdZn7mvr6E5jbI75HN5eP9C4Alk0nlbqDfD0pWHwyWY
+ QEm3Jsz.PLQhHKIEKNjhoM_IeNyaJTTZ5m3qy075nyxi2Q1SYgRTaFtIc7lK
+ SUib_3XBIgMxS3i8Ir1mxuLac6PcFAAKDofgxLUIsavZ.kyPsElkyRCQ-
+Received: from [117.195.230.74] by web190301.mail.sg3.yahoo.com via HTTP; Sat, 07 Jun 2014 12:41:51 SGT
+X-Rocket-MIMEInfo: 002.001,ZGVhciBzaXIswqAKbmFtYXN0ZQoKdGhhbmsgeW91IDsgSSByZWNlaXZlZCBteSBvcmRlciAoc3VuZGFyYWthbmRhKQpyZWdhcmRzCnNoYXJ2YW5pCgoKCk9uIE1vbmRheSwgMjYgTWF5IDIwMTQgODo0NCBBTSwgImJvb2tzQG15bGF2YXJhcHUubmV0IiA8Ym9va3NAbXlsYXZhcmFwdS5uZXQ.IHdyb3RlOgogCgoKTmFtYXNrYXJhbSBrYXN0dXJpIHNoYXJ2YW5pIGdhcnUsClRoYW5rIHlvdSBmb3IgeW91ciBvcmRlci4gWW91ciBvcmRlciMgMTQzIHBsYWNlZCBvbiBNb24sIE1heSAyNiwgJzE0IDA4OjQ0IEFNIEkBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.190.668
+References: <17473688.8631.1401074048573.JavaMail.ecwid@node-520-java-87>
+Message-ID: <1402116111.99084.YahooMailNeo@web190301.mail.sg3.yahoo.com>
+Date: Sat, 7 Jun 2014 12:41:51 +0800 (SGT)
+From: vavilala sharvani <vks09@yahoo.com>
+Reply-To: vavilala sharvani <vks09@yahoo.com>
+To: "books@mylavarapu.net" <books@mylavarapu.net>
+In-Reply-To: <17473688.8631.1401074048573.JavaMail.ecwid@node-520-java-87>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1448755381-1348490614-1402116111=:99084"
+X-Spam-Status: Yes, score=5.5
+X-Spam-Score: 55
+X-Spam-Bar: +++++
+X-Spam-Report: Spam detection software, running on the system "gator4083.hostgator.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  dear sir,Â namaste thank you ; I received my order (sundarakanda)
+    regards sharvani On Monday, 26 May 2014 8:44 AM, "books@mylavarapu.net" wrote:
+    [...] 
+ 
+ Content analysis details:   (5.5 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.7 DEAR_SOMETHING         BODY: Contains 'Dear (something)'
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (vks09[at]yahoo.com)
+  0.7 SPF_NEUTRAL            SPF: sender does not match SPF record (neutral)
+  0.2 FREEMAIL_REPLYTO_END_DIGIT Reply-To freemail username ends in digit
+                             (vavilala sharvani <vks09[at]yahoo.com>
+ )
+ -0.4 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+                             digit (vks09[at]yahoo.com)
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  3.0 RCVD_IN_SORBS_WEB      RBL: SORBS: sender is an abusable web server
+                             [117.195.230.74 listed in dnsbl.sorbs.net]
+  0.0 T_FILL_THIS_FORM_SHORT Fill in a short form with personal information
+X-Spam-Flag: YES
+Subject: [SPAM] Re: Mylavarapu Books: Order 143
+
+--1448755381-1348490614-1402116111=:99084
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+dear sir,=C2=A0=0Anamaste=0A=0Athank you ; I received my order (sundarakand=
+a)=0Aregards=0Asharvani=0A=0A=0A=0AOn Monday, 26 May 2014 8:44 AM, "books@m=
+ylavarapu.net" <books@mylavarapu.net> wrote:=0A =0A=0A=0ANamaskaram kasturi=
+ sharvani garu,=0AThank you for your order. Your order# 143 placed on Mon, =
+May 26, '14 08:44 AM IST is Queued.=0A=0AIf you have created an account, yo=
+u can track the progress of your orders on our web site via the link below:=
+=0Ahttp://www.mylavarapu.net/store/#!/~/orders/offset=3D0=0A=0AWe shall be =
+shipping your order in 2-3 business days through India Post to:=0Akasturi s=
+harvani=0Ah.no.1-5-451/2 ; road no 48 A=0Aphanigiri colony ; chaitanyapuri=
+=0AHYDERABAD,=0AAndhra Pradesh - 500060=0AIndia=0APhone 9030265499=0A=0ACoD=
+ - Instructions:=0A=0APlease pay the amount to the Courier/Postman. Double =
+check your Shipping Address, Billing Address and your contact number, as we=
+ cannot verify them.=0A=0A=3D=3D=3D=3D Items =3D=3D=3D=3D=0A=E0=B0=B8=E0=B1=
+=81=E0=B0=82=E0=B0=A6=E0=B0=B0=E0=B0=95=E0=B0=BE=E0=B0=82=E0=B0=A1 (=E0=B0=
+=A8=E0=B0=BF=E0=B0=A4=E0=B1=8D=E0=B0=AF =E0=B0=AA=E0=B0=BE=E0=B0=B0=E0=B0=
+=BE=E0=B0=AF=E0=B0=A3=E0=B0=BE=E0=B0=A8=E0=B0=BF=E0=B0=95=E0=B0=BF =E0=B0=
+=B5=E0=B1=80=E0=B0=B2=E0=B1=81=E0=B0=97=E0=B0=BE, =E0=B0=95=E0=B0=A5 + =E0=
+=B0=B5=E0=B0=BF=E0=B0=B6=E0=B1=87=E0=B0=B7=E0=B0=BE=E0=B0=82=E0=B0=B6=E0=B0=
+=BE=E0=B0=B2=E0=B1=81)=0AQuantity=C2=A0 =C2=A0 : 1=0APrice (each): Rs150/-=
+=0A=0A=3D=3D=3D=3D Total =3D=3D=3D=3D=0AItems=C2=A0  : Rs150/-=0AShipping: =
+Rs30/-=0ATOTAL=C2=A0  : Rs180/-=0A=0AThank you once again for your order.=
+=0A=0AMylavarapu Books=0Ahttps://facebook.com/MylavarapuSrinivasaRao=0Ahttp=
+://www.mylavarapu.net/store
+--1448755381-1348490614-1402116111=:99084
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, Sans-Serif;fo=
+nt-size:14pt"><div><span>dear sir,&nbsp;</span></div><div style=3D"color: r=
+gb(0, 0, 0); font-size: 18.6667px; font-family: HelveticaNeue,Helvetica Neu=
+e,Helvetica,Arial,Lucida Grande,Sans-Serif; background-color: transparent; =
+font-style: normal;"><span>namaste<br></span></div><div style=3D"color: rgb=
+(0, 0, 0); font-size: 18.6667px; font-family: HelveticaNeue,Helvetica Neue,=
+Helvetica,Arial,Lucida Grande,Sans-Serif; background-color: transparent; fo=
+nt-style: normal;"><span>thank you ; I received my order (sundarakanda)</sp=
+an></div><div style=3D"color: rgb(0, 0, 0); font-size: 18.6667px; font-fami=
+ly: HelveticaNeue,Helvetica Neue,Helvetica,Arial,Lucida Grande,Sans-Serif; =
+background-color: transparent; font-style: normal;"><span>regards</span></d=
+iv><div style=3D"color: rgb(0, 0, 0); font-size: 18.6667px; font-family:
+ HelveticaNeue,Helvetica Neue,Helvetica,Arial,Lucida Grande,Sans-Serif; bac=
+kground-color: transparent; font-style: normal;"><span>sharvani</span></div=
+> <div class=3D"qtdSeparateBR"><br><br></div><div style=3D"display: block;"=
+ class=3D"yahoo_quoted"> <div style=3D"font-family: HelveticaNeue, Helvetic=
+a Neue, Helvetica, Arial, Lucida Grande, Sans-Serif; font-size: 14pt;"> <di=
+v style=3D"font-family: times new roman, new york, times, serif; font-size:=
+ 12pt;"> <div dir=3D"ltr"> <font face=3D"Arial" size=3D"2"> On Monday, 26 M=
+ay 2014 8:44 AM, "books@mylavarapu.net" &lt;books@mylavarapu.net&gt; wrote:=
+<br> </font> </div>  <br><br> <div class=3D"y_msg_container">Namaskaram kas=
+turi sharvani garu,<br>Thank you for your order. Your order# 143 placed on =
+Mon, May 26, '14 08:44 AM IST is Queued.<br><br>If you have created an acco=
+unt, you can track the progress of your orders on our web site via the link=
+ below:<br><a href=3D"http://www.mylavarapu.net/store/#!/~/orders/offset=3D=
+0"
+ target=3D"_blank">http://www.mylavarapu.net/store/#!/~/orders/offset=3D0</=
+a><br><br>We shall be shipping your order in 2-3 business days through Indi=
+a Post to:<br>kasturi sharvani<br>h.no.1-5-451/2 ; road no 48 A<br>phanigir=
+i colony ; chaitanyapuri<br>HYDERABAD,<br>Andhra Pradesh - 500060<br>India<=
+br>Phone 9030265499<br><br>CoD - Instructions:<br><br>Please pay the amount=
+ to the Courier/Postman. Double check your Shipping Address, Billing Addres=
+s and your contact number, as we cannot verify them.<br><br>=3D=3D=3D=3D It=
+ems =3D=3D=3D=3D<br>=E0=B0=B8=E0=B1=81=E0=B0=82=E0=B0=A6=E0=B0=B0=E0=B0=95=
+=E0=B0=BE=E0=B0=82=E0=B0=A1 (=E0=B0=A8=E0=B0=BF=E0=B0=A4=E0=B1=8D=E0=B0=AF =
+=E0=B0=AA=E0=B0=BE=E0=B0=B0=E0=B0=BE=E0=B0=AF=E0=B0=A3=E0=B0=BE=E0=B0=A8=E0=
+=B0=BF=E0=B0=95=E0=B0=BF =E0=B0=B5=E0=B1=80=E0=B0=B2=E0=B1=81=E0=B0=97=E0=
+=B0=BE, =E0=B0=95=E0=B0=A5 + =E0=B0=B5=E0=B0=BF=E0=B0=B6=E0=B1=87=E0=B0=B7=
+=E0=B0=BE=E0=B0=82=E0=B0=B6=E0=B0=BE=E0=B0=B2=E0=B1=81)<br>Quantity&nbsp; &=
+nbsp; : 1<br>Price (each): Rs150/-<br><br>=3D=3D=3D=3D Total =3D=3D=3D=3D<b=
+r>Items&nbsp;  : Rs150/-<br>Shipping: Rs30/-<br>TOTAL&nbsp;  : Rs180/-<br><=
+br>Thank you once again for your order.<br><br>Mylavarapu Books<br><a href=
+=3D"https://facebook.com/MylavarapuSrinivasaRao"
+ target=3D"_blank">https://facebook.com/MylavarapuSrinivasaRao</a><br><a hr=
+ef=3D"http://www.mylavarapu.net/store" target=3D"_blank">http://www.mylavar=
+apu.net/store</a><br><br><br></div>  </div> </div>  </div> </div></body></h=
+tml>
+--1448755381-1348490614-1402116111=:99084--

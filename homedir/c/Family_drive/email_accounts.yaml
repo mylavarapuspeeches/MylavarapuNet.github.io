@@ -1,0 +1,15 @@
+--- 
+__version: '2.1'
+mylavarapu.net: 
+  account_count: 2
+  accounts: 
+    books: 
+      disk_mtime: '1391880495'
+      diskquota: 524288000
+      diskused: 0
+    online: 
+      disk_mtime: '1391880758'
+      diskquota: 524288000
+      diskused: 0
+  passwd_mtime: '1391880758'
+  quota_mtime: '1391880758'

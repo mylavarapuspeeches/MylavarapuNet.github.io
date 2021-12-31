@@ -1,0 +1,835 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201401 will be lost/reset.
+# Last config file used to build this data file was /home1/himamsu/tmp/awstats/awstats.mylavarapu.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2008                
+POS_TIME 2694                
+POS_VISITOR 16405               
+POS_DAY 23898               
+POS_DOMAIN 3645                
+POS_LOGIN 4213                
+POS_ROBOT 4368                
+POS_WORMS 4859                
+POS_EMAILSENDER 4990                
+POS_EMAILRECEIVER 5133                
+POS_SESSION 24821               
+POS_SIDER 25035               
+POS_FILETYPES 5268                
+POS_DOWNLOADS 5591                
+POS_OS 5663                
+POS_BROWSER 5856                
+POS_SCREENSIZE 7284                
+POS_UNKNOWNREFERER 7358                
+POS_UNKNOWNREFERERBROWSER 7931                
+POS_ORIGIN 8353                
+POS_SEREFERRALS 8500                
+POS_PAGEREFS 8697                
+POS_SEARCHWORDS 9188                
+POS_KEYWORDS 9587                
+POS_MISC 2357                
+POS_ERRORS 9797                
+POS_CLUSTER 4069                
+POS_SIDER_404 9966                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140201012359 2614 707168 8426152435892
+FirstTime 20140101012806
+LastTime 20140131235825
+LastUpdate 20140201090607 2614 0 2613 0 0
+TotalVisits 505                 
+TotalUnique 173                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 185                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 84 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 165 329 1621708 89 121 1803140
+1 425 2467 9146837 80 121 1792006
+2 445 1886 9218824 127 255 2910640
+3 356 1585 10045415 85 141 1537057
+4 464 2658 12031396 87 147 2041035
+5 298 437 3675869 75 172 2356446
+6 249 1132 5044894 73 123 1933863
+7 480 2975 15687652 53 81 969339
+8 419 2443 18346827 46 99 1065479
+9 570 3995 22835592 56 108 1299794
+10 481 3093 10335796 62 113 1016168
+11 706 5704 28069796 68 100 761315
+12 469 3085 10557440 45 70 599665
+13 588 3212 13991037 59 104 1061531
+14 397 2833 10559842 53 91 1655262
+15 344 1713 6710652 76 115 1266758
+16 122 280 2791338 67 210 2155734
+17 217 1445 2720947 198 239 1131474
+18 324 621 1866608 2917 2965 2705341
+19 178 622 2625644 47 92 1003213
+20 175 574 2879789 31 82 899471
+21 127 419 2846361 64 111 1298164
+22 156 676 4643767 50 97 1006627
+23 208 948 5610940 56 94 1010599
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 23
+in 5964 41439 178078482
+us 1512 2276 17406315
+ua 517 517 3819129
+gb 193 287 4066494
+ru 96 292 4170579
+md 17 17 534905
+il 13 29 614204
+jp 11 98 1750434
+za 11 58 1065070
+ge 7 7 50713
+ca 5 52 904303
+cn 3 5 141919
+sa 3 3 120537
+at 2 2 71415
+sg 2 41 684879
+de 2 2 83080
+au 1 1 42732
+tn 1 1 40564
+id 1 1 40564
+vn 1 1 39329
+me 1 1 40564
+my 0 1 49380
+th 0 1 49380
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+googlebot 813 13196516 20140131180612 51
+bot[\s_+:,\.\;\/\\-] 209 3617651 20140131053634 104
+[\s_+:,\.\;\/\\-]bot 169 886434 20140129203816 10
+spider 113 2577537 20140131163138 0
+no_user_agent 87 449651 20140130162402 0
+unknown 36 2124 20140127140735 36
+crawl 6 204424 20140120030633 1
+msnbot\-media 4 50543 20140128183848 2
+netcraft 1 40564 20140109132456 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+eot 21 230005 0 0
+css 15991 24464024 0 0
+png 904 11437281 0 0
+ttf 7 24752 0 0
+woff 30 304956 0 0
+php 6429 75601970 0 0
+html 1860 47893740 0 0
+xml 9 9405 0 0
+js 18513 33562840 0 0
+jpg 1204 19712492 0 0
+Unknown 7 39152 0 0
+gif 114 233073 0 0
+svg 43 351281 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 204 0 12036
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 13
+linuxandroid 345
+winxp 1444
+winlong 37922
+java 2
+winnt 31
+linuxubuntu 1
+linux 44
+winvista 377
+win7 2590
+macosx 1119
+winunknown 24
+win2003 4
+Unknown 1229
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 83
+msie6.0 143
+chrome32.0.1700.72 1
+firefox26.0 37375
+firefox2.0.0.1 2
+chrome19.0.1068.1 99
+firefox18.0 2
+chrome31.0.1650.57 3
+chrome31.0.1650.63 221
+safari7.0.1 92
+chrome9.0.597.94 3
+safari5.0.2 1
+msie8.0 298
+msie7.0 224
+firefox23.0 82
+opera9.64 1
+firefox9.0.1 1
+wget 4
+firefox3.0 2
+chrome10.0.648.133 3
+firefox21.0 228
+lg\- 59
+chrome13.0.782.24 1
+safari6.0 141
+firefox3.5.2 1
+firefox2.0.0.6 1
+firefox12.0 1
+firefox3.6.23 1
+firefox25.1 2
+mozilla 204
+firefox25.0 2
+netscape5.0 5
+firefox14.0.1 20
+chrome32.0.1700.76 453
+chrome10.0.648.151 1
+safari6.1.1 49
+chrome11.0.696.71 5
+safari6.1 1
+safari 103
+safari7.0 98
+chrome21.0.1180.90 1
+firefox3.0.7 2
+chrome29.0.1547.57 1
+firefox4.0.1 2
+chrome29.0.1547.76 17
+android 286
+firefox3.6.11 3
+chrome12.0.742.91 1
+chrome23.0.1271.6 1
+chrome22.0.1229.79 1
+chrome28.0.1500.95 88
+chrome32.0.1700.41 1
+opera9.00 1
+firefox24.0 168
+opera9.80 734
+chrome32.0.1700.102 130
+chrome5.0.375.53 2
+chrome15.0.833.0 1
+firefox16.0 1
+chrome13.0.866.0 1
+chrome6.0.472.63 42
+msie9.0 799
+Unknown 1202
+firefox27.0 555
+chrome14.0.835.202 1
+firefox3.0.2 145
+chrome11.0.696.68 1
+libwww 16
+chrome27.0.1453.110 57
+msie5.5 31
+chrome20.0.1132.57 2
+chrome13.0.782.215 19
+chrome23.0.1271.17 1
+safari4.0 567
+firefox22.0 4
+msie10.0 207
+firefox5.0.1 4
+firefox6.0 17
+firefox3.6.18 3
+safari5.1 5
+chrome31.0.1650.16 10
+chrome27.0.1453.116 64
+chrome14.0.835.187 1
+firefox3.6.8 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+viralvideochart.unrulymedia.com 20140109111235
+Mozilla/5.0_Moreover/5.1_(_http://www.moreover.com;_webmaster@moreover.com) 20140119042619
+WordPress/3.8;_http://www.mylavarapu.net 20140126013223
+YahooCacheSystem 20140125152933
+libwww-perl/6.04 20140131023920
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20140109120444
+Mozilla/6.0_(compatible) 20140130154836
+Mozilla/4.0_(compatible;) 20140129072632
+WordPress/3.8.1;_http://www.mylavarapu.net 20140131235825
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+viralvideochart.unrulymedia.com 20140109111235
+YahooCacheSystem 20140125152933
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20140109120444
+Java/1.6.0_24 20140116165501
+Java/1.6.0_30 20140112194842
+WordPress/3.8.1;_http://www.mylavarapu.net 20140131235825
+WordPress/3.8;_http://www.mylavarapu.net 20140126013223
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1661 1893
+From1 1 1
+From2 68 73
+From3 32 37
+From4 6601 43128
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+google 56 61
+baidu 2 2
+bing 5 5
+yandex 4 4
+yahoo 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 7
+http://www.akama.com/company/Yuma_Office_Equipment_a3977277237.html 17 17
+http://www.domaintuno.com/d/www.mylavarapu.net 7 7
+http://www.ecwid.com/forums/showthread.php 3 8
+http://www.domaintuno.com/d/mylavarapu.net 2 2
+http://mylavarapu.ecwid.com 1 1
+http://search-results.mobi/search 1 1
+http://www.local.smartshopping.com/websearch1.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 8
+www.mylavarapu.net 4
+mylavarapu+srinivasa+rao+books 3
+mylavarapu+srinivasa+rao 2
+sundarakanda+written+by+mylavarapu+srinivasa+rao 1
+mylavarapu+srinivasa+rao+lalitha 1
+1.803.462.4608 1
+books+of+mylavarapu+sreenivasa+rao 1
+mylavarapu+srinivasarao 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 13
+mylavarapu 9
+rao 8
+srinivasa 7
+books 4
+www.mylavarapu.net 4
+written 1
+of 1
+sundarakanda 1
+sreenivasa 1
+lalitha 1
+by 1
+1.803.462.4608 1
+srinivasarao 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+403 368 6658858
+302 225 0
+206 14 638884
+418 139 695
+406 2976 672576
+301 334 0
+404 273 6283664
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 123
+/templates/themza_j15_74/js/moomenu.js 1 -
+/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/fancybox/'+d.href+' 1 -
+/ueditor/editor_all.js 1 http://www.baidu.com
+/wp-conf.php 1 http://fundaipa.net/wp-conf.php
+/ 2 http://www.mylavarapu.net/
+/template/default/refreshto.htm 1 http://www.baidu.com
+/do/reg.php 1 http://www.baidu.com
+/wso.php 1 -
+/my-account/lost-password/ 1 -
+/admin/Southidceditor/js/buttons.js 1 http://www.baidu.com
+/my-account/change-password/ 3 -
+/editor/Dialog/about.htm 1 http://www.baidu.com
+/Help/default.htm 1 http://www.baidu.com
+/fckeditor/fckeditor.js 1 http://www.baidu.com
+/plugin/kindeditor/kindeditor-min.js 1 http://www.baidu.com
+/Documentation.txt 1 http://www.baidu.com
+/templates/themza_j15_74/js/mootools.js 1 -
+/admin/kindeditor/kindeditor.js 1 http://www.baidu.com
+/wp-content/plugins/all-in-one-event-calendar/app/view/admin/js/ai1ec_config.js 2 http://www.mylavarapu.net/wp-admin/edit.php
+/comments/feed/ 6 -
+/about/in.linkedin.com/in/MylavarapuSrinivasaRao 1 http://www.mylavarapu.net/about/
+/2013/10/29/hello-world/ 1 -
+/domainsigma_removal_1cdb4f3cd554ba2f1033a8d872d377e04fc4032c.html 2 -
+/wp-content/themes-ai1ec/vortex/js/general.min.js 2 http://www.mylavarapu.net/wp-admin/index.php
+/wp-content/uploads/2014/01/Blurred_Images_Firefox_Another.jpg 3 -
+/wp-content/plugins/jetpack/modules/sharedaddy/'%20+%20urlToPrint%20+%20' 1 -
+/eWebEditor/Dialog/about.htm 1 http://www.baidu.com
+/FCK/fckeditor.js 1 http://www.baidu.com
+/Scripts/spell.js 1 http://www.baidu.com
+/wp-login.phpindex.php 1 http://www.mylavarapu.net/wp-login.phpindex.php
+/admin/Southidceditor/Dialog/about.htm 1 http://www.baidu.com
+/js/fckeditorcode_ie.js 1 http://www.baidu.com
+/kindeditor/kindeditor.js 1 http://www.baidu.com
+/wp-content/themes/responsive/core/js/responsive-scripts.js 1 -
+/wp-content/themes/responsive/core/css/style.css 1 -
+/admin/kindeditor/kindeditor-min.js 1 http://www.baidu.com
+/aboutus.aspx 5 -
+/admin/kindeditor/license.txt 1 http://www.baidu.com
+/ueditor/editor_config.js 1 http://www.baidu.com
+/administrator/components/com_maianmedia/utilities/charts/php-ofc-library/README.txt 1 -
+/ThinkPHP/README.txt 1 http://www.baidu.com
+/eWebEditor/Include/Editor.js 1 http://www.baidu.com
+/editor/Scripts/spell.js 1 http://www.baidu.com
+/cuteeditor_files/Help/default.htm 1 http://www.baidu.com
+/templates/system/css/general.css 1 -
+/i 1 http://www.baidu.com
+/Southidceditor/Dialog/about.htm 1 http://www.baidu.com
+/member/template/homepage.htm 1 http://www.baidu.com
+/wp-content/themes/images/shadow.png 2 http://www.mylavarapu.net/wp-content/themes/wp-opulus/style.css
+/Southidceditor/js/buttons.js 1 http://www.baidu.com
+/administrator/ 1 http://www.mylavarapu.net/administrator/
+/Include/Editor.js 1 http://www.baidu.com
+/components/com_portfolio/models/all.php 1 -
+/editor/Include/Editor.js 1 http://www.baidu.com
+/dharmasandehalu/nggallery/thumbnails/ 2 -
+/docs.css 1 http://www.baidu.com
+/Dialog/about.htm 1 http://www.baidu.com
+/administrator/components/com_jnewsletter/includes/openflashchart/php-ofc-library/README.txt 1 -
+/phpmyadmin/Documentation.txt 1 http://www.baidu.com
+/checkout/pay/ 4 -
+/plugins/content/jw_allvideos/includes/js/wmvplayer/wmvplayer.js 2 -
+/administrator/components/com_acymailing/inc/openflash/php-ofc-library/README.txt 1 -
+/store/ 1 http://www.mylavarapu.net/
+/cahce/index.html 1 -
+/2013/10/ 2 -
+/apple-touch-icon.png 3 -
+/plugin/kindeditor/kindeditor.js 1 http://www.baidu.com
+/wp-content/plugins/jetpack/modules/theme-tools/featured-content-admin.js 3 http://www.mylavarapu.net/wp-admin/customize.php
+/kindeditor/kindeditor-min.js 1 http://www.baidu.com
+/ThinkPHP/LICENSE.txt 1 http://www.baidu.com
+/wp-content/uploads/2014/01/Blurred_Images_IE9.jpg 4 -
+/templates/system/css/system.css 1 -
+/dharmasandehalu/ 5 -
+/wp-content/themes-ai1ec/vortex/js/event.min.js 1 -
+/shop/ 1 -
+/media/system/js/caption.js 1 -
+/phpmyadmin/README 1 http://www.baidu.com
+/sample-page/ 5 http://www.mylavarapu.net/sample-page/
+/ckeditor/ckeditor.js 1 http://www.baidu.com
+/.txt 1 http://www.baidu.com
+/kindeditor/license.txt 1 http://www.baidu.com
+/cache/index.html 2 -
+/wp-content/plugins/jetpack/modules/sharedaddy/'+b+' 1 -
+/my-account/ 2 -
+/phpmyadmin/ChangeLog 1 http://www.baidu.com
+/editor/Help/default.htm 1 http://www.baidu.com
+/checkout/ 1 -
+/cart/ 3 -
+/cuteeditor_files/Scripts/spell.js 1 http://www.baidu.com
+/dharmasandehalu/nggallery/slideshow/ 2 -
+/wp-content/uploads/2014/01/Blurred_Images_Firefox.jpg 4 -
+/admin/template/article_more/config.htm 1 http://www.baidu.com
+/wp-content/themes-ai1ec/vortex/css/event.css 1 -
+/administrator/components/com_jnews/includes/openflashchart/php-ofc-library/README.txt 1 -
+/templates/themza_j15_74/css/green.css 1 -
+/wp-content/plugins/contact-form-7/includes/css/styles.css 1 -
+/plugin/kindeditor/license.txt 1 http://www.baidu.com
+/hello-world/ 4 -
+/apple-touch-icon-precomposed.png 28 -
+/sitemap.aspx 1 -
+/templates/themza_j15_74/css/template.css 2 http://mylavarapu.net/index.php
+/FCK/editor/js/fckeditorcode_ie.js 1 http://www.baidu.com
+/lionsky_client/WebHtmlEditor/1_7_2006_1020/Theme/Office_Tinge/WebHtmlEditor.css 1 http://www.baidu.com
+/administrator/components/com_civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/README.txt 1 -
+/wp-content/themes/wp-opulus/js/jquery.nivo.slider.pack.js 66 http://www.mylavarapu.net/
+/wp-content/plugins/jetpack/modules/sharedaddy/'+c+' 1 -
+/ChangeLog 1 http://www.baidu.com
+/default.aspx 3 -
+/my-account/view-order/ 1 -
+/wp-content/plugins/alligator-popup/js/popup.js 1 -
+/fckeditor.js 1 http://www.baidu.com
+/administrator/components/com_jinc/classes/graphics/php-ofc-library/README.txt 1 -
+/contactus.aspx 4 -
+/templates/default/dnt.css 1 http://www.baidu.com
+/media/system/js/mootools.js 1 -
+/ThinkPHP/Extend/README.txt 1 http://www.baidu.com
+/README 1 http://www.baidu.com
+/fckeditor/editor/js/fckeditorcode_ie.js 1 http://www.baidu.com
+/home/ 2 -
+/editor/js/fckeditorcode_ie.js 1 http://www.baidu.com
+/admin/help/online_help_1.htm 1 http://www.baidu.com
+/phpmyadmin/docs.css 1 http://www.baidu.com
+/checkout/order-received/ 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 185
+192.185.35.3 1193 1193 1 20140131235825
+59.92.149.248 692 4769 14760091 20140107160037
+59.92.157.74 567 3947 13594629 20140116144240
+59.92.183.212 510 5251 18048345 20140109120630
+59.92.146.130 473 4185 7823592 20140119211326
+59.92.184.242 424 758 3098518 20140106120350
+59.92.194.198 391 1238 8451961 20140106010844
+59.92.166.208 321 1326 3383578 20140119091248
+59.92.142.172 299 2602 10316240 20140108151927
+59.92.147.121 291 1767 5307335 20140126055028
+91.200.14.72 285 285 2072048 20140128233621
+59.92.130.220 262 2146 11011041 20140126020553
+59.92.130.127 238 2325 6486918 20140131131946
+59.92.175.86 234 1543 5555800 20140117135920
+46.201.246.229 227 227 1645095 20140123205605
+59.92.198.238 194 1257 5576095 20140126203954
+59.92.155.29 186 1558 5506971 20140108115145
+31.221.71.132 137 137 1001389 20140125183508
+59.92.139.249 103 1395 4093231 20140119103252
+184.22.136.130 89 89 643811 20140129040628
+194.105.205.29 82 82 593352 20140125160030
+59.92.140.254 54 453 1749213 20140116223930
+59.93.107.83 51 353 3829544 20140131120213
+59.92.142.158 51 433 1338845 20140122123408
+49.205.103.223 50 405 3945581 20140129095644
+59.92.135.98 38 38 1387 20140106132151
+69.58.178.56 18 18 367455 20140116154522
+122.172.31.210 3 37 717664 20140104065113
+163.231.6.88 4 8 194320 20140124044559
+192.237.216.89 2 2 65354 20140105170639
+85.214.41.10 1 1 41540 20140124044415
+173.252.73.113 1 1 28453 20140109084150
+38.99.82.209 8 24 243926 20140112235410
+70.39.246.37 5 5 50034 20140119042619
+117.198.162.192 0 1 49380 
+65.55.213.37 2 31 590089 20140106080553
+188.138.220.213 17 17 534905 20140113050818
+216.38.216.101 3 19 417384 20140106060355
+59.92.183.169 1 2 48 20140115024555
+208.80.194.127 1 36 668337 20140119103734
+76.97.168.134 0 2 75491 
+122.167.217.69 5 82 915993 20140128235935
+98.202.153.251 7 51 946757 20140108224517
+103.9.147.67 1 1 40564 20140109114940
+117.193.221.0 5 49 920272 20140129044316
+178.137.134.224 1 1 6459 20140122233448
+74.52.220.2 16 16 622586 20140131023920
+117.197.219.167 3 47 834442 20140122234229
+142.245.59.15 5 52 904303 20140114162720
+176.193.87.56 2 42 715627 20140121001122
+213.122.181.2 1 1 40158 20140109111235
+82.71.228.44 10 10 72518 20140130003253
+41.224.255.37 1 1 40564 20140109114319
+94.178.146.158 1 1 41504 20140122121246
+59.174.51.208 1 1 41133 20140117185202
+115.242.10.156 17 61 1144918 20140130132430
+203.119.8.233 1 1 39329 20140116165501
+131.107.192.239 12 58 1142495 20140117130712
+178.175.103.74 1 1 40564 20140109114509
+38.99.82.227 15 43 493492 20140113134843
+38.99.82.210 14 46 405668 20140113113929
+115.164.62.89 0 1 49380 
+175.101.63.122 10 57 1081710 20140130215732
+49.204.122.157 3 28 375838 20140127031502
+59.92.182.164 18 18 705 20140106012545
+117.221.72.98 6 50 949140 20140131080721
+173.252.112.118 1 1 28453 20140109120444
+202.46.48.127 0 1 9260 
+93.81.19.101 2 42 715466 20140120204204
+192.241.146.199 1 1 32601 20140107091823
+117.235.226.254 0 2 156682 
+199.19.249.196 2 2 34549 20140117035907
+171.4.114.220 0 1 49380 
+192.96.204.42 11 58 1065070 20140129032909
+5.149.253.45 2 2 79973 20140112155719
+49.204.7.99 1 1 32602 20140103230055
+49.206.33.176 6 46 861820 20140130083557
+59.92.166.57 23 61 387169 20140112142146
+59.92.204.93 37 248 2055878 20140112091708
+117.197.227.231 2 40 656965 20140120224056
+81.16.117.222 3 40 672628 20140109084141
+59.92.150.65 11 26 6535 20140115234713
+88.208.252.218 1 1 6193 20140102094510
+183.60.244.30 2 2 82266 20140118024314
+163.231.6.91 3 45 828748 20140124032449
+203.91.193.7 16 63 1081325 20140129072632
+206.225.83.83 1 1 32602 20140101223804
+84.64.60.13 30 79 1808682 20140130081540
+128.69.101.236 2 40 666695 20140115145258
+84.64.63.90 14 59 1137554 20140109082735
+162.243.199.90 1 1 41540 20140121032853
+8.28.16.254 3 3 100858 20140114162719
+115.242.2.79 6 47 862178 20140127073910
+162.243.146.199 1 1 32602 20140101055530
+66.249.80.36 0 2 132057 
+106.220.101.194 2 26 335731 20140119212059
+208.90.57.196 2 2 69499 20140108200647
+198.101.238.203 3 3 98105 20140107025313
+49.204.129.64 21 88 1733198 20140122105712
+117.216.215.40 5 53 245642 20140124013147
+37.187.7.222 2 2 71415 20140121131638
+59.92.148.107 3 44 102335 20140124123923
+163.231.6.70 4 46 373843 20140130023425
+59.92.134.61 32 213 381544 20140121124231
+106.220.24.249 7 97 608680 20140118045259
+54.237.90.77 2 2 0 20140109130113
+162.243.107.73 1 1 33221 20140108121424
+208.80.194.121 1 5 53708 20140123182131
+122.169.130.30 3 39 804539 20140101035347
+38.99.82.203 7 23 202834 20140113035741
+117.211.82.70 7 83 946929 20140120231939
+162.243.45.13 3 3 120880 20140109120427
+117.221.193.72 4 50 903432 20140126045220
+122.167.121.159 1 1 1 20140119223802
+14.96.44.94 3 44 765903 20140121112910
+117.235.110.9 12 124 1125343 20140124130852
+122.175.28.90 7 45 935079 20140103130930
+122.248.161.142 4 44 789919 20140117040029
+202.63.105.226 3 41 688331 20140127015415
+162.243.236.80 1 1 40564 20140115055358
+71.177.184.59 1 1 35405 20140109035448
+61.3.0.226 0 5 171116 
+2.94.72.93 1 2 44430 20140109120442
+50.57.190.90 1 1 41540 20140121055419
+95.27.231.230 2 42 715845 20140122031841
+54.193.27.68 2 2 58855 20140125102325
+199.30.24.125 2 44 802752 20140111104534
+49.205.65.190 0 1 49380 
+5.248.194.151 1 1 40564 20140109125416
+162.243.101.223 1 1 32602 20140104061745
+117.203.57.212 10 73 1687026 20140105054810
+59.92.129.87 16 16 584 20140106233532
+59.92.161.226 7 7 623 20140110023347
+59.145.145.54 4 42 858951 20140101031320
+117.204.60.40 8 54 1055193 20140103084939
+71.231.177.63 9 100 1694576 20140105235922
+122.167.217.246 4 51 875463 20140117072135
+208.80.194.26 1 1 39356 20140117000928
+117.195.237.75 13 61 1260895 20140127040904
+117.200.22.89 0 2 232007 
+122.169.133.168 3 39 804706 20140106051412
+198.199.79.217 1 1 40564 20140110192125
+59.92.206.106 5 35 577624 20140127114634
+14.139.64.10 8 52 942840 20140120024722
+49.204.191.182 13 85 1244518 20140121075549
+66.249.84.35 5 8 304497 20140125114826
+103.246.38.196 1 1 42732 20140129072612
+59.92.192.241 4 4 92 20140114051005
+173.252.73.114 1 1 28518 20140109084151
+208.80.194.29 1 1 40564 20140109151140
+199.91.71.254 1 1 40564 20140114191513
+122.166.153.65 4 49 905979 20140129074849
+117.197.215.171 0 2 75491 
+59.92.196.169 18 114 228792 20140109015142
+91.213.187.144 1 1 41540 20140124040902
+50.57.68.14 1 1 41540 20140121055413
+31.163.205.144 1 1 40528 20140110144901
+89.175.172.115 1 1 6008 20140106163011
+124.123.42.205 42 472 3254068 20140124023731
+202.46.48.78 0 1 9260 
+59.92.220.237 18 145 2054461 20140112073419
+66.249.84.107 3 6 206754 20140112085442
+202.156.9.245 2 41 684879 20140131113205
+66.249.81.81 1 1 42732 20140130091902
+38.99.82.243 1 1 40564 20140112183810
+46.4.48.68 1 1 41540 20140122110329
+67.195.51.209 1 1 2771 20140125152933
+38.99.82.191 28 74 892683 20140113084257
+130.14.254.26 13 191 2674861 20140123162308
+103.16.68.7 7 54 960515 20140121103342
+208.80.194.125 1 2 77028 20140109163720
+109.234.117.246 7 7 50713 20140131175436
+66.249.84.38 1 1 42732 20140130215316
+62.219.8.235 13 29 614204 20140130154843
+59.93.114.30 10 55 1043230 20140111031145
+122.166.150.29 3 33 529691 20140128042639
+66.249.83.218 1 1 41540 20140123222911
+122.167.246.236 22 125 2148332 20140114074045
+178.137.28.188 1 1 6475 20140127113713
+59.92.200.20 34 203 597996 20140130221917
+183.83.175.161 6 51 932558 20140115204028
+173.252.73.119 2 2 56906 20140109084217
+162.243.100.220 1 1 32602 20140102042031
+46.118.155.28 1 1 6008 20140113105904
+50.125.2.89 5 47 881492 20140114015810
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20140101 37 167 2933201 17
+20140102 18 18 38795 8
+20140103 31 115 2055476 14
+20140104 24 58 750266 10
+20140105 370 1330 11168332 21
+20140106 608 1055 5673989 17
+20140107 738 4816 14940026 11
+20140108 523 4244 17029370 15
+20140109 616 5583 21760502 36
+20140110 29 31 104409 12
+20140111 38 187 3624732 13
+20140112 142 577 5782013 23
+20140113 89 313 3602425 20
+20140114 44 161 2306151 15
+20140115 40 140 1736344 16
+20140116 670 4449 15753362 14
+20140117 282 1724 8559371 21
+20140118 23 113 732079 10
+20140119 998 7075 16705441 16
+20140120 101 666 5653986 19
+20140121 195 883 4603273 17
+20140122 182 361 4412693 15
+20140123 213 296 2636177 13
+20140124 105 390 3449256 17
+20140125 497 2200 13394058 21
+20140126 601 3692 13996548 9
+20140127 102 285 4050847 15
+20140128 469 576 3930805 8
+20140129 81 247 3687779 22
+20140130 188 717 7603760 20
+20140131 309 2663 11189505 20
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 112
+5mn-15mn 33
+30s-2mn 29
+2mn-5mn 13
+0s-30s 241
+15mn-30mn 27
+30mn-1h 50
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 74
+/wp-admin/admin-ajax.php 3543 1090374 26 38
+/wp-cron.php 1192 0 220 220
+/wp-login.php 722 5204497 54 55
+/ 636 14463694 144 99
+/store/ 443 13329501 15 37
+/wp-admin/admin.php 212 4607440 0 0
+/wp-admin/post.php 169 18562659 0 0
+/mobile-users/ 151 4941477 3 1
+http://MYLAVARAPU.net/wp-login.php/ 145 1060973 2 2
+/wp-admin/load-scripts.php 137 6555433 0 0
+/about/ 87 2924359 11 2
+/wp-admin/edit.php 82 5591325 0 0
+/books/ 76 2374971 7 6
+/wp-admin/plugins.php 67 4158548 0 0
+/contact-us/ 63 1849174 2 4
+/wp-admin/themes.php 61 16116167 0 0
+/consultation/ 54 1593383 1 0
+/videos/ 51 1558236 4 10
+/wp-admin/plugin-install.php 34 1376878 1 0
+/wp-admin/load-styles.php 29 2033514 0 0
+/feed/ 27 66983 4 6
+/lalita-sahasranamam-by-mylavarapu-srinivasa-rao/ 22 725227 1 2
+/wp-admin/nav-menus.php 20 2059036 0 0
+/wp-content/themes/wp-opulus/nimbus/fonts/BEBAS___-webfont.eot 20 222530 0 3
+/xmlrpc.php 19 7107 3 2
+/wp-admin/media-new.php 3 107657 0 0
+/wp-admin/post-new.php 2 206256 0 0
+/calendar/ 18 547978 1 3
+/wp-admin/admin-post.php 1 3067 0 0
+/wp-admin/index.php 14 674558 1 0
+/wp-admin/users.php 2 82336 0 0
+/wp-content/plugins/jetpack/_inc/jetpack-icons/font/jetpack.ttf 6 4704 0 0
+/2014/01/09/ 3 84410 0 1
+/wp-admin/async-upload.php 10 4018 0 0
+/sitemap/ 15 490870 0 0
+/wp-admin/ 12 570073 0 0
+/wp-admin/user-new.php 2 70230 0 0
+/nextgen-image/1/0x250/watermark/6276fce009b52be91edc817726d6ddd1 1 37531 0 0
+/photocrati_ajax 6 1621 0 0
+/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven/inc/fonts/genericons-regular-webfont.woff 10 69408 0 3
+/wp-admin/widgets.php 10 2652674 0 0
+/wp-admin/about.php 1 43895 0 0
+/wp-admin/upgrade.php 1 1 0 0
+/inode_1.php 1 134 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 6 697590 0 0
+/calendar/feed/ 1 708 0 1
+/wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.woff 2 22852 0 0
+/dharmasandehalu/nggallery/thumbnails/ 2 82184 0 0
+/wp-admin/upload.php 17 1076086 0 0
+/wp-admin/customize.php 9 237092 0 0
+/test-post/ 15 524410 0 0
+/inode.php 2 292 1 1
+/store/feed/ 9 6302 1 2
+/wp-content/plugins/all-in-one-event-calendar/app/view/admin/font/timely-icons.woff 1 29904 0 0
+/wp-content/themes/wp-opulus/nimbus/fonts/BEBAS___-webfont.ttf 1 20048 0 1
+/wp-admin/plugin-editor.php 10 555841 0 0
+/wp-content/themes-ai1ec/vortex/font/fontawesome-webfont.woff 1 29380 0 0
+/dharmasandehalu/ 8 292961 0 0
+/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven/inc/fonts/genericons-regular-webfont.eot 1 7475 0 0
+/test-post/feed/ 7 5334 1 0
+/wp-includes/wlwmanifest.xml 9 9405 2 1
+/wp-admin/edit-tags.php 4 156505 0 0
+/wp-admin/media-upload.php 2 44282 0 0
+/wp-content/themes/wp-opulus/nimbus/fonts/BEBAS___-webfont.woff 15 124032 0 4
+/author/himamsu/ 5 145621 0 1
+/wp-admin/profile.php 10 536106 0 0
+/wp-admin/update.php 19 440433 0 0
+/wp-content/plugins/all-in-one-event-calendar/app/view/admin/font/fontawesome-webfont.woff 1 29380 0 0
+/category/uncategorized/ 3 83497 0 0
+/wp-admin/edit-comments.php 2 90352 0 0
+/category/lalita-sahasranamam/ 6 170708 0 0
+/sitemap/feed/ 1 706 0 0
+/wp-admin/options-general.php 4 227841 0 0
+/wp-admin/update-core.php 10 331746 0 0
+END_SIDER

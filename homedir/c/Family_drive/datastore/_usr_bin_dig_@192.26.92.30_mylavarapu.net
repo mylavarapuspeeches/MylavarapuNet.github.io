@@ -1,0 +1,25 @@
+
+; <<>> DiG 9.8.2rc1-RedHat-9.8.2-0.17.rc1.el6_4.6 <<>> @192.26.92.30 mylavarapu.net
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1204
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 2, ADDITIONAL: 2
+;; WARNING: recursion requested but not available
+
+;; QUESTION SECTION:
+;mylavarapu.net.			IN	A
+
+;; AUTHORITY SECTION:
+mylavarapu.net.		172800	IN	NS	ns8165.hostgator.com.
+mylavarapu.net.		172800	IN	NS	ns8166.hostgator.com.
+
+;; ADDITIONAL SECTION:
+ns8165.hostgator.com.	172800	IN	A	192.185.35.3
+ns8166.hostgator.com.	172800	IN	A	192.185.35.26
+
+;; Query time: 48 msec
+;; SERVER: 192.26.92.30#53(192.26.92.30)
+;; WHEN: Sun Jan 19 04:41:57 2014
+;; MSG SIZE  rcvd: 119
+

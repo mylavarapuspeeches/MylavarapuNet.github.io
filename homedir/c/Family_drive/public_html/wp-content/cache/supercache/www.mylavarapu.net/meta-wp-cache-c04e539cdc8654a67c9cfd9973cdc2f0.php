@@ -1,0 +1,1 @@
+<?php die(); ?>{"headers":{"Vary":"Vary: Accept-Encoding, Cookie","Content-Type":"Content-Type: text\/html; charset=UTF-8","Link":"Link: <https:\/\/www.mylavarapu.net\/wp-json\/>; rel=\"https:\/\/api.w.org\/\"","Last-Modified":"Last-Modified: Wed, 17 Feb 2021 07:59:41 GMT"},"uri":"www.mylavarapu.net\/?s=","blog_id":1,"post":0,"key":"www.mylavarapu.net443\/?s="}

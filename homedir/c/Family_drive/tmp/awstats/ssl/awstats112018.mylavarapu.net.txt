@@ -1,0 +1,334 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201811 will be lost/reset.
+# Last config file used to build this data file was /home1/himamsu/tmp/awstats/ssl/awstats.mylavarapu.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2693                
+POS_VISITOR 7463                
+POS_DAY 8647                
+POS_DOMAIN 3464                
+POS_LOGIN 3740                
+POS_ROBOT 3895                
+POS_WORMS 4207                
+POS_EMAILSENDER 4338                
+POS_EMAILRECEIVER 4481                
+POS_SESSION 9388                
+POS_SIDER 9596                
+POS_FILETYPES 4616                
+POS_DOWNLOADS 4775                
+POS_OS 4823                
+POS_BROWSER 4940                
+POS_SCREENSIZE 5135                
+POS_UNKNOWNREFERER 5209                
+POS_UNKNOWNREFERERBROWSER 5950                
+POS_ORIGIN 6258                
+POS_SEREFERRALS 6395                
+POS_PAGEREFS 6539                
+POS_SEARCHWORDS 6687                
+POS_KEYWORDS 6839                
+POS_MISC 2357                
+POS_ERRORS 6898                
+POS_CLUSTER 3596                
+POS_SIDER_404 7054                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20181201022613 12 2267 16122503770901
+FirstTime 20181101003218
+LastTime 20181130220002
+LastUpdate 20181201065431 12 0 11 0 0
+TotalVisits 211                 
+TotalUnique 28                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 28                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 16 16 295353 4 8 94432
+1 16 16 247428 6 22 421570
+2 8 46 1108985 0 6 63030
+3 14 90 2217970 1 7 63030
+4 10 48 1047128 6 30 500259
+5 18 89 2128672 7 13 248325
+6 21 59 1356413 8 14 508129
+7 14 14 123714 3 14 157737
+8 9 9 123714 4 7 62512
+9 8 8 61857 5 11 33511
+10 18 94 2217970 4 14 224074
+11 8 8 139487 2 4 92838
+12 13 13 66495 5 12 125423
+13 18 56 1296102 9 31 992924
+14 11 11 0 3 16 247575
+15 17 17 123714 8 25 535553
+16 24 24 123715 19 35 1104302
+17 10 48 1108985 4 7 92704
+18 13 51 1170842 3 19 273683
+19 7 45 1170842 2 4 65005
+20 23 56 1159174 8 18 190274
+21 24 62 1171286 13 21 344041
+22 15 15 61857 2 15 153886
+23 18 18 432999 4 8 32771
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+us 304 370 3269211
+de 45 539 15499920
+nl 2 2 123714
+ca 2 2 61857
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+Googlebot/ 188 4904442 20181130215956 45
+Googlebot\-Image/ 4 0 20181116172007 0
+bot[\s_+:,\.\;\/\\-] 2 62237 20181115104901 1
+Google[\x20]Web[\x20]Preview 1 63123 20181105201952 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+css 210 8645565 0 0
+jpg 78 2121353 0 0
+js 272 3709837 0 0
+html 75 4471319 0 0
+php 278 6628 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+Unknown 315 315
+linux 580 20
+macosx12 9 9
+win10 9 9
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 7
+mozilla 100 34
+chrome60.0.3112.50 5 5
+firefox50.0 507 13
+chrome61.0.3163.100 9 9
+Unknown 283 283
+chrome66.0.3359.117 8 8
+chrome58.0.3029.110 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20181128162356
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20181107162845
+WordPress/4.9.8;_https://www.mylavarapu.net 20181130220002
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12ca;__http://researchscan.comsys.rwth-aachen.de) 20181129013914
+HoneyBee_6.1_x64 20181122000712
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20181129020707
+python-requests/2.11.0 20181124002447
+WordPress.com;_https://www.mylavarapu.net 20181110211932
+Jetpack_by_WordPress.com 20181114133504
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+HoneyBee_6.1_x64 20181122000712
+Jetpack_by_WordPress.com 20181114133504
+WordPress.com;_https://www.mylavarapu.net 20181110211932
+WordPress/4.9.8;_https://www.mylavarapu.net 20181130220002
+python-requests/2.11.0 20181124002447
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 66 560
+From1 0 0
+From2 0 0
+From3 0 0
+From4 287 353
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+406 5 1375
+400 2 104
+301 97 0
+403 16 8150
+404 41 1270814
+405 3 126
+401 2 317217
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 3
+/ 4 -
+/ads.txt 36 -
+/adfs/ls/idpinitiatedsignon 1 https://mylavarapu.net/adfs/ls/idpinitiatedsignon
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 28
+192.185.35.30 273 273 0 20181130220002
+137.226.113.28 12 12 742284 20181129020707
+137.226.113.26 10 10 526402 20181128175338
+137.226.113.27 9 9 556713 20181128181749
+13.57.233.99 9 9 556713 20181128062919
+137.226.113.34 8 312 8377024 20181129054324
+18.191.147.210 3 36 1019687 20181117052638
+137.226.113.21 3 117 3141384 20181128180606
+192.0.91.201 2 2 62301 20181110211935
+52.44.28.74 2 2 109782 20181124002447
+18.188.143.41 2 35 957830 20181109201318
+184.175.34.90 2 2 61857 20181122000712
+137.226.113.41 2 78 2094256 20181119213114
+13.58.19.77 2 2 123714 20181130134514
+192.0.87.124 1 1 1546 20181113123646
+139.162.152.37 1 1 61857 20181109204052
+198.143.158.85 1 1 61857 20181127124508
+188.68.48.243 1 1 61857 20181109232357
+45.56.72.158 1 1 61857 20181109224803
+45.33.20.6 1 1 61857 20181109235442
+192.0.87.51 1 1 1546 20181112123040
+192.0.85.161 1 1 1546 20181111121505
+192.0.87.140 1 1 1546 20181114133504
+107.6.183.165 1 1 61857 20181109000833
+173.255.201.222 1 1 61857 20181109193126
+165.227.180.135 1 1 61858 20181107162845
+139.162.21.219 1 1 61857 20181109214528
+45.79.4.102 1 1 61857 20181109182718
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20181101 17 93 2233743 10
+20181102 13 13 185571 10
+20181103 8 8 123714 5
+20181104 5 5 0 2
+20181105 15 15 0 6
+20181106 10 10 123714 8
+20181107 11 49 1170843 9
+20181108 9 47 1047128 6
+20181109 39 148 3670656 22
+20181110 15 15 124158 7
+20181111 14 14 63403 5
+20181112 11 11 125260 8
+20181113 13 51 1110531 8
+20181114 16 54 1296102 10
+20181115 16 54 1232699 12
+20181116 7 7 0 4
+20181117 8 41 1019687 4
+20181118 8 8 61857 5
+20181119 12 50 1186615 8
+20181120 5 5 0 4
+20181121 8 8 123714 4
+20181122 18 56 1232699 11
+20181123 5 5 0 2
+20181124 10 10 109782 4
+20181125 8 8 61857 4
+20181126 7 7 0 5
+20181127 8 8 61857 4
+20181128 13 51 1294556 10
+20181129 12 50 1170842 8
+20181130 12 12 123714 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 14
+1h+ 3
+2mn-5mn 3
+15mn-30mn 7
+5mn-15mn 1
+0s-30s 180
+30s-2mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/wp-cron.php 273 0 139 139
+/ 74 4423337 67 67
+/xmlrpc.php 5 6628 4 5
+/anusamputi-vidhaanam/ 1 47982 1 0
+END_SIDER

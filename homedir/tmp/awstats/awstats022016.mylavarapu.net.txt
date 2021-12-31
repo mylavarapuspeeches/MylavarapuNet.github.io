@@ -1,0 +1,1401 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201602 will be lost/reset.
+# Last config file used to build this data file was /home1/himamsu/tmp/awstats/awstats.mylavarapu.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2695                
+POS_VISITOR 22818               
+POS_DAY 46293               
+POS_DOMAIN 3664                
+POS_LOGIN 4398                
+POS_ROBOT 4553                
+POS_WORMS 5192                
+POS_EMAILSENDER 5323                
+POS_EMAILRECEIVER 5466                
+POS_SESSION 47187               
+POS_SIDER 47401               
+POS_FILETYPES 5601                
+POS_DOWNLOADS 5917                
+POS_OS 6050                
+POS_BROWSER 6480                
+POS_SCREENSIZE 9721                
+POS_UNKNOWNREFERER 9795                
+POS_UNKNOWNREFERERBROWSER 11139               
+POS_ORIGIN 11916               
+POS_SEREFERRALS 12066               
+POS_PAGEREFS 12266               
+POS_SEARCHWORDS 12843               
+POS_KEYWORDS 13730               
+POS_MISC 2357                
+POS_ERRORS 14264               
+POS_CLUSTER 4254                
+POS_SIDER_404 14447               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160301000448 648 164688 9781626500378
+FirstTime 20160201000408
+LastTime 20160229235855
+LastUpdate 20160301074314 648 0 647 0 0
+TotalVisits 1052                
+TotalUnique 532                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 589                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 341 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 281 1383 33180297 459 546 2706920
+1 312 980 25960137 275 465 2767645
+2 221 909 21242730 133 175 2857447
+3 210 1139 24310110 484 585 4167973
+4 161 794 22771851 81 163 3265911
+5 310 1107 28675651 474 613 3858907
+6 246 1069 29169371 98 220 3486948
+7 187 702 16907412 87 133 2908249
+8 240 882 24564182 62 99 1760927
+9 314 1170 29995317 93 179 3489531
+10 285 989 27079471 75 143 2050868
+11 282 1025 27580887 112 206 4168403
+12 260 994 23864838 93 170 2995026
+13 156 524 13295378 474 527 2227160
+14 139 702 14211786 65 88 1463137
+15 200 489 12239061 82 106 1963314
+16 101 277 6436344 115 150 2856595
+17 98 334 6522003 275 342 3713991
+18 123 364 8065245 79 109 2021192
+19 98 457 13409984 71 100 1636363
+20 194 743 20021888 179 340 4635279
+21 130 473 11701267 64 130 2471835
+22 213 913 19497346 116 210 5365820
+23 240 1325 35855170 135 230 4533378
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 32
+us 2314 7548 153868220
+in 2117 10137 282748783
+fr 106 148 4248920
+de 91 91 3889064
+mx 71 143 2856287
+ca 54 243 7189893
+au 34 211 6203137
+ua 30 30 412485
+gb 27 117 2100962
+sg 26 97 2817672
+ru 22 70 2703576
+br 16 431 13313600
+cn 15 15 290482
+hk 13 49 1459990
+pl 11 11 104892
+ro 9 9 124763
+nl 9 9 238816
+at 5 5 114184
+jp 4 4 166995
+eu 4 40 1259064
+kw 4 42 1225490
+qa 4 43 1327023
+it 3 111 3388818
+kr 2 2 42694
+vn 2 2 94976
+es 1 31 1014118
+ma 1 27 927764
+id 1 37 1129606
+pr 1 37 1129606
+lr 1 1 47488
+gi 1 1 49933
+se 2 2 68425
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+googlebot 1392 39189084 20160229235854 40
+bot[\s_+:,\.\;\/\\-] 532 14736991 20160229193704 76
+googlebot\-image 170 129771 20160229233906 0
+spider 100 3461060 20160229172847 5
+bingpreview 74 2179499 20160225233103 0
+slurp 50 1002645 20160228215215 21
+php 42 2179404 20160229061543 0
+crawl 42 1429956 20160226133524 3
+unknown 34 9452 20160228230815 34
+robot 25 495772 20160229121910 11
+no_user_agent 15 439639 20160226164622 0
+[\s_+:,\.\;\/\\-]bot 7 184676 20160217034658 1
+netcraft 1 47488 20160207172933 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+eot 21 477236 0 0
+css 5573 254187046 0 0
+png 1258 4775655 0 0
+ttf 2 35704 0 0
+txt 1 73755 0 0
+woff 57 422416 0 0
+php 2055 3404257 0 0
+html 2862 98745288 0 0
+xml 4 340 0 0
+js 6528 91371504 0 0
+jpg 1246 39354993 0 0
+gif 80 310752 0 0
+svg 57 3398780 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/sitemap.xml.gz 7 0 4760
+/wp-content/plugins/nextgen-gallery/changelog.txt 1 0 73755
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 25
+blackberry 1 1
+linuxandroid 4709 938
+macosx6 4 4
+winxp 1045 345
+winlong 392 124
+winphone 179 44
+ios_iphone 567 94
+win2000 1 1
+winunknown 15 15
+win2003 33 23
+macosx9 6 6
+win8 345 81
+ios_ipad 1211 190
+macosx7 3 3
+unix 247 45
+java 434 8
+winnt 1473 342
+macosx5 3 3
+linuxubuntu 3 2
+linux 279 61
+win7 5934 1215
+macosx 377 60
+win8.1 959 156
+Unknown 1515 1231
+macosx8 9 9
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 156
+firefox28.0 1 1
+chrome45.0.2454.85 38 2
+chrome41.0.2272.96 35 2
+firefox44.0 538 100
+chrome31.0.1650.57 54 54
+chrome48.5.2564.88 40 3
+chrome46.0.2480.0 79 31
+safari5.0.2 3 3
+msie8.0 99 11
+chrome11.0.696.34 4 4
+msie7.0 167 106
+chrome27.0.1453.93 7 7
+chrome41.0.2272.89 76 4
+chrome33.0.1750.5 32 1
+chrome1752.0.1752.143 1 1
+chrome39.0.2171.96 3 3
+firefox40.0 101 5
+firefox38.0 57 6
+chrome32.0.1700.107 74 2
+chrome36.0.1985.143 495 15
+firefox33.0 2 2
+chrome33.0.1750.117 2 2
+chrome26.0.1410.64 2 2
+arora 1 1
+firefox14.0.1 15 15
+chrome46.0.2490.86 54 16
+opera8.50 1 1
+chrome41.0.2228.0 4 4
+firefox36.0 2 2
+safari 660 120
+safari9.0.2 32 1
+safari7.0 1 1
+opera35.0.2066.68 60 9
+chrome24.0.1309.0 1 1
+chrome38.0.1025.166 923 94
+android 748 91
+chrome43.0.2357.124 1 1
+chrome48.0.2564.116 1842 357
+strata 40 40
+chrome22.0.1229.79 17 17
+chrome23.0.1271.6 1 1
+chrome50.0.2652.2 86 12
+chrome36.0.1985.125 8 8
+chrome1573.0.1573.133 1 1
+iphone 24 2
+chrome39.0.0.0 18 1
+chrome33.0.0.0 26 3
+chrome43.0.2357.81 43 6
+chrome14.0.825.0 1 1
+chrome26.0.1410.65 2 2
+chrome1581.0.1581.133 1 1
+msie9.0 39 8
+chrome26.0.1410.43 2 2
+opera11.01 1 1
+opera34.0.2036.41 38 2
+firefox32.0 1 1
+blackberry 1 1
+safari9.0.3 37 1
+chrome17.0.963.56 1 0
+chrome14.0.808.0 1 1
+chrome28.0.1500.71 1 1
+firefox30.0 1 1
+chrome38.0.2125.102 29 2
+nokia 466 11
+firefox39.0 166 11
+chrome35.0.1916.153 1 1
+safari4.0.4 1 1
+safari6.0.2 1 1
+chrome39.0.2171.99 1 1
+chrome43.0.2357.134 1 1
+opera11.62 2 2
+chrome48.0.2564.106 23 2
+chrome23.0.1271.97 3 3
+msie6.0 13 13
+chrome44.0.2403.125 1 1
+chrome27.0.1453.94 1 1
+chrome40.0.2214.115 1 1
+chrome40.0.2214.91 41 4
+firefox26.0 1 1
+chrome5.0.375.99 1 1
+firefox4.0 2 2
+chrome39.0.2171.95 207 86
+firefox18.0 2 2
+safari5.0.6 2 2
+firefox34.0 2 2
+chrome48.0.2564.92 227 40
+chrome43.0.2357.121 34 10
+chrome1857.0.1857.149 1 1
+chrome42.0.2311.90 39 3
+chrome24.0.1290.1 46 46
+firefox43.0 342 22
+safari5.1.8 3 3
+chrome27.0.1453.90 4 4
+chrome37.0.2062.120 4 4
+firefox41.0 15 15
+chrome5.0.307.11 2 2
+opera12.16 76 4
+firefox42.0 1 1
+chrome34.0.1847.131 1 1
+lg\- 183 11
+firefox21.0 17 17
+firefox29.0 8 8
+safari6.0 3 3
+firefox12.0 5 5
+firefox45.0 72 3
+chrome46.0.2490.80 40 3
+chrome49.0.2623.23 40 4
+mozilla 51 23
+safari6.0.4 2 2
+chrome47.0.2526.106 41 4
+chrome42.0.2333.30 1 1
+chrome32.0.1700.76 29 1
+chrome42.0.2311.135 39 3
+chrome1826.0.1826.147 1 1
+chrome46.0.2486.0 125 13
+safari8.0.2 3 3
+chrome48.0.2564.103 1483 394
+chrome41.0.2220.0 2 2
+firefox3.6.3 1 1
+firefox19.0 1 1
+chrome44.0.2403.133 22 5
+chrome25.0.1364.169 1 1
+firefox15.0.1 2 2
+firefox35.0 5 5
+opera12.17 10 10
+firefox20.0 13 13
+chrome42.0.2311.111 51 5
+chrome28.0.1468.0 2 2
+firefox31.0 2 2
+chrome47.0.2526.111 444 118
+chrome48.0.2563.97 1 1
+firefox16.0 2 2
+safari8.0 38 2
+firefox27.0 1 1
+Unknown 1420 1170
+chrome47.0.2526.83 990 303
+firefox11.0 8 4
+chrome30.0.0.0 4 0
+firefox3.5.6 1 1
+firefox17.0 3 3
+chrome47.0.2526.100 111 31
+chrome49.0.2623.47 47 9
+chrome48.0.2564.95 1417 348
+chrome41.0.2272.118 1 1
+safari5.1.7 1 1
+msie11.0 367 92
+chrome36.0.1985.135 78 26
+chrome18.0.1025.133 1 1
+safari9.0 1054 158
+firefox1.0 1 1
+chrome45.0.2454.101 48 8
+chrome48.0.2564.109 1635 323
+msie10.0 107 21
+safari5.1 1 1
+firefox6.0 6 6
+chrome48.0.2564.97 1293 318
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 18
+Stratagems_Kumo 20160229113351
+Ruby 20160203163437
+Opera/9.80_(iOS;_Opera_Mini/7.0.73345/28.2555;_U;_ru)_Presto/2.10.229_Version/11.62 20160211150256
+WordPress/4.4.2;_http://www.mylavarapu.net 20160229235855
+Mozilla/5.0_(compatible;_Lipperhey-Kaus-Australis/5.0;__https://www.lipperhey.com/en/about/) 20160224183732
+WordPress.com; 20160225104640
+WordPress/4.4.1;_http://www.mylavarapu.net 20160202120146
+Mozilla/5.0_Firefox/35.0 20160220161304
+facebookexternalhit/1.1 20160218043236
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20160206140836
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_4.4.2;_en-US;_GT-N7100)_U2/1.0.0_UCBrowser/10.6.0.706_U2/1.0.0_Mobile 20160205122338
+Go_1.1_package_http 20160225224528
+Opera/9.80_(Android;_Opera_Mini/7.5.32193/37.7910;_U;_en)_Presto/2.12.423_Version/12.16 20160227015056
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_2.3.6;_en-US;_Lenovo_A269i)_U2/1.0.0_UCBrowser/10.6.0.706_U2/1.0.0_Mobile 20160226005601
+Mozilla/5.0_(compatible;_Genieo/1.0_http://www.genieo.com/webfilter.html) 20160225204131
+Jetpack_by_WordPress.com 20160224125959
+Opera/9.80_(Android;_Opera_Mini/7.5.33725/37.7910;_U;_en)_Presto/2.12.423_Version/12.16 20160225100128
+Opera/9.80_(Android;_Opera_Mini/14.0.2065/37.7751;_U;_en)_Presto/2.12.423_Version/12.16 20160203000555
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 11
+Apache-HttpClient/4.3.5_(java_1.5) 20160206063358
+facebookexternalhit/1.1 20160218043236
+Ruby 20160203163437
+WordPress/4.4.2;_http://www.mylavarapu.net 20160229235855
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_4.4.2;_en-US;_GT-N7100)_U2/1.0.0_UCBrowser/10.6.0.706_U2/1.0.0_Mobile 20160205122338
+Go_1.1_package_http 20160225224528
+UCWEB/2.0(Linux;_U;_Opera_Mini/7.1.32052/30.3697;_en-US;_XT1022_Build/KXC21.5-40)_U2/1.0.0_UCBrowser/10.7.0.636_Mobile 20160223234123
+WordPress.com; 20160225104640
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_2.3.6;_en-US;_Lenovo_A269i)_U2/1.0.0_UCBrowser/10.6.0.706_U2/1.0.0_Mobile 20160226005601
+Jetpack_by_WordPress.com 20160224125959
+WordPress/4.4.1;_http://www.mylavarapu.net 20160202120146
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1706 1801
+From1 2 2
+From2 622 933
+From3 65 119
+From4 2606 16889
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+google 611 901
+bing 6 27
+yandex 1 1
+sogou 1 1
+yahoo 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 14
+http://top1-seo-service.com/try.php 19 19
+http://googleweblight.com 15 69
+https://m.facebook.com 8 8
+https://www.facebook.com 6 6
+http://buttons-for-website.com 4 4
+http://m.facebook.com 3 3
+http://lm.facebook.com/lsr.php 2 2
+https://www.facebook.com 2 2
+http://pizza-imperia.com 1 1
+http://pizza-tycoon.com 1 1
+http://hvd-store.com 1 1
+https://te-in.facebook.com 1 1
+http://10.202.100.1/login 1 1
+http://burger-imperia.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 22
+mylavarapu+srinivasa+rao+address 9
+mylavarapu+srinivasa+rao 4
+maiavarapu+srinivasarao 4
+mylavarapu+srinivasa+rao+books 2
+mylavarapu+srinivasa+rao+website 2
+ma+vari+job+kosam 2
+sabaparavam+by+mailavarapu+srinivasarao 2
+buy+sr+lalitha+sahasranamam+by+mylavarapu+srinivasa+rao 2
+address+of+mylavarapu+sreenivasa+rao 2
+mylavarapu.net 1
+srilatha+sahasranamavali 1
+mailavarapu.srinivasa+rao 1
+mylavarapu+srinivasa+rao+wiki 1
+mylavarapu 1
+lalitha+sahasranama+bhashyam+in+telugu+by+mylavarapu 1
+lalitha+sahasranama+stotram+bhashyam+in+telugu+pdf 1
+lalitha+sahasranama+visistatha 1
+om+channel+aparthalu+anthararthalu+programe 1
+mylavarapu+srinivasarao 1
+get+sahasra+namam 1
+mylavarapu.srinivasa+rao 1
+lalitha+sahasranama+parayanam+procedure 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 44
+mylavarapu 25
+rao 24
+srinivasa 20
+address 11
+srinivasarao 7
+lalitha 6
+by 5
+maiavarapu 4
+sahasranama 4
+bhashyam 2
+website 2
+vari 2
+of 2
+telugu 2
+books 2
+sahasranamam 2
+buy 2
+ma 2
+mailavarapu 2
+in 2
+sr 2
+sreenivasa 2
+job 2
+sabaparavam 2
+kosam 2
+visistatha 1
+anthararthalu 1
+sahasranamavali 1
+parayanam 1
+pdf 1
+om 1
+srilatha 1
+stotram 1
+wiki 1
+namam 1
+mylavarapu.net 1
+channel 1
+sahasra 1
+programe 1
+get 1
+procedure 1
+mylavarapu.srinivasa 1
+aparthalu 1
+mailavarapu.srinivasa 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+403 1857 673814
+206 41 555411
+406 112 30250
+302 152 7412
+405 9 378
+500 4 76916
+404 282 6542849
+301 747 352
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 146
+/ 14 http://www.sogou.com/web
+/wordpress/ 3 -
+/admin.php 1 http://www.mylavarapu.net/admin.php
+/wp-content/plugins/fcchat/default.png 1 -
+/wp-content/plugins/google-analytics-for-wordpress/custom_se_async.js 1 -
+/registration 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.mylavarapu.net%5C/books%5C/embed%5C/%5C%22 1 -
+/wp-content/uploads/wpallimport/uploads/a48625b75d4fdf4eafb7b27633435971/info.php 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.mylavarapu.net%5C/books%5C/%5C%22 1 -
+/Admin/fckeditor/editor/filemanager/browser/default/connectors/test.html 3 -
+/wp-content/plugins/another-wordpress-classifieds-plugin/AWPCP.po 1 -
+/wp-content/plugins/all-in-one-event-calendar/cache/7d28a2bd_ai1ec_parsed_css.css 1 -
+/wp-kernel.php 1 http://mylavarapu.net/wp-kernel.php
+/wp-content/themes/twentyfourteen/license.php 1 http://mylavarapu.net/wp-content/themes/twentyfourteen/license.php
+/sitemap-pt-feedback-2015-12.xml 4 -
+/sitemap-pt-feedback-2015-05.xml 4 -
+/wp-content/uploads/2014/01/Blurred_Images_Firefox_Another.jpg 1 -
+/wp-content/uploads/2015/09/new_up.php 2 -
+/sitemap-pt-feedback-2015-04.xml 2 -
+/sitemap-pt-feedback-2015-01.xml 5 -
+/wp-content/plugins/wp-property/action_hooks.php 1 -
+/sitemap-pt-feedback-2016-01.xml 2 -
+/sitemap-pt-feedback-2015-07.xml 2 -
+/sitemap-pt-feedback-2014-12.xml 3 -
+/wp-content/plugins/custom-content-type-manager/index.html 1 -
+/FCKeditor/editor/filemanager/connectors/test.html 3 -
+/wp-includes/SimplePie/mil.php 2 -
+/sitemap-pt-safecss-2015-03.xml 2 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.mylavarapu.net%5C/anusamputi-vidhaanam%5C/embed%5C/%5C%22 1 -
+/wp-includes/indexs.php 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.mylavarapu.net%5C/mobile-users%5C/%5C%22 1 -
+/wp-indeks.php 2 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.mylavarapu.net%5C/store%5C/%5C%22 1 -
+/wp-content/plugins/front-end-upload/destination.php 2 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.mylavarapu.net%5C/triraatra-upavaasa-deeksha%5C/%5C%22 1 -
+/wp-admin/maint/hello.php 2 http://mylavarapu.net/wp-admin/maint/hello.php
+/administrator/ 4 -
+/wp-includes/Text/Tiff.php 1 http://mylavarapu.net/wp-includes/Text/Tiff.php
+/contaeect/ 1 -
+/sitemap-pt-feedback-2014-08.xml 4 -
+/sitemap-pt-feedback-2014-09.xml 5 -
+/wp-content/plugins/wp-e-commerce/license.txt 1 -
+/upload.php 1 -
+/wp-content/plugins/all-in-one-event-calendar/COPYING.txt 3 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.mylavarapu.net%5C/videos%5C/embed%5C/%5C%22 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.mylavarapu.net%5C/mobile-users%5C/embed%5C/%5C%22 1 -
+/wp-content/uploads/2014/01/Blurred_Images_IE9.jpg 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.mylavarapu.net%5C/triraatra-upavaasa-deeksha%5C/embed%5C/%5C%22 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.mylavarapu.net%5C/usa-trip%5C/embed%5C/%5C%22 1 -
+/wp-includes/Text/Diff/Engine/cache.php 8 -
+/my-account/ 1 -
+/wp-content/uploads/myshe.php 1 http://www.googlebot.com/bot.html
+/Fckeditor/editor/filemanager/browser/default/connectors/test.html 1 -
+/wp-content/indexs.php 1 -
+/wp-content/uploads/2014/01/Blurred_Images_Firefox.jpg 1 -
+/wp-content/plugins/acismittop/akismet.php 1 http://mylavarapu.net/wp-content/plugins/acismittop/akismet.php
+/int.php 1 -
+/sitemap-pt-feedback-2015-09.xml 4 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.mylavarapu.net%5C/contact-us%5C/embed%5C/%5C%22 1 -
+/.svn/text-base/index.php.svn-base 1 http://mylavarapu.net/.svn/text-base/index.php.svn-base
+/wp-content/plugins/auto-attachments/a-a.css 1 -
+/up.php 1 -
+/Editor/editor/filemanager/connectors/test.html 3 -
+/wp-content/plugins/zingiri-web-shop/admin.css 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.mylavarapu.net%5C/lalita-sahasranamam-by-mylavarapu-srinivasa-rao%5C/%5C%22 1 -
+/wp-content/uploads/2016/02/info.php 1 http://mylavarapu.net/wp-content/uploads/2016/02/info.php
+/wp-csss.php 1 -
+/books/P,%16%02 1 http://www.mylavarapu.net/books/
+/checkout/order-received/ 2 -
+/sitemap-pt-page-2015-03.xml 7 -
+/store/%EF%BF%BDSu 1 http://www.mylavarapu.net/store/
+/Admin/fCKeditor/editor/filemanager/connectors/test.html 3 -
+/sitemap-pt-feedback-2015-03.xml 3 -
+/wp-content/plugins/myshe.php 2 http://www.googlebot.com/bot.html
+/defualt.php 1 -
+/wp-content/plugins/hello.php 4 http://mylavarapu.net/wp-content/plugins/hello.php
+/myshe.php 3 http://www.googlebot.com/bot.html
+/wp-ins.php 1 -
+/.git/config 1 http://mylavarapu.net/.git/config
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.mylavarapu.net%5C/videos%5C/%5C%22 1 -
+/wp-wordpress.php 1 http://mylavarapu.net/wp-wordpress.php
+/wp-content/plugins/robotcpa/f.php 2 http://mylavarapu.net/wp-content/plugins/robotcpa/f.php
+/sitemap-pt-feedback-2015-02.xml 5 -
+/sitemap-pt-feedback-2015-08.xml 3 -
+/Editor/editor/filemanager/browser/default/connectors/test.html 3 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.mylavarapu.net%5C/store%5C/embed%5C/%5C%22 1 -
+/sitemap-pt-feedback-2015-10.xml 3 -
+/wp-content/uploads/sites/rwb.php 1 http://mylavarapu.net/wp-content/uploads/sites/rwb.php
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.mylavarapu.net%5C/about%5C/embed%5C/%5C%22 1 -
+/wp-content/plugins/simple-ads-manager/js/slider/tmpl.js 1 -
+/wp-content/plugins/ckeditor-for-wordpress/ckeditor.config.js 1 -
+/wp-admin/includes/images.php 1 http://mylavarapu.net/wp-admin/includes/images.php
+/sitemap-pt-feedback-2014-07.xml 5 -
+/store/P,%16%02 3 http://www.mylavarapu.net/store/
+/wp-content/backup-wp/ 1 http://mylavarapu.net/wp-content/backup-wp/
+/sitemap-pt-feedback-2015-06.xml 4 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.mylavarapu.net%5C/anusamputi-vidhaanam%5C/%5C%22 1 -
+/indexs.php 1 -
+/Cteaboer.php 1 -
+/wp-content/plugins/all-in-one-event-calendar/cache/0c879030_ai1ec_parsed_css.css 11 https://www.google.co.in/
+/sitemap-pt-feedback-2014-10.xml 3 -
+/wp-admin/includes/rss.php 1 http://mylavarapu.net/wp-admin/includes/rss.php
+/wp-content/plugins/resume-submissions-job-postings/installer.php 1 -
+/wp-content/plugins/all-in-one-event-calendar/cache/1701f186_ai1ec_parsed_css.css 12 http://www.mylavarapu.net/store/
+/wp-content/uploads/2015/08/new_up.php 2 -
+/wp-content/plugins/wp-easy-gallery-pro/admin/php.php 1 -
+/wp-content/themes/hello.php 2 http://mylavarapu.net/wp-content/themes/hello.php
+/wp-content/plugins/wp-db-ajax-made/wp-ajax.php 1 -
+/sitemap-pt-feedback-2015-11.xml 4 -
+/wp-content/mvp.php 1 -
+/wp-content/plugins/Login-wall-etgFB/login_wall.php 2 www.mylavarapu.net
+/wp-content/plugins/user-photo/admin.css 1 -
+/sitemap-pt-nav_menu_item-2015-03.xml 2 -
+/404.php 1 http://mylavarapu.net/404.php
+/wp-content/plugins/wp-homepage-slideshow/functions.php 1 -
+/5dc935ee3fe96098f0b7f87901e5bdf86b555295/ 1 http://www.mylavarapu.net/contact-us/
+/wp-content/plugins/magic-fields/MF_Constant.php 1 -
+/inter.php 1 -
+/xr.php 1 -
+/deal.php 1 -
+/blog/ 1 -
+/wp-admin/js/mssqli.php 1 http://mylavarapu.net/wp-admin/js/mssqli.php
+/wp-content/themes/sketch/404.php 3 -
+/init_includes.php 1 -
+/wp/ 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.mylavarapu.net%5C/about%5C/%5C%22 1 -
+/wp-content/plugins/gallery-plugin/gallery-plugin.php 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.mylavarapu.net%5C/lalita-sahasranamam-by-mylavarapu-srinivasa-rao%5C/embed%5C/%5C%22 1 -
+/dharmasandehalu/nggallery/slideshow/ 1 -
+/wp-content/plugins/wp-filemanager/fm.php 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.mylavarapu.net%5C/usa-trip%5C/%5C%22 1 -
+/wp-emails.php 1 -
+/wp-content/plugins/contact-form-7/license.txt 1 -
+/P,%16%02 1 http://www.mylavarapu.net/
+/wp-content/plugins/cimy-user-extra-fields/README_OFFICIAL.txt 1 -
+/wp-content/plugins/font-uploader/font-uploader-free.php 1 -
+/wp-content/plugins/wp-image-news-slider/functions.php 1 -
+/wp-json/oembed/1.0/%5C%22http:%5C/%5C/www.mylavarapu.net%5C/contact-us%5C/%5C%22 1 -
+/support.php 1 http://mylavarapu.net/support.php
+/wp-content/plugins/jetpack/modules/widgets/widgets.css 1 -
+/interface.php 1 -
+/wp-content/plugins/category-grid-view-gallery/cat_grid.php 1 -
+/joomla.php 1 -
+/sitemap-pt-feedback-2014-11.xml 4 -
+/face.php 1 -
+/wp-content/plugins/formcraft/file-upload/server/php/upload.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 589
+192.185.35.30 1134 1134 1 20160229235855
+64.233.173.125 105 269 6156041 20160224000614
+64.233.173.120 100 248 4610012 20160224000613
+103.232.131.80 83 129 3441644 20160210112514
+64.233.173.4 77 240 6034277 20160226080542
+128.113.18.215 75 100 1328865 20160202101130
+199.102.9.66 73 124 2589353 20160219134124
+117.204.64.246 61 80 745095 20160208225147
+49.207.109.147 57 148 4342444 20160224213346
+49.204.228.105 52 100 2910849 20160227053232
+71.41.180.58 48 95 2818075 20160205015117
+201.172.136.128 46 46 274068 20160214140212
+117.204.66.183 45 67 767390 20160201002120
+51.255.155.83 44 44 305051 20160222101352
+49.205.162.168 42 125 3888774 20160224130030
+73.71.20.14 42 121 3435512 20160219165146
+62.4.22.54 40 40 1899534 20160229113351
+59.88.213.190 38 107 2072523 20160202094103
+129.7.67.13 38 112 3263447 20160211120139
+117.200.14.44 36 82 2271956 20160205144343
+101.63.237.213 36 81 2053100 20160207063556
+43.241.64.129 35 75 1841694 20160228053749
+122.169.159.169 35 86 2586086 20160205091907
+49.206.84.4 35 116 3066071 20160227090228
+203.200.213.98 34 81 2415098 20160202084235
+204.79.180.147 0 1 28234 
+50.150.73.179 2 38 1010066 20160209170421
+106.51.218.191 11 50 1534453 20160218011204
+192.0.116.112 2 2 870 20160224125141
+202.53.85.66 2 38 1179283 20160218000029
+204.79.180.207 0 2 54423 
+117.177.250.151 2 2 42694 20160221150314
+49.204.36.175 4 37 1154551 20160219054624
+203.9.125.252 3 39 1042359 20160215205221
+110.227.190.165 2 38 1179283 20160216012345
+187.65.205.85 0 1 49380 
+47.19.240.194 0 1 56885 
+117.211.106.167 24 65 2293385 20160204104325
+117.228.77.15 2 25 830045 20160211053209
+185.44.77.52 1 1 32293 20160221195448
+106.220.227.87 2 24 765387 20160209043744
+40.77.167.82 0 1 4051 
+106.220.104.170 4 53 1829217 20160218043242
+204.79.180.10 0 1 15146 
+27.97.218.39 1 1 47488 20160219202112
+144.76.185.173 6 6 253396 20160217082303
+124.40.246.218 6 74 2209671 20160228040553
+198.175.68.36 1 15 540337 20160229114359
+46.246.47.210 2 2 68425 20160224024314
+66.102.6.249 8 68 1741183 20160229121410
+107.167.96.174 2 28 834885 20160225100111
+205.134.243.98 20 20 699664 20160216230507
+31.41.43.1 1 1 47488 20160203104450
+182.73.170.126 1 34 1051768 20160210234912
+49.203.211.251 1 1 21465 20160215070300
+66.249.82.80 9 26 497895 20160229003548
+5.9.94.207 4 4 181955 20160221002552
+66.102.6.208 17 202 6174140 20160217004915
+59.91.22.170 2 26 776251 20160227003224
+23.229.8.252 1 1 37046 20160202212729
+59.99.204.67 9 47 1210941 20160228091418
+201.175.80.178 16 16 95344 20160229052905
+174.57.70.112 1 1 23469 20160222234656
+117.249.191.173 1 8 130451 20160205223820
+82.146.36.148 1 1 47488 20160212055731
+197.231.221.211 1 1 47488 20160218012119
+66.102.6.153 0 16 958934 
+121.241.214.29 1 1 47488 20160205030025
+49.249.46.202 4 38 1154831 20160216000924
+115.114.93.114 6 43 1159378 20160222003617
+115.117.138.242 5 51 1682084 20160216021243
+77.93.110.140 1 1 5557 20160208152512
+38.100.21.62 9 11 709766 20160214041245
+103.27.171.51 2 38 1179283 20160221205312
+5.178.68.242 4 4 22228 20160224085527
+76.187.76.225 13 121 3559613 20160209234412
+106.194.35.150 4 44 1313995 20160229071529
+71.192.184.238 2 38 1179283 20160213131337
+66.102.6.149 1 20 396670 20160223233457
+168.235.205.214 2 35 555777 20160209232645
+5.248.41.47 2 2 11922 20160225121037
+183.82.230.18 1 32 976082 20160202233217
+37.130.227.133 1 1 47488 20160212004856
+49.249.33.61 2 3 107650 20160216091641
+43.249.226.125 12 101 2727766 20160206031711
+201.159.183.126 1 37 1129606 20160225060446
+52.36.2.246 1 1 47488 20160206063358
+151.30.15.38 1 37 1129606 20160227143136
+209.91.224.184 1 37 1129606 20160226150156
+189.47.250.88 1 29 944434 20160228095328
+83.149.44.124 1 1 47555 20160201120519
+178.255.87.3 1 1 47488 20160218214834
+188.165.237.64 1 1 5610 20160217155608
+183.83.217.162 17 85 2278432 20160208053616
+117.199.231.174 12 50 1325620 20160205230705
+103.194.56.209 2 38 1033042 20160224100419
+168.235.197.134 4 187 1760160 20160205122337
+117.195.203.27 2 32 1059287 20160224113342
+202.153.41.26 3 38 1064378 20160207033929
+159.203.75.194 1 1 23673 20160222214328
+177.203.95.116 1 37 1129606 20160227192452
+54.167.28.221 1 29 944434 20160229022424
+72.5.65.131 1 1 47488 20160223203015
+123.63.206.109 14 48 1319471 20160226194949
+192.0.100.138 2 2 94976 20160217120233
+93.37.33.63 1 37 1129606 20160228034303
+1.39.61.245 10 52 1393656 20160210003055
+49.206.203.115 4 4 88118 20160219184925
+54.198.97.16 1 1 47489 20160225224528
+122.172.79.124 2 38 1179283 20160219004828
+38.100.21.68 7 10 311743 20160221032343
+117.195.177.102 5 31 950289 20160209060930
+27.97.220.83 1 1 47649 20160220231546
+72.83.227.135 0 1 49380 
+211.199.126.102 2 2 42694 20160223043934
+62.212.73.49 1 1 47489 20160202160112
+110.227.231.163 1 2 43014 20160226040029
+144.76.153.198 5 5 223891 20160221002552
+112.110.82.72 1 18 127446 20160204081030
+94.158.32.126 2 2 12003 20160217075724
+204.79.180.240 0 1 6887 
+115.98.49.172 4 41 1212691 20160203085956
+66.41.188.183 2 38 1182814 20160225193926
+125.16.17.145 16 54 1450368 20160225080051
+177.1.115.171 1 37 1129606 20160227122108
+103.15.63.36 2 38 1179283 20160211231047
+104.129.194.114 2 38 1179283 20160203161840
+185.89.216.236 1 1 38794 20160203233906
+173.252.80.119 1 1 37730 20160218043236
+27.97.172.185 3 25 782991 20160219063846
+204.79.180.82 0 1 95977 
+188.163.110.77 3 3 16674 20160226163319
+83.149.45.243 2 2 81749 20160205071900
+193.189.117.121 2 2 69794 20160204184624
+78.46.156.169 6 6 253262 20160218041821
+43.224.158.89 8 48 1485335 20160214035657
+204.79.180.234 0 1 1186 
+185.89.216.230 0 4 22000 
+195.22.126.220 3 3 1209 20160229105314
+107.167.108.63 2 39 1184161 20160221052542
+165.91.49.181 2 38 1179283 20160206214131
+119.235.55.107 0 1 26111 
+189.123.63.60 1 37 1129606 20160227121054
+174.84.233.144 2 26 833632 20160216113912
+117.202.62.145 4 41 1057749 20160201000428
+103.15.63.74 7 48 1300751 20160215122603
+100.34.132.245 0 1 63123 
+213.47.217.101 1 1 47488 20160202183619
+43.249.226.124 6 81 2470872 20160207021514
+117.221.198.212 13 53 1360922 20160223001134
+14.139.85.115 4 41 1267492 20160227034818
+138.201.16.80 2 2 94976 20160210045912
+168.235.207.72 2 140 1713784 20160220033515
+91.228.196.139 5 5 28240 20160207084036
+204.79.180.106 0 1 35298 
+103.224.152.10 2 25 777222 20160223055800
+144.76.155.8 5 5 172122 20160216203029
+82.146.36.221 5 5 94621 20160225065650
+192.0.118.176 1 1 435 20160224125959
+117.202.208.202 5 43 1317064 20160210084029
+59.90.246.66 2 38 1179283 20160203062502
+138.201.20.12 2 2 94976 20160209100658
+185.44.77.41 1 1 40547 20160213084718
+5.9.112.6 4 4 179647 20160215123000
+136.243.17.161 7 7 329309 20160221002551
+122.169.146.128 3 41 1193197 20160203071418
+124.123.219.162 6 43 1367028 20160229012811
+204.79.180.13 0 1 1560 
+106.220.161.58 2 24 812200 20160202232904
+179.253.46.189 1 37 1129606 20160228194627
+188.244.132.196 1 1 5558 20160226040014
+49.203.211.40 10 56 1790550 20160215045206
+177.194.2.62 1 37 1129606 20160226070931
+45.124.156.14 1 37 1146990 20160214215051
+119.235.54.194 8 53 2429810 20160201002407
+106.76.21.135 0 1 26111 
+5.9.17.118 6 6 253262 20160216203029
+117.235.98.255 5 30 854284 20160215064035
+103.48.68.60 4 41 1061080 20160229085714
+167.220.236.4 1 37 1147057 20160201061324
+8.37.234.43 1 22 61461 20160209104542
+106.51.26.135 32 104 3137812 20160204073525
+52.0.89.236 1 1 47488 20160208173743
+192.95.12.14 1 1 47488 20160203163437
+106.76.243.71 1 38 210830 20160220210313
+106.77.188.182 3 3 93316 20160201024824
+117.242.5.87 2 34 1008549 20160228094502
+185.89.216.233 0 2 242 
+204.79.180.167 0 1 1015 
+117.177.250.154 2 2 42694 20160223054213
+50.16.31.19 1 1 47488 20160210123454
+43.249.226.113 2 44 1193534 20160205025340
+117.202.94.129 2 23 755790 20160215015506
+205.210.223.133 4 4 164315 20160211124201
+183.83.124.172 2 38 1179283 20160207224914
+117.203.61.154 2 38 1179283 20160215091532
+189.219.122.29 1 37 1129606 20160229194014
+171.161.56.16 1 1 47488 20160220013848
+71.174.226.96 4 40 1146951 20160220092247
+89.38.150.47 3 3 16944 20160210203949
+115.241.15.117 6 49 1348363 20160202051922
+37.211.21.103 4 43 1327023 20160222012132
+175.101.68.67 2 33 1011318 20160225000229
+117.200.27.40 2 41 1262437 20160213055003
+204.79.180.84 0 1 1542 
+24.125.29.31 15 22 418306 20160204231937
+192.0.112.176 1 1 435 20160224125141
+136.243.172.46 2 2 94862 20160222201152
+192.0.112.17 2 2 870 20160224125852
+5.149.254.109 3 3 142407 20160213094217
+183.82.198.195 16 60 2008085 20160223081050
+117.241.178.211 2 38 1010066 20160222010807
+5.101.217.193 1 1 47488 20160211060550
+8.37.235.128 2 25 830045 20160216054051
+62.210.124.37 1 1 37113 20160201192441
+66.220.145.244 0 24 813003 
+192.0.114.80 1 1 435 20160224125959
+178.32.53.154 1 1 47488 20160217064705
+183.82.197.56 2 38 1179283 20160204230223
+209.0.146.172 6 11 360028 20160226235606
+199.19.249.196 4 4 159562 20160219075754
+45.22.104.217 4 41 1057548 20160206141110
+94.23.158.194 1 1 37046 20160214214349
+220.227.250.219 9 46 1221055 20160218002722
+49.207.155.178 8 40 196336 20160206001246
+49.207.188.57 18 67 1710247 20160217063838
+59.96.150.37 5 6 154649 20160205005607
+14.195.224.20 9 51 1409505 20160213034218
+103.200.40.186 2 38 1010066 20160208093836
+183.82.228.109 6 43 1195968 20160218111507
+50.131.202.156 4 100 1484474 20160219183542
+59.92.247.245 4 35 1002059 20160207223212
+58.68.49.90 2 33 1118693 20160209194313
+183.82.201.124 11 49 1270015 20160228072113
+204.79.180.134 0 1 16553 
+106.220.11.5 2 29 849030 20160203094901
+125.16.180.6 2 38 1179283 20160219075753
+212.232.25.222 2 2 55581 20160203093049
+106.220.197.59 2 38 1179283 20160204060952
+187.41.72.141 1 37 1129606 20160225085005
+84.122.78.38 1 31 1014118 20160227003033
+192.0.112.81 1 1 435 20160224125609
+222.124.145.242 1 37 1129606 20160229232214
+49.206.204.211 4 41 1212691 20160204084545
+49.204.207.117 11 49 1362797 20160208081911
+192.0.116.144 1 1 435 20160224125622
+106.220.193.151 4 25 785080 20160228043912
+148.251.75.46 5 5 229443 20160216203029
+86.107.229.69 1 1 37046 20160209102208
+187.160.159.107 2 2 90460 20160202150533
+189.38.71.130 1 1 47488 20160203122509
+94.23.217.201 1 1 47488 20160208162150
+117.197.219.138 1 37 977773 20160215022948
+108.28.167.159 0 1 49380 
+117.216.180.1 8 32 812096 20160208093113
+186.244.179.18 1 1 399 20160209135918
+8.37.237.238 3 47 1526463 20160209060913
+49.206.99.59 7 31 919104 20160213060004
+177.154.65.129 1 27 927764 20160226201901
+67.71.82.132 31 154 4267736 20160221142511
+49.205.87.101 2 38 1010066 20160203093325
+192.0.112.48 2 2 870 20160224125141
+204.79.180.144 0 1 20766 
+183.82.199.28 27 67 1575931 20160222222837
+121.242.87.100 2 38 1179283 20160204061343
+124.123.75.73 4 41 1212691 20160219105739
+192.0.118.143 1 1 435 20160224125852
+183.82.3.152 2 38 1179283 20160220051936
+168.63.139.43 3 26 747546 20160223113349
+61.120.154.122 1 1 47488 20160220161304
+125.18.235.210 7 48 1396506 20160220073347
+117.199.243.36 1 26 923219 20160219082123
+183.82.205.106 8 50 1430539 20160206032427
+117.203.61.104 6 43 1175565 20160229032057
+91.212.124.16 1 1 1 20160207163253
+49.207.149.116 32 81 2016131 20160205121039
+62.210.244.115 1 1 47488 20160202181004
+167.114.233.118 1 1 47488 20160205145650
+46.161.61.96 1 1 38794 20160211184105
+80.13.213.139 2 3 121725 20160217070829
+117.193.237.102 3 39 1206583 20160229114602
+117.217.253.96 4 40 1047488 20160224065433
+192.99.62.7 1 1 47488 20160216002854
+168.235.197.232 3 165 1746382 20160226005559
+49.204.225.93 2 38 1010066 20160208061812
+103.22.172.131 2 32 1111780 20160206224813
+116.75.115.14 1 2 96281 20160206000921
+71.175.99.121 1 37 977773 20160209174611
+46.118.155.216 5 5 94691 20160216034745
+170.251.61.175 2 38 1179283 20160215004100
+49.207.184.27 1 36 1141328 20160227064203
+70.213.1.72 4 40 1259064 20160223134803
+46.119.59.175 2 2 11920 20160217071617
+49.207.188.215 2 8 88975 20160229065905
+209.6.166.129 4 41 1057548 20160210134107
+49.207.206.210 1 1 47488 20160206020756
+117.203.54.188 0 1 26111 
+158.69.225.35 13 13 464353 20160224183734
+201.173.81.247 1 1 5648 20160209102244
+103.246.38.196 9 9 280705 20160229114429
+52.5.234.39 1 1 32293 20160220100154
+101.173.142.170 6 43 1206814 20160226214310
+103.224.155.45 5 28 914098 20160227200744
+41.143.203.252 1 27 927764 20160227121627
+183.60.243.189 4 4 25879 20160213010415
+117.213.213.222 9 47 1196903 20160213051631
+182.65.100.168 26 66 1909499 20160213010230
+49.207.146.178 24 24 384858 20160206074850
+144.160.98.91 2 38 1179283 20160204210845
+99.6.30.131 3 40 1025255 20160215161456
+122.183.99.151 4 40 1259064 20160224034040
+187.161.105.126 2 2 42694 20160218061414
+66.249.82.77 9 28 717939 20160229003546
+192.55.79.166 0 4 61341 
+106.220.27.29 2 26 790989 20160218002946
+117.195.205.73 2 38 1027706 20160203133830
+71.67.160.172 28 76 2390342 20160211182025
+166.137.8.55 3 28 839112 20160218164734
+185.89.216.226 1 3 51095 20160203233806
+91.228.197.248 1 1 5649 20160228094335
+150.129.89.21 4 41 1212691 20160206053048
+124.123.23.109 5 80 2489208 20160224021108
+119.235.52.221 23 61 1513542 20160204074917
+67.148.50.158 7 48 1450298 20160210191416
+122.169.134.167 7 7 301611 20160205131509
+203.123.182.161 2 39 1228663 20160210203807
+104.158.29.89 2 68 2103536 20160220230030
+8.37.232.66 10 175 1004726 20160205225004
+95.28.176.231 5 53 2212980 20160227050853
+188.40.112.210 3 3 121647 20160215221850
+204.79.180.123 0 1 46454 
+66.249.80.52 3 3 127271 20160229104315
+192.0.116.208 1 1 435 20160224125705
+66.249.80.43 1 1 47488 20160223234124
+117.221.65.110 3 3 65644 20160205234403
+73.223.148.89 12 63 1826644 20160214134509
+200.138.211.188 1 1 586 20160209135917
+50.121.72.15 11 53 1361437 20160217174712
+107.189.60.67 2 17 332970 20160210092331
+23.94.204.210 1 1 37047 20160227184728
+117.197.209.240 20 63 1756494 20160219104615
+134.249.159.5 1 1 34279 20160228171013
+46.119.58.219 2 2 11920 20160222112712
+158.69.27.74 1 1 47489 20160229043124
+117.213.216.27 10 48 1380214 20160219081525
+117.206.231.59 11 53 1437189 20160202074000
+117.201.217.199 0 1 49380 
+204.79.180.88 0 1 882 
+66.249.82.74 13 34 589506 20160229003557
+49.205.209.20 18 67 2397694 20160229104350
+43.249.226.69 25 50 1319939 20160201211258
+117.216.215.224 10 48 1477529 20160229050735
+192.0.113.209 1 1 435 20160224124924
+117.207.249.189 4 30 874720 20160211110100
+166.137.126.45 1 1 27925 20160206204812
+144.76.71.83 6 6 229660 20160216015930
+42.107.175.156 1 34 1053455 20160207075537
+5.9.145.132 5 5 231955 20160215123000
+124.123.198.156 23 71 2186882 20160227035445
+117.221.81.103 4 40 1259064 20160205235241
+117.177.250.146 3 3 46039 20160221142030
+119.235.49.78 3 40 1212654 20160219043713
+209.85.238.33 2 2 32346 20160212013911
+37.221.142.42 5 5 94619 20160215025916
+122.193.14.105 2 2 42696 20160225192726
+220.244.177.251 4 30 906775 20160217034256
+66.102.6.216 24 210 6250392 20160217003628
+188.72.96.40 1 1 33596 20160220080108
+203.113.152.10 2 2 94976 20160223021522
+223.183.153.123 1 9 501035 20160211101411
+117.197.221.59 4 41 1057548 20160205044825
+49.205.161.176 2 24 812200 20160215121805
+203.217.145.56 10 48 1384610 20160225233228
+106.220.61.241 1 2 50841 20160225084338
+175.101.80.140 31 112 2912637 20160228014346
+117.250.253.146 10 34 1037847 20160203025243
+103.246.36.213 8 8 280688 20160225080021
+66.102.6.217 1 6 478457 20160226085013
+76.187.72.230 12 50 1298875 20160207102122
+124.123.70.71 4 29 882409 20160225203110
+168.235.206.221 2 26 833632 20160205004508
+50.185.133.27 11 55 1558509 20160211142122
+93.186.202.253 1 1 37113 20160201073422
+117.199.221.214 0 1 26111 
+117.193.32.104 21 64 1888535 20160216121429
+66.102.6.252 7 65 1365757 20160228044753
+122.169.212.207 4 5 102552 20160224013945
+192.0.114.46 1 1 435 20160224125953
+72.78.232.151 1 30 1071771 20160205093017
+204.79.180.102 0 1 19888 
+94.142.141.119 1 1 37046 20160224203318
+69.58.178.59 11 11 398434 20160212175951
+176.31.39.23 2 2 90480 20160224143231
+131.253.38.67 5 5 47828 20160224033805
+185.100.85.190 2 2 11365 20160211150256
+108.48.83.58 11 47 1390437 20160215192343
+117.206.233.218 5 30 901480 20160227055615
+198.175.68.39 8 23 552207 20160229114438
+40.77.167.51 0 1 2384 
+37.231.251.198 4 42 1225490 20160220061302
+86.245.207.21 11 52 1562409 20160213013547
+124.123.175.242 9 53 1903490 20160215085959
+168.235.205.237 2 26 837162 20160226040029
+128.227.182.201 2 38 1179283 20160218144702
+106.220.75.205 1 18 718918 20160213120043
+54.183.186.80 2 2 43327 20160202090825
+185.100.85.61 1 1 47488 20160213030107
+148.251.124.42 5 5 205636 20160210063710
+5.9.106.81 5 5 213838 20160217082303
+94.198.141.138 2 2 11115 20160227100942
+46.185.31.208 2 2 11920 20160219220506
+192.0.118.80 1 1 435 20160224125826
+49.205.252.205 3 37 1085176 20160206055015
+117.195.201.183 23 67 2358256 20160223101336
+192.249.47.208 5 5 185230 20160219131902
+204.79.180.69 0 1 430 
+164.100.132.7 1 32 1086400 20160204002841
+144.76.201.69 7 7 306047 20160216153212
+46.229.170.197 2 2 94976 20160215120745
+220.225.72.170 13 51 1439632 20160218234024
+125.23.240.86 1 1 49933 20160204025703
+204.79.180.249 0 1 31596 
+123.2.187.127 3 40 1212654 20160205031146
+49.207.231.15 1 1 47488 20160212204619
+49.207.144.180 16 53 1430848 20160206230223
+185.89.216.234 0 3 3645 
+66.102.6.157 3 13 175363 20160223234057
+183.83.164.111 2 38 1182813 20160224125831
+37.1.218.125 1 1 47488 20160202180650
+49.205.127.250 4 41 1057548 20160207015352
+37.153.44.102 1 1 401 20160218055736
+124.123.85.216 2 26 772720 20160223143151
+50.161.60.220 7 49 1245556 20160209225045
+8.37.232.238 2 24 340957 20160229030456
+103.246.39.212 3 3 119507 20160222003618
+66.249.84.181 1 1 32293 20160212013845
+98.169.133.106 5 78 1173885 20160212090703
+183.83.236.39 7 29 864257 20160228020955
+198.20.183.175 1 1 37046 20160213065003
+117.215.143.97 2 38 1010066 20160215220746
+49.205.45.225 2 38 1179283 20160223082815
+49.204.226.249 7 31 888274 20160201212904
+179.180.58.142 1 1 47489 20160229164427
+109.86.72.162 1 1 47488 20160220043519
+192.55.79.168 0 6 190300 
+204.79.180.50 0 1 15152 
+115.98.133.25 2 38 1179283 20160222102400
+103.224.155.47 3 26 862338 20160214000446
+185.89.216.237 0 1 0 
+176.109.179.200 2 2 12003 20160216175733
+204.79.180.61 0 1 1518 
+103.230.222.146 1 37 1129606 20160227200926
+183.82.192.96 9 60 1945954 20160222001143
+202.69.240.166 2 2 2 20160210011944
+192.0.84.34 2 2 94976 20160209235803
+5.196.219.112 1 1 47488 20160219124407
+103.246.67.25 10 44 1254809 20160227211350
+66.220.145.246 1 30 900411 20160213233429
+66.220.145.243 3 22 645152 20160213233430
+183.82.83.94 4 40 1259064 20160223080237
+49.206.143.162 18 83 2063011 20160225185815
+49.205.162.135 4 40 1049220 20160214083055
+141.0.13.100 1 24 761717 20160227015052
+8.37.232.128 5 90 1636925 20160228071214
+192.0.117.243 2 2 94978 20160225104640
+192.122.250.248 18 266 2919761 20160212145649
+49.249.33.42 1 1 21994 20160217072349
+182.74.133.146 26 70 2006769 20160229154951
+122.164.211.214 3 42 1149134 20160228235425
+106.51.181.1 14 52 1448289 20160223234233
+5.101.217.155 1 1 36851 20160221070846
+203.217.147.249 3 25 841580 20160201115033
+107.167.107.36 1 24 774960 20160203000552
+90.213.138.144 15 83 1508220 20160202111103
+183.82.231.198 2 2 55850 20160218071823
+49.207.214.79 8 32 918897 20160201114205
+64.74.215.113 3 3 0 20160228130230
+174.129.79.142 1 29 944434 20160225231635
+187.161.16.252 2 2 88861 20160201231926
+59.90.27.146 6 30 856007 20160212094956
+202.63.123.211 0 1 56885 
+103.46.201.251 0 1 26111 
+187.58.31.155 1 37 1129606 20160227230801
+117.213.212.88 10 47 1212688 20160209051112
+220.255.95.75 24 62 1723722 20160216015400
+50.35.82.91 5 83 2916996 20160205085758
+117.203.49.253 6 6 178665 20160219104917
+122.175.26.243 21 68 1943863 20160220202812
+157.122.156.98 2 2 90480 20160213064117
+59.93.120.136 9 56 1388683 20160220170811
+204.79.180.80 0 1 379631 
+99.182.21.129 3 28 880176 20160229222827
+74.222.196.104 2 26 833632 20160212140431
+49.203.245.144 2 2 43459 20160215095919
+1.39.62.226 17 55 1417493 20160212101816
+71.75.10.110 4 41 1057548 20160204113036
+175.101.50.45 0 1 26111 
+187.122.46.168 1 37 1129606 20160226091914
+106.208.78.2 4 42 1228781 20160208003159
+103.224.152.70 7 31 919104 20160212013907
+168.235.206.33 5 68 1672878 20160223234136
+1.39.60.50 2 26 833632 20160209232630
+66.102.6.209 1 8 133600 20160226085457
+106.220.164.161 0 1 49380 
+106.216.154.198 4 41 1057548 20160206033604
+188.72.126.176 1 1 40527 20160214052646
+49.207.169.240 9 128 1116763 20160224022557
+59.91.29.199 4 36 1030573 20160215062153
+128.95.115.23 16 57 1616469 20160212151622
+8.37.233.238 2 24 20861 20160206000756
+49.207.117.64 3 40 1218422 20160220031127
+91.250.241.241 2 2 11920 20160202181406
+204.79.180.149 1 2 37127 20160223011125
+183.82.195.51 13 50 1257943 20160215025803
+49.207.214.28 1 1 47489 20160225204131
+192.127.94.7 14 58 1565918 20160202015821
+117.247.27.79 27 104 2862382 20160202204048
+49.207.187.177 4 41 1057548 20160222041557
+64.233.173.115 0 7 132546 
+117.213.140.156 26 78 1889819 20160227114810
+204.79.180.222 0 1 384 
+106.76.226.20 1 1 39023 20160201025233
+66.102.6.212 24 222 7157233 20160219045952
+8.28.16.254 2 2 79781 20160204210845
+119.235.50.4 2 9 243410 20160229030501
+117.240.187.67 4 41 1212691 20160208032342
+106.76.224.101 1 32 34422 20160220073527
+204.79.180.81 0 1 103320 
+74.105.2.146 1 34 1043566 20160220223311
+66.102.6.213 0 12 238818 
+162.13.138.155 1 1 34261 20160203184704
+122.169.217.0 1 34 1051768 20160224012353
+165.228.230.30 10 51 1553847 20160208155230
+103.15.60.134 0 3 78333 
+103.246.67.30 5 45 1546720 20160224061131
+117.197.218.174 4 42 1111009 20160221040306
+192.0.116.80 1 1 435 20160224124916
+204.79.180.230 0 1 774 
+49.206.76.163 10 51 1555272 20160227054935
+195.34.78.177 1 1 49933 20160216141343
+117.195.145.51 3 40 1057511 20160222100132
+204.79.180.220 0 1 606 
+49.207.90.170 6 49 1365470 20160219113452
+148.246.114.184 1 37 1129606 20160228180201
+183.82.216.10 8 82 2115297 20160212130124
+73.50.120.13 5 39 1158048 20160226120652
+103.15.63.38 7 45 1361899 20160213010910
+54.226.127.64 1 1 7268 20160220224911
+24.92.52.164 21 59 1382068 20160204072013
+103.255.252.94 2 38 1179283 20160215184724
+70.121.6.139 12 79 2202666 20160213001408
+218.186.198.60 2 35 1093950 20160207000116
+192.0.117.241 1 1 445 20160224125705
+148.251.54.44 5 5 182067 20160205185335
+125.16.29.3 10 50 1510321 20160225043524
+204.79.180.35 0 1 6913 
+1.39.61.246 27 82 645411 20160211055637
+23.105.180.240 1 1 5648 20160202212734
+66.102.6.245 8 81 3230859 20160229121445
+45.124.156.252 4 40 1259064 20160216105534
+72.192.33.231 2 24 812200 20160211121050
+66.249.80.34 1 1 47555 20160201235346
+67.190.254.215 4 43 1711527 20160226195012
+196.15.16.106 23 35 489627 20160229003015
+185.89.216.235 2 5 116980 20160203234011
+124.123.40.150 7 50 1347998 20160205013548
+185.93.187.49 1 1 5557 20160204165112
+106.220.136.206 3 26 859291 20160215115413
+8.37.224.149 3 158 1699822 20160203030256
+204.79.180.108 0 1 7200 
+106.76.234.109 10 45 1286289 20160219102216
+117.241.220.82 7 22 92466 20160229043804
+140.180.250.129 5 56 1341185 20160209002352
+125.16.65.6 1 37 1147057 20160201004343
+185.89.216.232 0 2 1411 
+2.231.198.163 1 37 1129606 20160229045241
+185.89.216.238 0 3 14091 
+73.140.154.73 3 38 1108011 20160213230226
+195.27.53.211 4 40 1259064 20160219100714
+219.91.164.236 29 67 1742486 20160204095224
+208.87.234.201 8 48 1392761 20160219153337
+117.215.172.87 4 41 1260142 20160220042514
+125.22.90.22 25 74 2072572 20160211053751
+179.255.136.196 1 37 1129606 20160228153251
+204.79.180.153 0 1 33713 
+14.139.181.229 4 41 1248747 20160206113200
+124.123.79.173 8 50 1406502 20160220064355
+185.89.216.227 0 2 0 
+223.227.237.39 1 24 747976 20160223113333
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20160201 174 507 13449599 40
+20160202 296 871 20752954 35
+20160203 200 841 17923679 42
+20160204 246 859 22993798 35
+20160205 294 1277 27863667 35
+20160206 160 702 15941667 30
+20160207 136 616 16210781 22
+20160208 190 566 13112036 33
+20160209 103 607 15321720 31
+20160210 189 584 15342914 41
+20160211 228 663 15049617 30
+20160212 151 589 10664396 36
+20160213 158 659 18189235 44
+20160214 90 317 8837667 29
+20160215 181 924 26936145 51
+20160216 146 466 13367677 41
+20160217 106 283 6827581 30
+20160218 178 547 14082817 38
+20160219 214 932 24755925 44
+20160220 120 864 20278146 41
+20160221 76 228 5588011 27
+20160222 135 521 13071477 32
+20160223 174 703 19927312 37
+20160224 218 972 24898618 52
+20160225 116 451 12067940 31
+20160226 104 586 13638750 30
+20160227 207 950 27565403 36
+20160228 201 872 21450924 37
+20160229 210 787 20447270 42
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 107
+5mn-15mn 72
+30s-2mn 84
+2mn-5mn 64
+0s-30s 633
+15mn-30mn 50
+30mn-1h 42
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 50
+/store/ 1207 38201215 35 150
+/wp-cron.php 1134 0 217 217
+/wp-admin/admin-ajax.php 742 27473 14 138
+/ 676 26600942 362 188
+/contact-us/ 232 6795238 62 52
+/lalita-sahasranamam-by-mylavarapu-srinivasa-rao/ 208 9719565 120 61
+/about/ 150 5284954 71 49
+/wp-login.php 131 778262 60 96
+/books/ 98 3464035 6 8
+/videos/ 70 2496627 8 9
+/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven/inc/fonts/genericons-regular-webfont.woff 48 390420 3 19
+/triraatra-upavaasa-deeksha/ 47 1560508 11 13
+/anusamputi-vidhaanam/ 46 1620230 6 10
+/usa-trip/ 36 1321833 2 2
+/wp-login.php/ 31 172275 31 0
+/xmlrpc.php 22 9450 17 17
+/category/lalita-sahasranamam/triratra-upavaasa-deeksha-lalita-sahasranamam/ 19 409633 12 3
+/wp-admin/load-scripts.php 9 1129117 0 0
+/category/lalita-sahasranamam/anusamputi/ 9 296599 1 0
+/category/lalita-sahasranamam/ 8 298249 0 2
+/mobile-users/ 7 223427 2 2
+/wp-content/plugins/ecwid-shopping-cart/fonts/ecwid-icons.eot 7 23296 0 1
+/wp-content/plugins/jetpack/_inc/genericons/genericons/Genericons.eot 6 134244 1 0
+/wp-admin/admin.php 6 190765 0 0
+/wp-content/plugins/ecwid-shopping-cart/fonts/ecwid-icons.woff 6 19440 0 0
+/wp-admin/load-styles.php 3 918472 0 0
+/wp-admin/index.php 1 96376 0 0
+/feed/ 3 21804 1 1
+/wp-content/plugins/better-wp-security/lib/icon-fonts/fonts/ithemes-icons.woff 1 2440 0 0
+/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven/inc/fonts/genericons-regular-webfont.eot 4 29900 0 0
+/wp-admin/ 2 192999 0 0
+/BingSiteAuth.xml 4 340 4 4
+/google998d34e56945e43d.html 1 53 1 1
+/wp-includes/pomo/ 1 586 1 1
+/wp-admin/plugins.php 1 89739 0 0
+/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.woff 1 1172 0 0
+/author/himamsu/ 1 37770 0 1
+/wp-admin/maint/ 1 399 1 1
+/wp-content/themes/wp-opulus/fonts/fontawesome-webfont.eot 4 289796 0 2
+/wp-content/plugins/jetpack/class.jetpack-ixr-client.php 1 482 0 1
+/wp-admin/upgrade.php 1 1 1 1
+/webmail/ 2 18470 1 0
+/wp-admin/update.php 1 17453 0 0
+/readme.html 1 7409 0 1
+/wp-content/plugins/jetpack/_inc/genericons/genericons/Genericons.ttf 1 22188 0 0
+/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven/inc/fonts/genericons-regular-webfont.ttf 1 13516 0 0
+/lalita-sahasranamam-by-mylavarapu-srinivasa-rao/trackback/ 6 468 0 0
+/index.php 1 47431 1 1
+/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.woff 1 8944 0 0
+/wp-admin/update-core.php 2 99236 0 0
+END_SIDER

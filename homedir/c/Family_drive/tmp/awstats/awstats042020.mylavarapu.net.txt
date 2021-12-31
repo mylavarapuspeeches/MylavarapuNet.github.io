@@ -1,0 +1,328 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202004 will be lost/reset.
+# Last config file used to build this data file was /home1/himamsu/tmp/awstats/awstats.mylavarapu.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2678                
+POS_VISITOR 7300                
+POS_DAY 7878                
+POS_DOMAIN 3374                
+POS_LOGIN 3645                
+POS_ROBOT 3800                
+POS_WORMS 4280                
+POS_EMAILSENDER 4411                
+POS_EMAILRECEIVER 4554                
+POS_SESSION 8287                
+POS_SIDER 8454                
+POS_FILETYPES 4689                
+POS_DOWNLOADS 4835                
+POS_OS 4930                
+POS_BROWSER 5048                
+POS_SCREENSIZE 5229                
+POS_UNKNOWNREFERER 5303                
+POS_UNKNOWNREFERERBROWSER 5862                
+POS_ORIGIN 6157                
+POS_SEREFERRALS 6291                
+POS_PAGEREFS 6444                
+POS_SEARCHWORDS 6592                
+POS_KEYWORDS 6744                
+POS_MISC 2341                
+POS_ERRORS 6803                
+POS_CLUSTER 3501                
+POS_SIDER_404 6955                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200501002939 50 10534 12353318020887
+FirstTime 0
+LastTime 20200430124438
+LastUpdate 20200501190313 50 0 49 0 0
+TotalVisits 29                  
+TotalUnique 11                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 15                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+AddToFavourites 0 15 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 115 140 12678
+1 0 0 0 102 116 115281
+2 0 0 0 154 167 141726
+3 0 0 0 186 201 87718
+4 0 0 0 209 245 75821
+5 0 0 0 73 94 5725
+6 0 0 0 188 206 246164
+7 2 2 0 84 94 6331
+8 1 1 0 176 210 99757
+9 0 1 56885 119 133 164124
+10 0 0 0 95 107 9567
+11 3 3 0 90 114 95388
+12 1 1 53 203 230 26094
+13 1 1 0 76 103 131441
+14 1 1 198 80 97 7381
+15 2 2 198 119 187 335406
+16 2 3 8750 136 153 42476
+17 2 2 0 140 151 217243
+18 2 3 142923 160 181 27866
+19 1 1 198 184 204 59511
+20 2 2 198 159 166 80209
+21 1 2 63123 112 139 8853
+22 36 36 2884 192 232 190005
+23 35 35 0 163 213 135462
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+us 86 89 264433
+nl 4 4 792
+ru 1 1 1435
+it 1 1 0
+gr 0 1 8750
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+Googlebot/ 117 720014 20200428073027 0
+bingbot/ 10 770137 20200430023538 0
+facebookexternalhit/ 4 194132 20200429064612 0
+Googlebot\-Image/ 2 141488 20200406104217 0
+Mail\.RU_Bot/ 1 130571 20200427064819 0
+bot[\s_+:,\.\;\/\\-] 1 8938 20200427095329 0
+crawl 1 1435 20200429223355 0
+msnbot/ 1 1435 20200410151216 0
+YandexImages/ 1 0 20200427194235 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+html 2 53 0 0
+txt 1 8750 0 0
+Unknown 35 2884 0 0
+php 55 2227 0 0
+jpg 3 261496 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/sitemap.xml.gz 3 0 2040
+/license.txt 1 0 8750
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+win7 2 2
+winxp 2 1
+linux 1 0
+win10 3 1
+Unknown 88 88
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 9
+Unknown 57 57
+msie6.0 1 1
+firefox11.0 1 0
+firefox66.0 1 1
+edge18 2 0
+netscape5.0 2 2
+mozilla 29 29
+firefox26.0 2 2
+firefox62.0 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+WordPress/5.3.2;_https://www.mylavarapu.net 20200429161007
+WordPress/5.3.2;_http://www.mylavarapu.net 20200410151217
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20200430124438
+WordPress/5.3.3;_http://www.mylavarapu.net 20200429223356
+Cpanel-HTTP-Client/1.0 20200412220211
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20200412220213
+Mozilla/5.0_(WordPress.com;_https://en.support.wordpress.com/contact/) 20200424155000
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+WordPress/5.3.2;_https://www.mylavarapu.net 20200429161007
+Cpanel-HTTP-Client/1.0 20200412220211
+WordPress/5.3.3;_http://www.mylavarapu.net 20200429223356
+WordPress/5.3.2;_http://www.mylavarapu.net 20200410151217
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 42 44
+From1 0 0
+From2 0 2
+From3 0 0
+From4 50 50
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+bing 0 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+404 4 348
+500 2 2482
+406 887 200462
+409 157 13031
+403 978 137754
+301 1702 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 2
+/wp-json/wp/v2/posts/None 3 -
+/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 15
+192.185.35.30 73 73 1840 20200429223356
+52.28.236.88 3 3 261 20200412220212
+34.222.229.130 3 3 261 20200412220212
+64.78.149.164 3 3 261 20200412220212
+80.82.68.216 2 2 396 20200424155000
+80.82.68.215 2 2 396 20200424145625
+52.15.254.228 2 2 174 20200412220212
+3.14.255.131 1 1 87 20200412220212
+66.249.90.123 1 1 53 20200430124438
+84.201.168.247 1 1 1435 20200408183307
+193.70.102.147 1 1 0 20200403110719
+98.222.48.58 0 1 141488 
+66.249.82.223 0 1 56885 
+69.80.171.30 0 1 63123 
+178.128.98.239 0 1 8750 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 19
+20200401 2 2 0 1
+20200403 3 3 0 2
+20200405 1 1 0 1
+20200406 11 11 0 1
+20200407 1 1 0 1
+20200408 2 3 58320 2
+20200410 1 1 0 1
+20200412 35 35 2884 6
+20200413 1 1 0 1
+20200415 0 2 71873 0
+20200416 2 2 396 2
+20200417 1 1 0 1
+20200418 1 1 0 1
+20200420 13 13 0 1
+20200423 3 3 0 2
+20200424 2 2 396 2
+20200427 10 11 141488 1
+20200429 2 2 0 2
+20200430 1 1 53 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30s-2mn 2
+0s-30s 25
+2mn-5mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 19
+/wp-cron.php 50 0 16 16
+/.well-known/acme-challenge/GaFP561YPGgLr_lLR63PtyKwiveiiqWxfTgnaXz1uv0 4 348 3 1
+/.well-known/acme-challenge/UqnYwcEjN3xZINAORFIuHkQSMcoNTRjGFEAmOJBNz84 4 348 0 0
+/wp-content/themes/wp-opulus/404.php 4 792 4 4
+/.well-known/acme-challenge/6Ixf12AwF-7gYsBr7dFugIQmTgG7O1x9x_bUk--6bvU 4 348 0 0
+/.well-known/acme-challenge/nJAtcbgKGv1n_O51azmdA7nrn9kjiKjytr5b4Nzfry4 4 348 0 3
+/.well-known/acme-challenge/0X7Kgt9lH4Op3Ra-uIfGocmhlpJbfqOzeHq0UyvXH7M 4 348 0 1
+/.well-known/acme-challenge/A5bNikCDs5xo1tPaf5gowqNVdZgY8xTB26rBbOEMxBU 4 348 0 0
+/.well-known/acme-challenge/x4vHapV7kKFv7rLtFW4kjZhBZx7v0R7m5YxFI4qcH3U 4 348 2 1
+/wp-admin/install.php 1 1435 1 1
+/.well-known/acme-challenge/R4RMOGJX7-OXKT_L90-IG76C5RJUL2-R 1 64 0 0
+/.well-known/acme-challenge/WPBG7FSUQF8-989P_NAXXRGZ2IZ60QMA 1 64 1 0
+/.well-known/acme-challenge/VGQD-U1BDN1KBJ6U0WDCV5F9GCAXEG7H 1 64 0 0
+/google998d34e56945e43d.html 1 53 1 1
+/.well-known/acme-challenge/6UIVRUGIBNPLWN60UAVFO6AHPBT-G0JA 1 64 0 0
+/store/ 1 0 1 1
+/.well-known/acme-challenge/O7G1TH2NVEWFZSFGI13ODLFYQ4T7W70G 1 64 0 0
+/.well-known/acme-challenge/6XS2SNA_BTAHOI_G4JXK-P3P13U4VHY2 1 64 0 0
+/.well-known/acme-challenge/UGMVVUHSVXH940EHYOOWARYH38HZGS8I 1 64 0 0
+END_SIDER

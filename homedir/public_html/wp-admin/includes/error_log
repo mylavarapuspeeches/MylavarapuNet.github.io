@@ -1,0 +1,2 @@
+[22-Aug-2016 22:17:44 America/Chicago] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home1/himamsu/public_html/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17
+[31-Dec-2016 17:32:42 America/Chicago] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home1/himamsu/public_html/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17

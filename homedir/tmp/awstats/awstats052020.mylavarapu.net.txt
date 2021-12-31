@@ -1,0 +1,359 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202005 will be lost/reset.
+# Last config file used to build this data file was /home1/himamsu/tmp/awstats/awstats.mylavarapu.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2694                
+POS_VISITOR 7548                
+POS_DAY 8344                
+POS_DOMAIN 3413                
+POS_LOGIN 3735                
+POS_ROBOT 3890                
+POS_WORMS 4186                
+POS_EMAILSENDER 4317                
+POS_EMAILRECEIVER 4460                
+POS_SESSION 8776                
+POS_SIDER 8964                
+POS_FILETYPES 4595                
+POS_DOWNLOADS 4731                
+POS_OS 4804                
+POS_BROWSER 4930                
+POS_SCREENSIZE 5106                
+POS_UNKNOWNREFERER 5180                
+POS_UNKNOWNREFERERBROWSER 5654                
+POS_ORIGIN 5950                
+POS_SEREFERRALS 6084                
+POS_PAGEREFS 6228                
+POS_SEARCHWORDS 6376                
+POS_KEYWORDS 6528                
+POS_MISC 2357                
+POS_ERRORS 6587                
+POS_CLUSTER 3591                
+POS_SIDER_404 6744                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200601004021 149 33648 11397099143296
+FirstTime 20200501031843
+LastTime 20200530201438
+LastUpdate 20200601011221 149 0 148 0 0
+TotalVisits 44                  
+TotalUnique 17                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 20                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 15 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 326 468 82670
+1 0 0 0 155 175 158780
+2 1 1 0 319 329 174050
+3 2 2 0 108 124 68136
+4 1 1 0 137 163 18566
+5 5 5 59686 104 109 156007
+6 6 6 59514 485 490 144610
+7 0 1 49380 416 424 49093
+8 2 2 1435 113 173 10570
+9 2 3 56885 111 150 49277
+10 2 3 127104 99 131 78591
+11 8 8 78701 141 151 94775
+12 1 1 0 70 85 10281
+13 7 7 59513 110 126 175546
+14 1 1 0 144 154 118893
+15 0 0 0 93 102 53999
+16 28 28 1728 220 235 15944
+17 1 1 0 136 156 36171
+18 3 3 59513 94 98 22478
+19 40 40 22320 239 260 85423
+20 1 1 53 118 127 12715
+21 0 0 0 137 149 16125
+22 3 3 19188 93 103 5976
+23 0 0 0 157 172 50752
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+us 106 108 170864
+ru 2 2 20623
+nl 2 2 119028
+nc 1 1 19188
+md 1 1 59513
+gb 1 1 19187
+fr 1 1 59513
+in 0 1 127104
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+Googlebot/ 24 89757 20200530230659 0
+bingbot/ 7 516787 20200525025732 0
+facebookexternalhit/ 3 141364 20200525035715 0
+bot[\s_+:,\.\;\/\\-] 1 8938 20200530102313 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+html 4 97941 0 0
+Unknown 63 4860 0 0
+jpg 3 233369 0 0
+php 47 258850 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/sitemap.xml.gz 3 0 2040
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+winlong 4 4
+macosx11 4 4
+winxp 2 1
+win10 2 0
+Unknown 105 105
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 7
+msie6.0 1 1
+Unknown 68 68
+chrome81.0.4044.138 2 0
+firefox11.0 1 0
+chrome46.0.2754.75 4 4
+mozilla 37 37
+chrome56.0.2924.87 4 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20200511193739
+WordPress/5.4.1;_https://www.mylavarapu.net 20200529094843
+WordPress/5.3.3;_http://www.mylavarapu.net 20200519082935
+WordPress/5.3.3;_https://www.mylavarapu.net 20200519091800
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20200530201438
+Cpanel-HTTP-Client/1.0 20200511163729
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+WordPress/5.4.1;_https://www.mylavarapu.net 20200529094843
+WordPress/5.3.3;_http://www.mylavarapu.net 20200519082935
+Cpanel-HTTP-Client/1.0 20200511163729
+WordPress/5.3.3;_https://www.mylavarapu.net 20200519091800
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 69 72
+From1 4 4
+From2 0 0
+From3 0 0
+From4 41 41
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+301 1688 0
+403 2255 312384
+500 2 1262
+404 24 495589
+406 494 111644
+409 141 11703
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 12
+/wp-content/uploads/wp-dl-plugin.php 2 -
+/wp-cl-plugin.php 5 mylavarapu.net
+/wp-dl-plugin.php 5 mylavarapu.net
+/ 1 -
+/wp-content/plugins/apikey/apikey.php 1 -
+/wp-content/uploads/wp-cl-plugin.php 4 mylavarapu.net
+/wp-craft-report.php 1 mylavarapu.net
+/wp-content/themes/AdvanceImage5/functions.php 1 http://www.facebook.net/
+/wp-content/uploads/wp-craft-report.php 1 mylavarapu.net
+/phpMyAdmin/ 1 -
+/wp-content/themes/FifteenTen/403.php 1 http://www.facebook.net/
+/wp-includes/ms-cache.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 20
+192.185.35.30 92 92 3816 20200529094843
+64.78.149.164 3 3 261 20200511193737
+3.14.255.131 2 2 174 20200511193737
+34.222.229.130 2 2 174 20200511193737
+37.97.185.158 2 2 119028 20200511114521
+52.28.236.88 2 2 174 20200511193737
+202.171.78.156 1 1 19188 20200511194135
+18.196.96.172 1 1 87 20200511193737
+185.220.101.24 1 1 19188 20200517220648
+51.68.201.118 1 1 19187 20200515114036
+178.175.148.32 1 1 59513 20200514181911
+34.209.232.166 1 1 87 20200511193737
+108.160.133.137 1 1 59686 20200527051409
+52.15.254.228 1 1 87 20200511193737
+5.44.168.47 1 1 1435 20200519082932
+66.249.90.120 1 1 53 20200530201438
+212.83.181.24 1 1 59513 20200516135710
+182.18.177.158 0 1 127104 
+157.45.205.155 0 1 49380 
+66.102.6.13 0 1 56885 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 19
+20200501 1 1 0 1
+20200503 1 1 0 1
+20200504 1 1 0 1
+20200509 9 9 576 1
+20200510 15 15 60090 3
+20200511 52 52 82410 12
+20200514 2 2 59513 2
+20200515 2 2 19187 2
+20200516 5 5 59513 2
+20200517 5 5 19188 4
+20200518 2 2 0 2
+20200519 3 3 1435 2
+20200520 0 1 49380 0
+20200521 3 4 127104 2
+20200523 2 2 0 2
+20200526 3 4 56885 2
+20200527 5 5 59686 2
+20200529 2 2 0 2
+20200530 1 1 53 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+30mn-1h 1
+0s-30s 36
+2mn-5mn 3
+30s-2mn 3
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 41
+/wp-cron.php 41 0 24 24
+/index.php 5 257415 5 5
+/.well-known/acme-challenge/EUFtxh4zStT3nIeRieL8Ums9q5S-SJGcoU3XED0H6cw 4 348 0 0
+/.well-known/acme-challenge/3S7r1XBQQINjIx1sUBMqAW291F-3d2y5ihpjkIc9ff8 4 348 0 0
+/.well-known/acme-challenge/ukcE_bkPmYBFHxfQHUEYosUAcVWYnT5eb6NxReHE2y0 4 348 0 0
+/.well-known/acme-challenge/zvqryfDLewwn-QNjYXeULQ1Rw_8CYpiRBqXVkG8-DFg 4 348 0 3
+/.well-known/acme-challenge/UCNvRKEXtSqRAuigEWGGx7Lk1M3rgKWEE05QYADhyHc 4 348 0 0
+/.well-known/acme-challenge/mc38WKCB4NWDu4hz8HOLUuYUgKN3hzDGvJ13WMFYDZ4 4 348 0 0
+/.well-known/acme-challenge/Tp8jsDmuLLqqMPkYw-WJcvFbKGtSouijr_WSm4AbHR4 4 348 3 2
+/.well-known/acme-challenge/Fsf33Cv1ZCMYqsGeEpv6cx3k3bfBDuXVK6pDxgXXWK4 4 348 4 2
+/.well-known/acme-challenge/1Y0tj_aycJ1hM3WPrh0U8ATxL8GwuYLfT9-pD9J8s6Q 4 348 1 0
+/ 3 97888 3 3
+/.well-known/acme-challenge/_NO7CU0O1Z7FRE7EXN81WXGF9MV93JW5 1 64 0 0
+/wp-admin/install.php 1 1435 1 1
+/.well-known/acme-challenge/8BRW5FTSG5OP1WQXMWUDG4LQ5CKCR8Z8 1 64 0 0
+/.well-known/acme-challenge/65KRJMBVYBWRFQVWH4-F0KVYCK6I823N 1 64 0 0
+/.well-known/acme-challenge/R6J53HE8YRI-UH188S9L2R-V1V_UZDDF 1 64 0 1
+/.well-known/acme-challenge/QK_RP_FEJH-EDXCLF0VA90FTXYLQ0O4S 1 64 1 0
+/.well-known/acme-challenge/3M8VK891CBJ47U9SKXODOSI2FZ-_Q8V7 1 64 0 0
+/.well-known/acme-challenge/3V2ZZ_M6WDBXGVOIWOFPWW5198C1I86X 1 64 0 0
+/.well-known/acme-challenge/5CN8L4_QFOYZN6U4B4RXP42X59QA8NP9 1 64 0 0
+/.well-known/acme-challenge/OY5IQ0E_754O7EO5MOGDL-4JL8Y7XXHP 1 64 0 0
+/.well-known/acme-challenge/6AIQPM19LG3-ZBQOZWILC4C17TV6259Q 1 64 0 0
+/.well-known/acme-challenge/A397APHRKR5LOJH1UJMI6DCEIB6Z7_VQ 1 64 0 0
+/.well-known/acme-challenge/793CJF3W9KXEZSX7A1UL4FU6-2DWGXGD 1 64 0 1
+/.well-known/acme-challenge/JS741467-VFVF5FHR4FOG81KLGWH63Y8 1 64 0 0
+/.well-known/acme-challenge/921NQ6SNQET44LH4SVW-8AMIQIR_VQCE 1 64 0 0
+/.well-known/acme-challenge/T1RZVZJWC7LZC5XJETC2BHF7MHFZMG-W 1 64 0 0
+/.well-known/acme-challenge/F0NMVRB4KX_7QEWYND_2J7CJNQEJQEM8 1 64 0 0
+/.well-known/acme-challenge/Z647NZLC_ID22BCD6N5T21EVU00W4-LI 1 64 0 0
+/.well-known/acme-challenge/D4K3F2TCHUAOWL9NWAJSZP2Q7MFIUKMH 1 64 0 0
+/.well-known/acme-challenge/MJVY9P5R_IJKHZBB-F54YYZIQOJ2U8MC 1 64 0 0
+/.well-known/acme-challenge/O_WP50F8NYO2MJ_HQPED08O-JHUSZ4JV 1 64 0 0
+/.well-known/acme-challenge/9O_YN7ZLSKZE2PIJQHS8THOAJTAXQB6- 1 64 0 0
+/.well-known/acme-challenge/_91U26WBM7UQWXTI-BTFM6Q08UUAE9W7 1 64 0 0
+/.well-known/acme-challenge/8YZ898SSL6DE_3MSPZ-IKFN8JTR08KE0 1 64 0 0
+/.well-known/acme-challenge/X-LDUANZXCBCG3AMFKB7QZWF99Y98W2T 1 64 1 0
+/google998d34e56945e43d.html 1 53 1 1
+/.well-known/acme-challenge/1GVUK278QY9LBAP93TGMTAGSPVTZNX7U 1 64 0 1
+/.well-known/acme-challenge/B6Q5TTDK-OLE5H3FOL1O18OBMVO0CHDN 1 64 0 0
+/.well-known/acme-challenge/E9C-9E02NGDLLMECV-5_4RA0-8QKDNUB 1 64 0 0
+END_SIDER

@@ -1,0 +1,2 @@
+18 0 * * * /usr/local/cpanel/3rdparty/bin/perl /usr/local/cpanel/3rdparty/quickinstall/scripts/checkupdates.pl
+

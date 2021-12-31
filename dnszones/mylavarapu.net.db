@@ -1,0 +1,43 @@
+; cPanel first:11.36.2.9 (update_time):1454292146 11.36.2.9: Cpanel::ZoneFile::VERSION:1.3 hostname:gator4083.hostgator.com latest:11.48.5.3
+; Zone file for mylavarapu.net
+$TTL 14400
+@      86400	IN      SOA     ns8165.hostgator.com. dnsadmin.gator4083.hostgator.com. (
+		2016020100	; serial, todays date+todays
+		86400		; refresh, seconds
+		7200		; retry, seconds
+		3600000		; expire, seconds
+		86400 )		; minimum, seconds
+
+mylavarapu.net. 86400 IN NS ns8165.hostgator.com.
+mylavarapu.net. 86400 IN NS ns8166.hostgator.com.
+
+
+mylavarapu.net. IN A 192.185.35.30
+
+localhost.mylavarapu.net. IN A 127.0.0.1
+
+mylavarapu.net. IN MX 0 mylavarapu.net.
+
+mail IN CNAME mylavarapu.net.
+www IN CNAME mylavarapu.net.
+ftp IN CNAME mylavarapu.net.
+
+cpanel IN CNAME mylavarapu.net.
+webmail IN CNAME mylavarapu.net.
+
+mylavarapu.net. IN TXT "v=spf1 a mx include:websitewelcome.com ~all"
+webdisk IN A 192.185.35.30
+whm IN A 192.185.35.30
+autoconfig IN A 192.185.35.30
+autodiscover IN A 192.185.35.30
+_autodiscover._tcp IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+cpcalendars IN A 192.185.35.30
+_caldav._tcp IN SRV 0 0 2079 gator4083.hostgator.com.
+_caldavs._tcp IN SRV 0 0 2080 gator4083.hostgator.com.
+_carddav._tcp IN SRV 0 0 2079 gator4083.hostgator.com.
+_carddavs._tcp IN SRV 0 0 2080 gator4083.hostgator.com.
+_caldav._tcp IN TXT path=/
+_caldavs._tcp IN TXT path=/
+_carddav._tcp IN TXT path=/
+_carddavs._tcp IN TXT path=/
+cpcontacts IN A 192.185.35.30

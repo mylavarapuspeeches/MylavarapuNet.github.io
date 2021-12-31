@@ -1,0 +1,2 @@
+[14-Feb-2018 15:46:52 America/Chicago] PHP Fatal error:  Call to undefined function post_class() in /home1/himamsu/public_html/wp-includes/theme-compat/embed-content.php on line 13
+[14-Feb-2018 15:46:58 America/Chicago] PHP Fatal error:  Call to undefined function post_class() in /home1/himamsu/public_html/wp-includes/theme-compat/embed-content.php on line 13

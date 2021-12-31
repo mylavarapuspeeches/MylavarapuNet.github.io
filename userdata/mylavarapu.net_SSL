@@ -1,0 +1,80 @@
+--- 
+directoryhomehimamsupublichtmlcgibin: 
+  ssloptions: +StdEnvVars
+documentroot: /home1/himamsu/public_html
+group: himamsu
+hascgi: 1
+homedir: /home1/himamsu
+ifmoduleheadersmodule: 
+  requestheader: 
+    - 
+      requestheader: set X-HTTPS 1
+ifmodulemodsuphpc: 
+  group: himamsu
+ip: 192.185.35.30
+ipv6: ~
+owner: root
+phpopenbasedirprotect: 1
+port: 443
+proxypass: 
+  - 
+    proxypass: "\"/___proxy_subdomain_cpanel\" \"http://127.0.0.1:2082\" max=1 retry=0"
+  - 
+    proxypass: "\"/___proxy_subdomain_webdisk\" \"http://127.0.0.1:2077\" max=1 retry=0"
+  - 
+    proxypass: "\"/___proxy_subdomain_webmail\" \"http://127.0.0.1:2095\" max=1 retry=0"
+rewritecond: 
+  - 
+    rewritecond: "%{HTTP_HOST} =autodiscover.mylavarapu.net [OR]"
+  - 
+    rewritecond: "%{HTTP_HOST} =autodiscover.mylavarapu.net:443"
+  - 
+    rewritecond: "%{HTTP_HOST} =cpanel.mylavarapu.net [OR]"
+  - 
+    rewritecond: "%{HTTP_HOST} =cpanel.mylavarapu.net:443"
+  - 
+    rewritecond: "%{HTTP_HOST} =webdisk.mylavarapu.net [OR]"
+  - 
+    rewritecond: "%{HTTP_HOST} =webdisk.mylavarapu.net:443"
+  - 
+    rewritecond: "%{HTTP_HOST} =webmail.mylavarapu.net [OR]"
+  - 
+    rewritecond: "%{HTTP_HOST} =webmail.mylavarapu.net:443"
+rewriteengine: 'On'
+rewriterule: 
+  - 
+    pattern: "^"
+    qualifier: "[P]"
+    substitution: http://127.0.0.1/cgi-sys/autodiscover.cgi
+  - 
+    pattern: "^/(.*)"
+    qualifier: "[PT]"
+    substitution: /___proxy_subdomain_cpanel/$1
+  - 
+    pattern: "^/(.*)"
+    qualifier: "[PT]"
+    substitution: /___proxy_subdomain_webdisk/$1
+  - 
+    pattern: "^/(.*)"
+    qualifier: "[PT]"
+    substitution: /___proxy_subdomain_webmail/$1
+scriptalias: 
+  - 
+    path: /home1/himamsu/public_html/cgi-bin/
+    url: /cgi-bin/
+secruleengineoff: ~
+serveradmin: webmaster@mylavarapu.net
+serveralias: www.mylavarapu.net mail.mylavarapu.net
+servername: mylavarapu.net
+setenvif: 
+  - 
+    attribute: User-Agent
+    env_variables: nokeepalive ssl-unclean-shutdown
+    regex: "\".*MSIE.*\""
+ssl: 1
+sslcacertificatefile: /var/cpanel/ssl/apache_tls/mylavarapu.net/combined
+sslcertificatefile: /var/cpanel/ssl/apache_tls/mylavarapu.net/combined
+sslengine: 'on'
+usecanonicalname: 'Off'
+user: himamsu
+userdirprotect: ''

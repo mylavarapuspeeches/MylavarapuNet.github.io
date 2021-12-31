@@ -1,0 +1,31 @@
+--- 
+customlog: 
+  - 
+    format: combined
+    target: /usr/local/apache/domlogs/mylavarapu.net
+  - 
+    format: "\"%{%s}t %I .\\n%{%s}t %O .\""
+    target: /usr/local/apache/domlogs/mylavarapu.net-bytes_log
+documentroot: /home1/himamsu/public_html
+group: himamsu
+hascgi: 1
+homedir: /home1/himamsu
+ip: 192.185.35.30
+owner: root
+phpopenbasedirprotect: 1
+phpversion: ea-php73
+port: 80
+scriptalias: 
+  - 
+    path: /home1/himamsu/public_html/cgi-bin
+    url: /cgi-bin/
+  - 
+    path: /home1/himamsu/public_html/cgi-bin/
+    url: /cgi-bin/
+serveradmin: webmaster@mylavarapu.net
+serveralias: www.mylavarapu.net mail.mylavarapu.net
+servername: mylavarapu.net
+ssl: 1
+usecanonicalname: 'Off'
+user: himamsu
+userdirprotect: ''

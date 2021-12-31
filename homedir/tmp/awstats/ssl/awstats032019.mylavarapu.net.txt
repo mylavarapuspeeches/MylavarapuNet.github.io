@@ -1,0 +1,386 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201903 will be lost/reset.
+# Last config file used to build this data file was /home1/himamsu/tmp/awstats/ssl/awstats.mylavarapu.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2687                
+POS_VISITOR 8660                
+POS_DAY 10314               
+POS_DOMAIN 3481                
+POS_LOGIN 3803                
+POS_ROBOT 3958                
+POS_WORMS 4211                
+POS_EMAILSENDER 4342                
+POS_EMAILRECEIVER 4485                
+POS_SESSION 11124               
+POS_SIDER 11336               
+POS_FILETYPES 4620                
+POS_DOWNLOADS 4779                
+POS_OS 4827                
+POS_BROWSER 4980                
+POS_SCREENSIZE 5243                
+POS_UNKNOWNREFERER 5317                
+POS_UNKNOWNREFERERBROWSER 6179                
+POS_ORIGIN 6692                
+POS_SEREFERRALS 6830                
+POS_PAGEREFS 6974                
+POS_SEARCHWORDS 7122                
+POS_KEYWORDS 7274                
+POS_MISC 2351                
+POS_ERRORS 7333                
+POS_CLUSTER 3659                
+POS_SIDER_404 7515                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190401000853 1 0 10904886078472
+FirstTime 20190301034054
+LastTime 20190331180723
+LastUpdate 20190402002105 1 0 0 0 0
+TotalVisits 307                 
+TotalUnique 41                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 41                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 14 14 61857 8 15 275921
+1 9 9 0 6 10 313844
+2 12 12 0 19 36 680787
+3 40 40 371091 28 39 702194
+4 11 11 0 9 16 321264
+5 19 19 185583 10 17 184832
+6 20 58 1232716 21 30 357636
+7 53 53 494835 39 48 624554
+8 15 15 61857 15 32 630128
+9 53 53 495270 58 70 774349
+10 19 57 1170853 12 16 516708
+11 34 72 1170853 15 31 677505
+12 19 19 128358 10 19 126413
+13 27 27 139180 13 29 791903
+14 44 44 558238 32 52 986830
+15 24 24 185589 10 25 396228
+16 84 122 1727569 58 97 1239031
+17 58 58 688218 27 47 645282
+18 83 121 2493285 31 37 64304
+19 13 13 0 7 15 157956
+20 21 59 1170853 15 35 784574
+21 15 15 123726 12 28 331262
+22 70 70 1046186 37 49 628554
+23 23 23 185577 15 32 654446
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 671 671 1253923
+de 70 298 10025570
+ca 20 20 1236960
+fr 10 10 618504
+cn 7 7 433017
+nl 1 1 61863
+ru 1 1 61857
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+Googlebot/ 265 6956177 20190331150230 45
+bot[\s_+:,\.\;\/\\-] 18 1110900 20190328232352 0
+curl 2 123720 20190318024604 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+jpg 36 979086 0 0
+js 108 1474344 0 0
+html 133 7757524 0 0
+css 84 3458226 0 0
+php 647 22514 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+linux 234 6
+Unknown 686 686
+win10 61 61
+macosx10 2 2
+macosx12 9 9
+macosx11 7 7
+win7 9 9
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 11
+firefox36.0 6 6
+mozilla 11 11
+chrome69.0.3497.100 34 34
+Unknown 675 675
+firefox50.0 234 6
+netscape5.0 1 1
+chrome61.0.3163.100 9 9
+firefox47.0 7 7
+firefox64.0 26 26
+chrome66.0.3359.117 3 3
+chrome52.0.2743.116 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12ca;__http://researchscan.comsys.rwth-aachen.de) 20190324183354
+fasthttp 20190308145553
+WordPress/4.9.10;_http://www.mylavarapu.net 20190324164348
+Go-http-client/2.0 20190307225638
+WordPress/4.9.9;_http://www.mylavarapu.net 20190313034028
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20190324160240
+WordPress/4.9.10;_https://www.mylavarapu.net 20190331180725
+WordPress/4.9.9;_https://www.mylavarapu.net 20190313034125
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20190324171026
+Python/3.6_aiohttp/3.5.4 20190324070222
+WordPress.com;_https://www.mylavarapu.net 20190309091025
+Jetpack_by_WordPress.com 20190323132302
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 9
+WordPress/4.9.9;_http://www.mylavarapu.net 20190313034028
+Go-http-client/2.0 20190307225638
+fasthttp 20190308145553
+WordPress/4.9.10;_http://www.mylavarapu.net 20190324164348
+WordPress/4.9.10;_https://www.mylavarapu.net 20190331180725
+WordPress.com;_https://www.mylavarapu.net 20190309091025
+Jetpack_by_WordPress.com 20190323132302
+WordPress/4.9.9;_https://www.mylavarapu.net 20190313034125
+Python/3.6_aiohttp/3.5.4 20190324070222
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 127 355
+From1 0 0
+From2 0 0
+From3 0 0
+From4 653 653
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+302 6 0
+301 262 0
+401 6 634662
+403 39 18330
+404 135 4010851
+400 30 285
+500 6 1212
+406 40 9040
+409 16 1328
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 18
+/fckeditor/editor/filemanager/connectors/php/upload.php 6 -
+/wp-content/plugins/barclaycart/uploadify/settings_auto.php 6 -
+/wp-content/plugins/cherry-plugin/admin/import-export/settings_auto.php 6 -
+/Dockerfile 1 -
+/wp-content/plugins/downloads-manager/img/unlock.gif 6 -
+/admin/images/cal_date_over.gif 6 -
+/webconfig.txt.php 2 http://www.google.com.hk
+/admin/login.php 6 -
+/wp-content/plugins/category-page-icons/css/menu.css 6 -
+/wp-content/plugins/viral-optins/api/uploader/file-uploader.php 6 -
+/wp-content/plugins/formcraft/file-upload/server/content/upload.php 12 -
+/templates/system/css/system.css 6 -
+/ads.txt 36 -
+/wp-json/wp/v2/posts/None 6 -
+/jm-ajax/upload_file/ 6 -
+/wp-content/uploads/2019/03/settings_auto.php 6 -
+/wp-content/plugins/hd-webplayer/playlist.php 6 -
+/wp-content/plugins/wp-mobile-detector/resize.php 6 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 41
+192.185.35.30 631 631 0 20190331180725
+131.220.6.132 34 34 1940990 20190331180723
+131.220.6.146 17 17 997575 20190324070222
+192.99.15.55 10 10 618480 20190313140551
+66.70.178.119 10 10 489083 20190307225638
+13.57.233.99 9 9 556749 20190329232127
+60.191.38.77 7 7 433017 20190324223927
+137.226.113.28 7 7 433023 20190324171026
+37.59.55.45 5 5 309252 20190315161135
+94.23.255.34 5 5 309252 20190316073412
+192.99.15.139 5 5 309252 20190320095913
+192.99.35.149 5 5 309228 20190313034054
+137.226.113.34 4 156 4188538 20190318165504
+137.226.113.27 3 3 185577 20190324183354
+85.214.22.8 2 2 123726 20190324164353
+185.249.197.229 1 1 61857 20190308145553
+192.0.87.124 1 1 1546 20190312132251
+192.0.86.165 1 1 1546 20190313131335
+107.6.183.162 1 1 61857 20190309224156
+137.226.113.42 1 39 1047139 20190313112403
+192.0.89.65 1 1 1546 20190309122109
+192.0.86.130 1 1 435 20190318222501
+192.0.86.115 1 1 435 20190309091022
+137.226.113.21 1 39 1047139 20190324201615
+139.162.73.218 1 1 61863 20190328125647
+192.0.86.148 1 1 1546 20190310144300
+192.0.86.152 1 1 1546 20190315134345
+54.183.183.87 1 1 0 20190328205907
+137.226.113.26 1 1 61863 20190318140626
+192.0.87.23 1 1 1546 20190321132320
+192.0.89.57 1 1 1546 20190323132302
+192.0.103.4 1 1 61857 20190309091025
+192.0.86.198 1 1 1546 20190318131735
+54.219.149.58 1 1 0 20190329191257
+192.0.87.39 1 1 1546 20190314132304
+192.0.86.72 1 1 1546 20190317132829
+192.0.87.14 1 1 1546 20190308124208
+192.0.87.126 1 1 1546 20190316132420
+192.0.87.150 1 1 1546 20190306124457
+108.178.61.58 1 1 61863 20190325061410
+192.0.86.80 1 1 1546 20190320134031
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20190301 25 63 1356418 11
+20190302 12 12 61857 6
+20190303 10 10 123714 6
+20190304 14 14 185571 8
+20190305 15 53 1108990 6
+20190306 9 9 63403 7
+20190307 20 20 550940 5
+20190308 19 19 125260 10
+20190309 17 17 187552 12
+20190310 54 54 496345 12
+20190311 20 20 193344 7
+20190312 27 65 1365737 13
+20190313 83 121 1914617 18
+20190314 15 15 63409 5
+20190315 66 66 434524 14
+20190316 53 53 558250 14
+20190317 20 20 310861 9
+20190318 30 68 1420298 20
+20190319 20 20 61863 11
+20190320 48 48 380435 12
+20190321 22 22 310861 10
+20190322 18 18 61863 9
+20190323 14 14 125272 10
+20190324 39 77 1603906 16
+20190325 18 18 123726 8
+20190326 16 16 123726 8
+20190327 13 13 61863 8
+20190328 20 20 69637 11
+20190329 22 22 123726 9
+20190330 14 14 61863 6
+20190331 7 7 61863 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 15
+1h+ 26
+30mn-1h 24
+5mn-15mn 12
+30s-2mn 3
+0s-30s 212
+2mn-5mn 15
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 9
+/wp-cron.php 631 0 202 202
+/ 126 7454012 89 88
+/xmlrpc.php 16 22514 16 16
+/about/ 2 93668 0 0
+/store/ 1 38986 0 0
+/us-trip/ 1 42063 0 1
+/books/ 1 41797 0 0
+/videos/ 1 48192 0 0
+/mobile-users/ 1 38806 0 0
+END_SIDER

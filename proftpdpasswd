@@ -1,0 +1,3 @@
+himamsu:$1$9/B67ygC$vEdprm8J5wGqOHKjF0z6w/:31466:31466:himamsu:/home1/himamsu:/usr/local/cpanel/bin/jailshell
+himamsu_logs:$1$9/B67ygC$vEdprm8J5wGqOHKjF0z6w/:31466:31466:himamsu:/etc/apache2/logs/domlogs/himamsu:/bin/ftpsh
+ftp::14:50:himamsu:/home1/himamsu/public_ftp:/bin/ftpsh

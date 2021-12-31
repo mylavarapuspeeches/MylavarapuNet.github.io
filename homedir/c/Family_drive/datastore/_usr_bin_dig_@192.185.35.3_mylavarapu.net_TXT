@@ -1,0 +1,27 @@
+
+; <<>> DiG 9.8.2rc1-RedHat-9.8.2-0.17.rc1.el6_4.6 <<>> @192.185.35.3 mylavarapu.net TXT
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 12623
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;mylavarapu.net.			IN	TXT
+
+;; ANSWER SECTION:
+mylavarapu.net.		14400	IN	TXT	"v=spf1 a mx include:websitewelcome.com ~all"
+
+;; AUTHORITY SECTION:
+mylavarapu.net.		86400	IN	NS	ns8165.hostgator.com.
+mylavarapu.net.		86400	IN	NS	ns8166.hostgator.com.
+
+;; ADDITIONAL SECTION:
+ns8165.hostgator.com.	14400	IN	A	192.185.35.3
+ns8166.hostgator.com.	14400	IN	A	192.185.35.26
+
+;; Query time: 2 msec
+;; SERVER: 192.185.35.3#53(192.185.35.3)
+;; WHEN: Sun Jan 19 04:41:57 2014
+;; MSG SIZE  rcvd: 175
+

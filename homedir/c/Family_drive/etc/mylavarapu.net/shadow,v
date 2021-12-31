@@ -1,0 +1,54 @@
+head	1.3;
+access;
+symbols;
+locks
+	himamsu:1.3; strict;
+comment	@# @;
+
+
+1.3
+date	2014.02.08.17.32.38;	author himamsu;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2014.02.08.17.28.14;	author himamsu;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2014.02.08.17.28.14;	author himamsu;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@books:$1$lAUtiNyl$y1MbnFXW7pIzE5rSz7ndp1:16109::::::
+online:$1$AX5xM3R4$IDRXBU4SNMPSO0NDOV4Sg/:16109::::::
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

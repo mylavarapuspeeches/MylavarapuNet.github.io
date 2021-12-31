@@ -1,0 +1,106 @@
+[10-Sep-2015 16:48:17 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/himamsu/public_html/wp-includes/class-snoopy.php on line 6
+[10-Sep-2015 16:48:17 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home1/himamsu/public_html/wp-includes/default-widgets.php on line 14
+[10-Sep-2015 16:48:17 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/himamsu/public_html/wp-includes/feed-rdf.php on line 8
+[10-Sep-2015 16:48:17 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home1/himamsu/public_html/wp-includes/default-filters.php on line 17
+[10-Sep-2015 16:48:17 America/Chicago] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home1/himamsu/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[10-Sep-2015 16:48:17 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/himamsu/public_html/wp-includes/registration.php on line 7
+[10-Sep-2015 16:48:17 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/himamsu/public_html/wp-includes/rss-functions.php on line 8
+[10-Sep-2015 16:48:18 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home1/himamsu/public_html/wp-includes/nav-menu-template.php on line 16
+[10-Sep-2015 16:48:18 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/himamsu/public_html/wp-includes/functions.php on line 8
+[10-Sep-2015 16:48:18 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/himamsu/public_html/wp-includes/functions.php on line 8
+[10-Sep-2015 16:48:18 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/php54/lib/php') in /home1/himamsu/public_html/wp-includes/functions.php on line 8
+[10-Sep-2015 16:48:18 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/himamsu/public_html/wp-includes/ms-default-constants.php on line 153
+[10-Sep-2015 16:48:18 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/himamsu/public_html/wp-includes/feed-rss.php on line 8
+[10-Sep-2015 16:48:19 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/himamsu/public_html/wp-includes/rss.php on line 19
+[10-Sep-2015 16:48:19 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home1/himamsu/public_html/wp-includes/class-wp-embed.php on line 26
+[10-Sep-2015 16:48:19 America/Chicago] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php): failed to open stream: No such file or directory in /home1/himamsu/public_html/wp-includes/class-feed.php on line 4
+[10-Sep-2015 16:48:19 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/opt/php54/lib/php') in /home1/himamsu/public_html/wp-includes/class-feed.php on line 4
+[10-Sep-2015 16:48:21 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/himamsu/public_html/wp-includes/feed-atom-comments.php on line 8
+[10-Sep-2015 16:48:21 America/Chicago] PHP Warning:  require_once(ABSPATHWPINC/ms-load.php): failed to open stream: No such file or directory in /home1/himamsu/public_html/wp-includes/ms-settings.php on line 14
+[10-Sep-2015 16:48:21 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/opt/php54/lib/php') in /home1/himamsu/public_html/wp-includes/ms-settings.php on line 14
+[10-Sep-2015 16:48:24 America/Chicago] PHP Fatal error:  Class 'WP_Dependencies' not found in /home1/himamsu/public_html/wp-includes/class.wp-scripts.php on line 19
+[10-Sep-2015 16:48:25 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home1/himamsu/public_html/wp-includes/post-template.php on line 1292
+[10-Sep-2015 16:48:25 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home1/himamsu/public_html/wp-includes/category-template.php on line 912
+[10-Sep-2015 16:48:25 America/Chicago] PHP Fatal error:  Call to undefined function add_shortcode() in /home1/himamsu/public_html/wp-includes/media.php on line 815
+[10-Sep-2015 16:48:26 America/Chicago] PHP Fatal error:  Class 'WP_Dependencies' not found in /home1/himamsu/public_html/wp-includes/class.wp-styles.php on line 19
+[10-Sep-2015 16:48:27 America/Chicago] PHP Fatal error:  Call to undefined function is_robots() in /home1/himamsu/public_html/wp-includes/template-loader.php on line 28
+[10-Sep-2015 16:48:27 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/himamsu/public_html/wp-includes/feed-atom.php on line 8
+[10-Sep-2015 16:48:28 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home1/himamsu/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[10-Sep-2015 16:48:30 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/himamsu/public_html/wp-includes/registration-functions.php on line 7
+[10-Sep-2015 16:48:31 America/Chicago] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home1/himamsu/public_html/wp-includes/class-wp-image-editor-imagick.php on line 17
+[10-Sep-2015 16:48:31 America/Chicago] PHP Fatal error:  Call to undefined function is_main_site() in /home1/himamsu/public_html/wp-includes/update.php on line 666
+[10-Sep-2015 16:48:31 America/Chicago] PHP Fatal error:  Call to undefined function is_admin() in /home1/himamsu/public_html/wp-includes/vars.php on line 23
+[10-Sep-2015 16:48:31 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home1/himamsu/public_html/wp-includes/comment-template.php on line 1662
+[10-Sep-2015 16:48:31 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/himamsu/public_html/wp-includes/feed-rss2-comments.php on line 8
+[10-Sep-2015 16:48:31 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/himamsu/public_html/wp-includes/ms-default-filters.php on line 17
+[10-Sep-2015 16:48:33 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/himamsu/public_html/wp-includes/feed-rss2.php on line 8
+[10-Sep-2015 16:48:33 America/Chicago] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home1/himamsu/public_html/wp-includes/script-loader.php on line 25
+[10-Sep-2015 16:48:33 America/Chicago] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home1/himamsu/public_html/wp-includes/script-loader.php on line 25
+[10-Sep-2015 16:48:33 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/opt/php54/lib/php') in /home1/himamsu/public_html/wp-includes/script-loader.php on line 25
+[10-Sep-2015 17:38:32 America/Chicago] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home1/himamsu/public_html/wp-includes/class-simplepie.php on line 5
+[10-Sep-2015 17:38:32 America/Chicago] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home1/himamsu/public_html/wp-includes/class-simplepie.php on line 5
+[10-Sep-2015 17:38:32 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/opt/php54/lib/php') in /home1/himamsu/public_html/wp-includes/class-simplepie.php on line 5
+[10-Sep-2015 18:54:33 America/Chicago] PHP Fatal error:  Class 'IXR_Client' not found in /home1/himamsu/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[03-Dec-2015 01:37:27 America/Chicago] PHP Fatal error:  Call to undefined function is_robots() in /home1/himamsu/public_html/wp-includes/template-loader.php on line 28
+[03-Dec-2015 01:37:27 America/Chicago] PHP Warning:  require_once(ABSPATHWPINC/ms-load.php): failed to open stream: No such file or directory in /home1/himamsu/public_html/wp-includes/ms-settings.php on line 14
+[03-Dec-2015 01:37:27 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/opt/php54/lib/php') in /home1/himamsu/public_html/wp-includes/ms-settings.php on line 14
+[03-Dec-2015 01:37:27 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home1/himamsu/public_html/wp-includes/class-wp-embed.php on line 28
+[03-Dec-2015 01:37:27 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home1/himamsu/public_html/wp-includes/category-template.php on line 967
+[03-Dec-2015 01:37:27 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/himamsu/public_html/wp-includes/functions.php on line 8
+[03-Dec-2015 01:37:27 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/himamsu/public_html/wp-includes/functions.php on line 8
+[03-Dec-2015 01:37:27 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/php54/lib/php') in /home1/himamsu/public_html/wp-includes/functions.php on line 8
+[03-Dec-2015 01:37:27 America/Chicago] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home1/himamsu/public_html/wp-includes/class-wp-image-editor-imagick.php on line 17
+[03-Dec-2015 01:37:27 America/Chicago] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home1/himamsu/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[03-Dec-2015 01:37:27 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home1/himamsu/public_html/wp-includes/ms-default-filters.php on line 16
+[03-Dec-2015 01:37:27 America/Chicago] PHP Fatal error:  Class 'WP_Dependencies' not found in /home1/himamsu/public_html/wp-includes/class.wp-scripts.php on line 19
+[03-Dec-2015 01:37:27 America/Chicago] PHP Fatal error:  Call to undefined function add_shortcode() in /home1/himamsu/public_html/wp-includes/media.php on line 831
+[03-Dec-2015 01:37:27 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/himamsu/public_html/wp-includes/feed-atom.php on line 8
+[03-Dec-2015 01:37:27 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home1/himamsu/public_html/wp-includes/post-template.php on line 1325
+[03-Dec-2015 01:37:27 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/himamsu/public_html/wp-includes/rss.php on line 19
+[03-Dec-2015 01:37:27 America/Chicago] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php): failed to open stream: No such file or directory in /home1/himamsu/public_html/wp-includes/class-feed.php on line 4
+[03-Dec-2015 01:37:27 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home1/himamsu/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[03-Dec-2015 01:37:27 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/opt/php54/lib/php') in /home1/himamsu/public_html/wp-includes/class-feed.php on line 4
+[03-Dec-2015 01:37:27 America/Chicago] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home1/himamsu/public_html/wp-includes/class-simplepie.php on line 5
+[03-Dec-2015 01:37:27 America/Chicago] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home1/himamsu/public_html/wp-includes/class-simplepie.php on line 5
+[03-Dec-2015 01:37:27 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/opt/php54/lib/php') in /home1/himamsu/public_html/wp-includes/class-simplepie.php on line 5
+[03-Dec-2015 01:37:27 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/himamsu/public_html/wp-includes/feed-atom-comments.php on line 8
+[03-Dec-2015 01:37:27 America/Chicago] PHP Fatal error:  Class 'WP_Dependencies' not found in /home1/himamsu/public_html/wp-includes/class.wp-styles.php on line 19
+[03-Dec-2015 01:37:27 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/himamsu/public_html/wp-includes/feed-rss2.php on line 8
+[03-Dec-2015 01:37:27 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/himamsu/public_html/wp-includes/registration.php on line 7
+[03-Dec-2015 01:37:28 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home1/himamsu/public_html/wp-includes/nav-menu-template.php on line 16
+[03-Dec-2015 01:37:28 America/Chicago] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home1/himamsu/public_html/wp-includes/script-loader.php on line 25
+[03-Dec-2015 01:37:28 America/Chicago] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home1/himamsu/public_html/wp-includes/script-loader.php on line 25
+[03-Dec-2015 01:37:28 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/opt/php54/lib/php') in /home1/himamsu/public_html/wp-includes/script-loader.php on line 25
+[03-Dec-2015 01:37:28 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home1/himamsu/public_html/wp-includes/default-filters.php on line 17
+[03-Dec-2015 01:37:28 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home1/himamsu/public_html/wp-includes/default-widgets.php on line 14
+[03-Dec-2015 01:37:28 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/himamsu/public_html/wp-includes/class-snoopy.php on line 6
+[03-Dec-2015 01:37:28 America/Chicago] PHP Fatal error:  Class 'IXR_Client' not found in /home1/himamsu/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[03-Dec-2015 01:37:28 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/himamsu/public_html/wp-includes/feed-rdf.php on line 8
+[03-Dec-2015 01:37:28 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/himamsu/public_html/wp-includes/feed-rss2-comments.php on line 8
+[03-Dec-2015 01:37:28 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/himamsu/public_html/wp-includes/rss-functions.php on line 8
+[03-Dec-2015 01:37:28 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/himamsu/public_html/wp-includes/registration-functions.php on line 7
+[03-Dec-2015 01:37:29 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home1/himamsu/public_html/wp-includes/feed-rss.php on line 8
+[03-Dec-2015 01:37:30 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home1/himamsu/public_html/wp-includes/comment-template.php on line 1680
+[03-Dec-2015 02:13:45 America/Chicago] PHP Fatal error:  Call to undefined function is_admin() in /home1/himamsu/public_html/wp-includes/vars.php on line 23
+[05-Jan-2017 14:11:21 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/himamsu/public_html/wp-includes/registration-functions.php on line 7
+[07-Jan-2017 15:39:52 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/himamsu/public_html/wp-includes/functions.php on line 8
+[07-Jan-2017 15:39:52 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/himamsu/public_html/wp-includes/functions.php on line 8
+[07-Jan-2017 15:39:52 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/php54/lib/php') in /home1/himamsu/public_html/wp-includes/functions.php on line 8
+[10-Mar-2017 16:05:01 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/himamsu/public_html/wp-includes/rss-functions.php on line 8
+[25-Mar-2017 16:14:23 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/himamsu/public_html/wp-includes/registration-functions.php on line 7
+[31-Jul-2020 03:17:20 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home1/himamsu/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 03:17:21 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home1/himamsu/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:08:13 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home1/himamsu/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[01-Aug-2020 07:15:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/himamsu/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/himamsu/public_html/wp-includes/feed-atom-comments.php on line 8
+[01-Aug-2020 07:15:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home1/himamsu/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/himamsu/public_html/wp-includes/feed-atom-comments.php on line 8
+[07-Feb-2021 04:03:59 America/Chicago] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home1/himamsu/public_html/wp-includes/functions.php on line 8
+[07-Feb-2021 04:03:59 America/Chicago] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home1/himamsu/public_html/wp-includes/functions.php on line 8
+[07-Feb-2021 04:03:59 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/himamsu/public_html/wp-includes/functions.php on line 8
+[07-Feb-2021 04:03:59 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/himamsu/public_html/wp-includes/functions.php on line 8
+[07-Feb-2021 04:03:59 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/himamsu/public_html/wp-includes/functions.php on line 8

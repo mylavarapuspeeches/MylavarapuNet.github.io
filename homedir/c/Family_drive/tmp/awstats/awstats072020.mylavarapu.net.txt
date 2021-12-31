@@ -1,0 +1,571 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202007 will be lost/reset.
+# Last config file used to build this data file was /home1/himamsu/tmp/awstats/awstats.mylavarapu.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2678                
+POS_VISITOR 7353                
+POS_DAY 8283                
+POS_DOMAIN 3404                
+POS_LOGIN 3690                
+POS_ROBOT 3845                
+POS_WORMS 4249                
+POS_EMAILSENDER 4380                
+POS_EMAILRECEIVER 4523                
+POS_SESSION 8692                
+POS_SIDER 8850                
+POS_FILETYPES 4658                
+POS_DOWNLOADS 4810                
+POS_OS 4883                
+POS_BROWSER 4990                
+POS_SCREENSIZE 5161                
+POS_UNKNOWNREFERER 5235                
+POS_UNKNOWNREFERERBROWSER 5592                
+POS_ORIGIN 5771                
+POS_SEREFERRALS 5911                
+POS_PAGEREFS 6055                
+POS_SEARCHWORDS 6224                
+POS_KEYWORDS 6376                
+POS_MISC 2341                
+POS_ERRORS 6435                
+POS_CLUSTER 3546                
+POS_SIDER_404 6581                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200801010610 66 15417 12904193718747
+FirstTime 0
+LastTime 20200731140812
+LastUpdate 20200801072425 66 0 65 0 0
+TotalVisits 55                  
+TotalUnique 22                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 23                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 18 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 12 12 0 83 96 253816
+1 11 11 0 187 232 138328
+2 0 0 0 95 116 8191
+3 3 3 314 79 98 177088
+4 4 4 0 68 99 58798
+5 2 2 0 160 192 49198
+6 0 0 0 111 130 273733
+7 31 31 0 128 141 475940
+8 141 141 324639 118 136 270333
+9 15 15 0 128 159 140431
+10 15 15 0 121 136 264928
+11 0 0 0 97 111 7560
+12 19 19 386 120 139 291376
+13 5 5 53 85 104 167844
+14 93 93 118675 190 201 34090
+15 15 15 0 141 150 134603
+16 41 41 576 122 130 418649
+17 1 1 0 57 70 37011
+18 15 15 0 94 103 132506
+19 8 8 187 144 156 74011
+20 38 38 16045 88 103 1195818
+21 0 0 0 176 187 12367
+22 16 17 77714 100 109 126343
+23 1 1 0 103 118 272958
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+us 251 252 62077
+gb 228 228 475854
+de 3 3 501
+fr 2 2 0
+it 1 1 0
+ru 1 1 157
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+Mail\.RU_Bot/ 15 1991970 20200731121939 0
+bingbot/ 14 379787 20200726005314 0
+Googlebot\-Image/ 11 703280 20200731021949 0
+Googlebot/ 3 2040 20200731062929 0
+YandexBot/ 2 630 20200727205557 0
+bot[\s_+:,\.\;\/\\-] 1 8938 20200705092035 0
+YandexImages/ 1 0 20200702150958 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+php 213 1044 0 0
+html 227 475907 0 0
+jpg 1 56885 0 0
+xml 1 1045 0 0
+Unknown 45 3708 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/sitemap.xml.gz 4 0 2720
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+win10 227 227
+Unknown 248 248
+winxp 12 11
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+chrome5.0.375.99 11 11
+chrome83.0.4103.116 226 226
+Unknown 211 211
+mozilla 37 37
+chrome76.0.3809.132 1 1
+firefox11.0 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Cpanel-HTTP-Client/1.0 20200712162140
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20200712204945
+WordPress/5.4.2;_https://www.mylavarapu.net 20200730052023
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20200730130759
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WordPress/5.4.2;_https://www.mylavarapu.net 20200730052023
+Cpanel-HTTP-Client/1.0 20200712162140
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 273 274
+From1 0 0
+From2 0 0
+From3 11 11
+From4 202 202
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://site.ru 11 11
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+301 1579 0
+406 768 155940
+404 198 1698256
+403 466 63242
+409 140 11620
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 19
+/cgi-bin/php4.cgi 15 -
+/cgi/php4.cgi 11 -
+/php.cgi 11 -
+/cgi-bin/php5.cgi 15 -
+/php4.cgi 11 -
+/cgi/php5.cgi 11 -
+/php5.cgi 11 -
+/cgi-bin/php 15 -
+/cgi-bin/php.cgi 15 -
+/wp-includes/Requests/Cookie/helpers.php 1 mylavarapu.net
+/cgi-bin/php-cgi 15 -
+/cgi/php.cgi 11 -
+/cgi-bin/php5 15 -
+/wp-admin/includes/helpers.php 1 mylavarapu.net
+/cgi-bin/php5-cgi 11 -
+/cgi-bin/php4-cgi 11 -
+/cgi-bin/php4 15 -
+/wp-admin/maint/helpers.php 1 mylavarapu.net
+/siteindex.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 23
+192.185.35.30 235 235 2664 20200730052023
+51.158.153.224 51 51 88827 20200704141416
+51.158.153.222 48 48 92376 20200704203729
+51.158.153.221 44 44 114534 20200704141415
+51.158.153.225 43 43 70472 20200704141418
+51.158.153.223 40 40 109645 20200704141417
+64.78.149.164 3 3 261 20200712204944
+52.28.236.88 2 2 174 20200712204944
+52.15.254.228 2 2 174 20200712204944
+88.198.177.113 2 2 314 20200731031720
+88.99.26.12 2 2 0 20200730160256
+46.21.198.188 2 2 0 20200730123550
+47.90.80.159 2 2 386 20200730123117
+34.222.229.130 2 2 174 20200712204944
+18.196.96.172 1 1 87 20200712204944
+85.214.156.52 1 1 187 20200730191230
+45.41.134.91 1 1 1045 20200705082221
+34.209.232.166 1 1 87 20200712204944
+151.11.49.88 1 1 0 20200731075259
+66.249.90.122 1 1 53 20200730130759
+3.14.255.131 1 1 87 20200712204944
+185.156.1.155 1 1 157 20200731140812
+66.249.88.58 0 1 56885 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 18
+20200701 1 1 0 1
+20200702 1 1 20829 1
+20200703 132 132 323594 5
+20200704 93 93 131431 6
+20200705 1 1 1045 1
+20200709 1 1 0 1
+20200712 45 45 3708 9
+20200714 18 18 0 3
+20200715 38 38 0 4
+20200716 46 46 0 4
+20200718 45 46 56885 3
+20200720 46 46 0 4
+20200721 1 1 0 1
+20200722 1 1 0 1
+20200723 1 1 0 1
+20200725 3 3 0 1
+20200730 9 9 626 6
+20200731 4 4 471 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 22
+0s-30s 33
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 252
+/wp-cron.php 202 0 25 25
+/.well-known/acme-challenge/a_sMFwfDVcTPDK52b5DrltXlcBAa6V4lXJvqHWNySx8 4 348 3 4
+/.well-known/acme-challenge/yoUBp64wyrgOxVnFwAW0OwtwK_TsSH8bDgLm5JHfaYA 4 348 0 1
+/.well-known/acme-challenge/2QLPYaPJbkLq14-EnMBllMu4jS9eqwi9TZqzNAy64FA 4 348 0 3
+/.well-known/acme-challenge/TqfRcvzDJEgCm_rLAJuZtEfBZKCNIYctCyW6d2VyMR4 4 348 0 0
+/.well-known/acme-challenge/1HVYqoZHi3TBsBsRt2WtFSa9UgvuN0cF2dGbB2vSRog 4 348 1 0
+/.well-known/acme-challenge/wLiaf1ElZmqffxODVn0vN-BTMADfcDKNNJmJNoKuu0Q 4 348 0 0
+/.well-known/acme-challenge/nmTG3OwTUMiIrhFJTsLSiEykj10q4C5m-w_FDyK0n-4 4 348 0 0
+/.well-known/acme-challenge/GNd5U7cF_chSPR8VVC9jvbLokxEn02AnQdnbvHQ9WkQ 4 348 0 0
+/.well-known/acme-challenge/OrYbE1y2XPXKMlGHKonJcVV5wemm4hCYDg_w-kTTJ18 4 348 4 0
+/wp-includes/formatting.php 3 0 2 2
+/wp-includes/class-wp-xmlrpc-server.php 3 471 2 2
+/wp-includes/customize/class-wp-widget-form-customize-control.php 2 386 1 1
+/wp-includes/deprecated.php 2 0 1 1
+/wp-includes/images/wlw/ 1 1248 0 0
+/wp-includes/sodium_compat/src/Core/Curve25519/ 1 1282 0 0
+/wp-content/uploads/2016/01/ 1 715 0 0
+/wp-includes/js/thickbox/ 1 1430 0 0
+/wp-includes/SimplePie/Decode/ 1 890 0 0
+/wp-content/uploads/2018/11/ 1 715 0 0
+/wp-content/uploads/2017/11/ 1 715 0 0
+/wp-content/uploads/2017/06/ 1 3376 0 0
+/wp-includes/js/tinymce/plugins/fullscreen/ 1 1110 0 0
+/wp-includes/js/mediaelement/ 1 4326 0 0
+/wp-includes/js/tinymce/skins/wordpress/images/ 1 3123 0 0
+/wp-includes/css/dist/format-library/ 1 1454 0 0
+/wp-content/uploads/2013/12/ 1 18765 1 0
+/wp-content/uploads/2015/09/ 1 715 0 0
+/wp-content/uploads/ai1ec_static/ 1 720 0 0
+/wp-includes/Requests/Proxy/ 1 888 0 0
+/wp-content/uploads/2019/09/ 1 715 0 0
+/wp-content/uploads/2018/05/ 1 715 0 0
+/wp-includes/rest-api/fields/ 1 1737 0 0
+/wp-includes/js/tinymce/plugins/media/ 1 1100 0 0
+/wp-includes/Requests/Exception/HTTP/ 1 6519 0 0
+/wp-content/uploads/2015/07/ 1 715 0 0
+/wp-includes/js/tinymce/plugins/wpautoresize/ 1 1114 0 0
+/wp-content/uploads/2015/06/ 1 715 0 0
+/wp-content/uploads/2020/ 1 1901 0 0
+/wp-content/uploads/2019/08/ 1 715 0 0
+/wp-content/uploads/2013/ 1 875 1 0
+/wp-includes/css/dist/ 1 2318 0 0
+/wp-content/uploads/elementor/css/ 1 910 0 1
+/.well-known/acme-challenge/0GQCZ6PXS69KHWV0_0WNYFRGIODM_0SE 1 64 0 1
+/wp-content/uploads/2020/04/ 1 715 0 0
+/wp-admin/includes/ 1 20829 1 1
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/ 1 1662 0 0
+/wp-content/uploads/2014/05/ 1 715 0 0
+/wp-includes/SimplePie/Parse/ 1 891 0 0
+/wp-includes/js/tinymce/skins/lightgray/ 1 1643 0 0
+/wp-includes/js/tinymce/ 1 2480 0 0
+/wp-content/uploads/ 1 2429 1 0
+/wp-includes/js/tinymce/plugins/lists/ 1 1100 0 0
+/wp-includes/sodium_compat/namespaced/Core/ChaCha20/ 1 1135 0 0
+/wp-content/uploads/2015/04/ 1 715 0 0
+/wp-includes/theme-compat/ 1 2325 0 1
+/wp-includes/js/tinymce/utils/ 1 1442 0 0
+/wp-includes/SimplePie/Net/ 1 887 0 0
+/.well-known/acme-challenge/VRAI_SQQIY2JLRTUJ_3PCD1Y7C38C72R 1 64 0 0
+/wp-content/uploads/2018/06/ 1 715 0 0
+/wp-includes/images/ 1 5989 0 0
+/wp-content/uploads/2017/12/ 1 715 0 0
+/wp-content/uploads/2016/11/ 1 715 0 0
+/wp-admin/images/ 1 12913 1 1
+/wp-includes/sodium_compat/src/Core/ChaCha20/ 1 1114 0 0
+/wp-includes/css/dist/block-directory/ 1 1456 0 0
+/wp-content/uploads/2014/04/ 1 715 0 0
+/.well-known/acme-challenge/0E1JSOSNYEDY2KXJBWX_FL82X3LK36DN 1 64 0 0
+/wp-includes/js/tinymce/plugins/charmap/ 1 1104 0 0
+/wp-includes/js/tinymce/plugins/wptextpattern/ 1 1116 0 0
+/wp-content/uploads/2017/05/ 1 715 0 0
+/wp-includes/sodium_compat/src/ 1 2144 0 0
+/wp-includes/images/smilies/ 1 5446 0 0
+/wp-content/uploads/2019/ 1 2756 0 0
+/wp-content/uploads/2014/11/ 1 715 0 0
+/wp-content/uploads/2016/10/ 1 715 0 0
+/wp-content/uploads/2017/ 1 2756 0 0
+/wp-content/uploads/2020/02/ 1 715 0 1
+/wp-includes/js/plupload/ 1 2327 0 0
+/wp-includes/js/tinymce/skins/lightgray/img/ 1 1473 0 0
+/wp-includes/sodium_compat/lib/ 1 1643 0 0
+/wp-includes/Requests/Cookie/ 1 889 1 0
+/wp-includes/js/tinymce/themes/modern/ 1 1097 0 0
+/.well-known/acme-challenge/85RNVN_AF_GEBBK24NIS-JJJKQBHSNFF 1 64 1 0
+/.well-known/acme-challenge/45140S9F2FJKWHF31LH4BHY0X4Z_63K9 1 64 0 0
+/wp-includes/css/dist/components/ 1 1446 0 0
+/wp-includes/sodium_compat/src/Core/Base64/ 1 1293 0 0
+/wp-includes/sodium_compat/src/Core/SecretStream/ 1 945 0 0
+/wp-content/uploads/2014/09/ 1 715 0 0
+/wp-includes/css/dist/list-reusable-blocks/ 1 1466 0 0
+/wp-includes/assets/ 1 884 0 0
+/wp-includes/js/tinymce/plugins/wordpress/ 1 1108 0 0
+/wp-includes/rest-api/search/ 1 1125 0 0
+/wp-includes/customize/class-wp-customize-theme-control.php 1 187 1 1
+/wp-content/uploads/2018/09/ 1 715 0 0
+/wp-includes/js/tinymce/plugins/directionality/ 1 1118 0 0
+/wp-includes/IXR/ 1 2587 1 0
+/wp-content/uploads/2019/03/ 1 715 0 0
+/wp-includes/css/dist/block-editor/ 1 1450 0 0
+/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/ 1 1683 0 0
+/wp-includes/sodium_compat/src/Core/ 1 3960 0 0
+/wp-content/uploads/2014/08/ 1 715 0 0
+/wp-includes/SimplePie/Content/Type/ 1 916 0 0
+/wp-includes/css/dist/block-library/ 1 2904 0 0
+/wp-includes/js/tinymce/plugins/wplink/ 1 1102 0 0
+/wp-content/uploads/2020/05/ 1 715 0 1
+/wp-content/uploads/2018/01/ 1 715 0 0
+/wp-content/uploads/2014/12/ 1 715 0 0
+/wp-includes/sodium_compat/ 1 1760 0 0
+/wp-includes/js/tinymce/plugins/link/ 1 1098 0 0
+/wp-content/uploads/2017/01/ 1 715 0 0
+/.well-known/acme-challenge/J3UOFNAT6MEGYZ3S9L4RDRVUYMN2RY2O 1 64 0 0
+/wp-includes/sodium_compat/src/Core32/Curve25519/ 1 1288 0 0
+/wp-includes/js/tinymce/plugins/compat3x/css/ 1 943 0 0
+/wp-content/uploads/2015/05/ 1 715 0 0
+/wp-content/uploads/2019/12/ 1 715 0 0
+/wp-content/uploads/2015/ 1 2756 0 0
+/wp-content/uploads/2019/01/ 1 715 0 0
+/wp-includes/images/media/ 1 2316 0 0
+/wp-includes/certificates/ 1 880 0 0
+/wp-content/uploads/2017/03/ 1 715 0 0
+/google998d34e56945e43d.html 1 53 1 1
+/wp-includes/sodium_compat/src/Core32/Poly1305/ 1 943 0 0
+/wp-includes/Requests/ 1 4238 1 0
+/wp-content/uploads/2018/03/ 1 715 0 0
+/wp-includes/js/tinymce/plugins/ 1 4615 0 0
+/wp-content/uploads/2015/02/ 1 715 0 0
+/wp-includes/SimplePie/HTTP/ 1 891 0 0
+/wp-includes/SimplePie/XML/Declaration/ 1 917 0 0
+/wp-content/uploads/2016/ 1 2756 0 0
+/wp-includes/blocks/social-link/ 1 896 0 0
+/wp-includes/js/tinymce/plugins/image/ 1 1100 0 0
+/wp-content/uploads/2015/10/ 1 715 0 0
+/wp-includes/sodium_compat/src/PHP52/ 1 924 0 1
+/wp-includes/js/tinymce/plugins/textcolor/ 1 1108 0 0
+/wp-content/uploads/2016/07/ 1 715 0 0
+/wp-content/uploads/2020/07/ 1 715 0 1
+/wp-content/uploads/2016/06/ 1 715 0 0
+/wp-content/uploads/2018/04/ 1 715 0 0
+/.well-known/acme-challenge/Z_SJPEGSC7KJS7M35F_T1K6OEIZ80OJ6 1 64 0 0
+/wp-content/uploads/2018/07/ 1 715 0 0
+/wp-includes/Requests/Exception/Transport/ 1 926 0 0
+/wp-content/uploads/2014/03/ 1 715 0 0
+/wp-includes/sodium_compat/src/Core32/SecretStream/ 1 951 0 1
+/wp-includes/js/tinymce/plugins/tabfocus/ 1 1106 0 0
+/wp-content/uploads/2016/05/ 1 715 0 0
+/wp-content/uploads/2019/11/ 1 715 0 0
+/wp-includes/Text/ 1 1032 0 0
+/wp-content/uploads/2016/08/ 1 715 0 0
+/wp-includes/sodium_compat/namespaced/Core/Poly1305/ 1 958 0 0
+/wp-content/uploads/2017/04/ 1 715 0 0
+/wp-content/uploads/2017/09/ 1 715 0 0
+/wp-includes/pomo/ 1 1755 0 0
+/wp-content/uploads/2015/11/ 1 715 0 0
+/wp-content/uploads/2020/03/ 1 715 0 0
+/wp-includes/js/imgareaselect/ 1 1654 0 0
+/wp-includes/css/dist/edit-post/ 1 1444 0 0
+/wp-includes/images/crystal/ 1 2499 0 0
+/wp-content/uploads/2019/10/ 1 715 0 0
+/wp-content/uploads/2014/07/ 1 715 1 0
+/wp-includes/sodium_compat/src/Core32/ 1 4143 0 0
+/wp-includes/js/crop/ 1 1416 0 0
+/wp-content/uploads/2016/02/ 1 715 0 0
+/wp-includes/Text/Diff/Renderer/ 1 899 0 0
+/wp-includes/js/jcrop/ 1 1246 0 0
+/wp-includes/Requests/Utility/ 1 1104 0 0
+/wp-includes/ID3/ 1 4281 1 0
+/wp-content/uploads/2017/07/ 1 715 0 0
+/wp-content/uploads/2016/09/ 1 715 0 0
+/wp-content/uploads/2019/02/ 1 715 0 0
+/wp-includes/js/tinymce/plugins/colorpicker/ 1 1112 0 0
+/wp-content/uploads/2019/05/ 1 715 0 0
+/wp-content/uploads/2018/02/ 1 715 0 0
+/wp-includes/ 1 39649 1 0
+/wp-content/uploads/2018/12/ 1 715 0 0
+/wp-includes/js/tinymce/plugins/paste/ 1 1100 0 0
+/wp-includes/js/tinymce/skins/ 1 1074 0 0
+/wp-content/uploads/2018/10/ 1 715 0 0
+/wp-content/uploads/2019/04/ 1 715 0 0
+/wp-includes/js/swfupload/ 1 1423 0 0
+/wp-includes/js/tinymce/plugins/compat3x/ 1 1278 0 0
+/wp-content/uploads/2018/08/ 1 715 0 0
+/wp-content/uploads/2018/ 1 2756 0 0
+/wp-content/uploads/2016/03/ 1 715 0 0
+/wp-includes/Text/Diff/Engine/ 1 1427 0 0
+/wp-includes/sodium_compat/namespaced/Core/Curve25519/ 1 1303 0 0
+/wp-content/uploads/2017/08/ 1 715 0 0
+/wp-includes/sodium_compat/src/Core32/ChaCha20/ 1 1120 0 1
+/wp-content/uploads/elementor/ 1 886 0 0
+/wp-includes/fonts/ 1 1593 0 0
+/wp-includes/SimplePie/Decode/HTML/ 1 914 0 0
+/wp-includes/js/tinymce/langs/ 1 900 0 0
+/wp-includes/SimplePie/Cache/ 1 1598 0 0
+/wp-content/uploads/2020/06/ 1 715 0 1
+/wp-includes/SimplePie/ 1 5659 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/ 1 2224 0 0
+/wp-content/uploads/2017/02/ 1 715 0 0
+/wp-includes/Requests/Auth/ 1 887 0 0
+/wp-content/uploads/2019/06/ 1 715 0 0
+/wp-content/uploads/2015/08/ 1 715 0 0
+/wp-includes/js/tinymce/plugins/wpemoji/ 1 1104 0 0
+/wp-content/uploads/2014/01/ 1 5655 0 0
+/wp-includes/customize/ 1 8107 0 0
+/wp-includes/sodium_compat/namespaced/ 1 1442 0 0
+/wp-includes/js/jquery/ui/ 1 7536 0 0
+/wp-includes/random_compat/ 1 2608 0 0
+/wp-includes/js/dist/ 1 17700 0 0
+/wp-includes/blocks/ 1 3033 0 0
+/wp-includes/js/tinymce/plugins/wpgallery/ 1 1108 0 0
+/wp-includes/js/tinymce/plugins/wpdialogs/ 1 1108 0 0
+/.well-known/acme-challenge/D__2Y8HJ-MFKEU-RREWW9BUELAQ9DPWI 1 64 0 0
+/wp-includes/blocks/shortcode/ 1 892 0 0
+/wp-includes/css/dist/editor/ 1 2197 0 0
+/wp-includes/sodium_compat/src/Core/Poly1305/ 1 937 0 0
+/.well-known/acme-challenge/H5P6ZSJ9YAQH44U2MRL7KS-9WL6LQG62 1 64 0 0
+/wp-includes/wlwmanifest.xml 1 1045 1 1
+/wp-includes/js/tinymce/themes/inlite/ 1 1097 0 0
+/wp-includes/rest-api/endpoints/ 1 4044 0 0
+/wp-includes/SimplePie/Content/ 1 892 0 0
+/wp-includes/css/ 1 8008 0 0
+/wp-includes/js/tinymce/plugins/hr/ 1 1094 0 0
+/wp-includes/js/tinymce/skins/wordpress/ 1 1101 0 0
+/wp-includes/js/dist/vendor/ 1 4860 0 0
+/wp-includes/sodium_compat/namespaced/Core/ 1 3625 0 0
+/wp-includes/js/ 1 21135 0 0
+/wp-content/uploads/2014/ 1 2756 0 0
+/wp-includes/rest-api/ 1 1807 0 0
+/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/ 1 1668 0 0
+/wp-includes/js/tinymce/plugins/wpview/ 1 1102 0 0
+/wp-content/uploads/2017/10/ 1 715 0 0
+/wp-includes/Requests/Response/ 1 897 0 0
+/wp-content/uploads/2016/04/ 1 715 0 0
+/wp-includes/js/jquery/ 1 4046 0 0
+/wp-includes/SimplePie/XML/ 1 891 0 0
+/wp-content/uploads/2015/03/ 1 6179 0 0
+/wp-includes/js/mediaelement/renderers/ 1 1097 0 0
+/wp-content/uploads/2020/01/ 1 715 0 0
+/wp-content/uploads/2015/01/ 1 715 0 0
+/wp-includes/Requests/Exception/ 1 1428 0 0
+/wp-content/uploads/2014/02/ 1 6661 0 0
+/wp-includes/Requests/Transport/ 1 1077 0 0
+/wp-content/uploads/2019/07/ 1 715 0 0
+/wp-includes/js/tinymce/plugins/wpeditimage/ 1 1112 0 0
+/wp-content/uploads/2014/06/ 1 715 1 0
+/wp-content/uploads/2015/12/ 1 715 0 0
+/wp-includes/js/tinymce/themes/ 1 1070 0 0
+/wp-includes/widgets/ 1 4474 0 1
+/wp-includes/js/codemirror/ 1 2154 0 0
+/wp-content/uploads/2014/10/ 1 715 0 0
+/wp-includes/Text/Diff/ 1 1230 0 0
+/wp-content/uploads/2016/12/ 1 715 0 0
+/wp-includes/css/dist/nux/ 1 1432 0 0
+END_SIDER

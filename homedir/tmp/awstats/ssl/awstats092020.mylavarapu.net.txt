@@ -1,0 +1,1376 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202009 will be lost/reset.
+# Last config file used to build this data file was /home1/himamsu/tmp/awstats/ssl/awstats.mylavarapu.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2700                
+POS_VISITOR 28631               
+POS_DAY 48493               
+POS_DOMAIN 3664                
+POS_LOGIN 4295                
+POS_ROBOT 4450                
+POS_WORMS 5375                
+POS_EMAILSENDER 5506                
+POS_EMAILRECEIVER 5649                
+POS_SESSION 49390               
+POS_SIDER 49603               
+POS_FILETYPES 5784                
+POS_DOWNLOADS 6063                
+POS_OS 6131                
+POS_BROWSER 6496                
+POS_SCREENSIZE 9810                
+POS_UNKNOWNREFERER 9884                
+POS_UNKNOWNREFERERBROWSER 10781               
+POS_ORIGIN 11363               
+POS_SEREFERRALS 11510               
+POS_PAGEREFS 11811               
+POS_SEARCHWORDS 12177               
+POS_KEYWORDS 12329               
+POS_MISC 2362                
+POS_ERRORS 12388               
+POS_CLUSTER 4151                
+POS_SIDER_404 12638               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201001005625 651 196210 18002124167806
+FirstTime 20200901002709
+LastTime 20200930235725
+LastUpdate 20201001093337 651 0 650 0 0
+TotalVisits 695                 
+TotalUnique 476                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 509                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 355 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 322 899 6673598 218 281 2319453
+1 336 421 3068281 272 368 2536315
+2 341 724 6725862 208 313 1772970
+3 379 885 5873942 246 306 2192435
+4 261 446 2513771 169 218 3889470
+5 311 604 3210504 244 280 2459630
+6 349 781 5804086 242 370 2531429
+7 450 929 5769276 285 457 3324712
+8 408 1040 7399437 272 334 1652804
+9 328 869 6005204 163 267 1391265
+10 435 1089 8430862 226 364 2210345
+11 265 665 5157412 183 233 1893454
+12 230 469 4095184 114 211 1149804
+13 326 626 4997318 200 253 1851720
+14 401 657 4478524 284 340 2144323
+15 479 523 1362457 2703 2746 2194836
+16 508 722 2995658 2655 2714 1790841
+17 261 370 1507743 184 233 1416199
+18 330 516 2963279 238 282 1695053
+19 235 402 2908097 178 265 2060991
+20 242 506 3975390 145 188 1225156
+21 499 1220 8902614 271 449 2792211
+22 312 405 2408674 223 285 1936842
+23 270 578 3604261 214 304 2613297
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 27
+us 7270 10126 38763882
+in 525 5077 53328043
+de 113 153 3766480
+fr 62 68 2468665
+ca 60 172 2793059
+ae 36 180 1785504
+cn 30 82 1144574
+il 28 43 537959
+ru 23 51 1142829
+gb 21 61 975799
+pr 19 21 232057
+ua 16 16 317310
+sc 16 69 959977
+au 12 134 1386033
+bh 7 52 457970
+se 6 6 99340
+pl 5 5 5979
+mw 5 5 36137
+id 4 4 240164
+ro 4 4 97032
+eu 4 4 21821
+gr 4 4 128560
+fi 3 3 57931
+sa 2 2 38624
+nl 1 2 23430
+za 1 1 19312
+ie 1 1 2777
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 19
+bot[\s_+:,\.\;\/\\-] 1280 16135740 20200930235721 96
+Googlebot/ 568 5876843 20200930234056 86
+bingbot/ 458 6194641 20200930204911 101
+(firefox/)([0-9]\.|[0-1][0]\.) 452 393738 20200930234614 0
+YandexBot/ 159 1241201 20200929012702 56
+Applebot/ 151 2644255 20200930051123 17
+baidu 108 1183467 20200915063014 0
+Googlebot\-Image/ 80 134103 20200930144055 0
+Mail\.RU_Bot/ 78 314795 20200929074034 38
+bingpreview 40 1384619 20200930075126 0
+facebookexternalhit/ 30 1026885 20200930234314 0
+DuckDuckGo\-Favicons\-Bot/ 26 303753 20200929081044 0
+unknown 25 6340 20200930184810 25
+Apache\-HttpClient/ 9 42409 20200927161617 0
+KomodiaBot/ 5 248029 20200904050823 0
+curl 4 85813 20200929143120 0
+Feedfetcher\-Google 4 12340 20200929112627 0
+CFNetwork 1 8938 20200912220645 0
+crawl 1 0 20200923073142 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+png 858 4538273 0 0
+Unknown 33 304421 0 0
+jpg 497 19989660 0 0
+html 1445 25523433 0 0
+gif 5 31655 0 0
+svg 1 2522 0 0
+php 6749 92191 0 0
+eot 34 339388 0 0
+css 3150 40529220 0 0
+xml 17 17765 0 0
+js 3557 19462534 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 0 1 186
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 21
+linuxubuntu 2 1
+macosx8 5 4
+linux 494 211
+macosx9 7 3
+win10 1187 253
+macosx11 15 15
+ios_ipad 191 13
+win7 321 151
+macosx12 51 12
+ios_iphone 1390 122
+macosx10 130 21
+Unknown 6891 6834
+macosx6 1 1
+winlong 4 2
+win8 5 4
+linuxandroid 5026 531
+win2003 1 1
+win8.1 131 12
+macosx 485 79
+macosx7 1 0
+winxp 9 8
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 155
+chrome55.0.2883.91 37 2
+chrome40.0.2214.93 1 1
+firefox77.0 2 1
+safari6.0.4 1 1
+chrome36.0.1985.125 1 1
+chrome76.0.3809.71 82 2
+chrome60.0.3112.113 2 2
+chrome80.0.3987.87 142 17
+edge18 1 1
+chrome26.0.1410.65 1 1
+safari10.1.2 2 2
+firefox35.0 1 1
+chrome26.0.1410.63 2 2
+chrome84.0.4147.111 234 34
+chrome62.0.3202.94 4 4
+android 5 1
+chrome77.0.3865.92 42 2
+chrome32.0.1700.72 2 1
+firefox67.0 3 2
+safari5.1 1 1
+msie10.0 3 3
+chrome85.0.4183.127 397 38
+firefox28.0 26 26
+firefox80.0 2 1
+chrome84.0.4147.105 2 2
+safari6.0.5 3 2
+chrome49.0.2623.75 5 3
+chrome41.0.2226.0 1 1
+msie9.0 4 2
+chrome58.0.3029.83 41 3
+chrome80.0.3987.99 5 0
+chrome64.0.3282.167 2 2
+chrome79.0.3945.79 21 21
+chrome52.0.2743.98 43 1
+chrome78.26.10.1974 1 1
+chrome68.0.3416.0 74 49
+chrome84.0.4147.125 433 57
+chrome38.0.1025.166 222 12
+safari13.1.2 842 82
+chrome79.0 10 10
+chrome77.0.3865.90 10 10
+opera50.0.2762.67 1 1
+firefox68.0 1 1
+chrome75.0.3770.100 1 1
+chrome83.0.4103.83 50 6
+mozilla 60 19
+chrome78.0.3904.108 51 11
+safari11.0.3 1 1
+firefox36.0 3 3
+chrome56.0.2896.3 1 1
+firefox27.0 3 2
+chrome85.0.4183.102 692 93
+safari 437 55
+chrome12.0.742.91 1 0
+chrome80.0.3987.116 43 3
+chrome46.0.2490.80 1 1
+chrome63.0.3239.132 9 9
+safari12.1.1 40 2
+chrome81.0.4044.138 164 8
+firefox73.0 1 1
+chrome34.0.1847.131 1 1
+firefox45.0 2 2
+chrome40.0.2214.85 12 12
+opera55.0.2994.44 1 1
+chrome41.0.2272.118 48 3
+opera11.50 2 2
+chrome71.0.3563.0 27 1
+firefox31.0 1 1
+firefox78.0 18 18
+chrome51.0.2704.103 3 3
+firefox56.0 1 1
+chrome50.0.2661.102 14 14
+chrome72.0.3626.105 42 2
+chrome51.0.2704.106 2 2
+chrome84.0.4147.135 289 30
+chrome77.0.3865.116 51 4
+chrome56.0.2924.87 47 8
+chrome31.0.1650.63 6 2
+chrome45.0.2454.94 1 1
+firefox25.0 3 1
+chrome77.0.3835.0 33 1
+chrome57.0.2987.110 1 1
+chrome79.0.3945.116 44 4
+firefox62.0 2 2
+chrome50.0.2676.83 2 2
+chrome80.0.3987.122 1 1
+opera54.0.2952.64 2 2
+msie11.0 53 11
+chrome31.0.1650.57 2 1
+chrome85.0.4183.81 1441 177
+chrome67.0.3396.87 1 1
+safari7.0.1 1 1
+firefox58.0 61 55
+firefox29.0 1 1
+safari11.0.1 1 1
+safari14.0 67 15
+iphone 112 6
+chrome83.0.4103.106 91 5
+chrome85.0.4183.101 889 82
+chrome64.0.3282.140 2 2
+firefox33.0 1 1
+netscape 5 5
+firefox72.0 29 29
+firefox64.0 8 8
+chrome63.0.3239.84 6 6
+chrome66.0.3359.117 1 1
+chrome80.0.3987.162 1 0
+chrome73.0.3683.90 1 1
+firefox47.0 1 1
+safari10.0 122 9
+chrome71.0.3578.141 52 8
+chrome41.0.2227.0 4 4
+chrome69.0.3497.100 44 3
+safari6.0.2 1 1
+msie8.0 3 3
+chrome65.0.3325.146 45 3
+chrome22.0.1207.1 4 4
+chrome32.0.1700.68 2 2
+chrome79.0.3945.88 1 1
+chrome74.0.3729.157 3 3
+firefox66.0 41 2
+chrome59.0.3071.115 11 11
+firefox26.0 4 3
+safari6.1.1 1 0
+Unknown 6825 6809
+chrome85.0.4183.121 354 50
+firefox79.0 1 1
+chrome64.0.3282.137 40 5
+chrome74.0.3729.136 143 33
+safari13.0.5 83 5
+firefox24.0 3 2
+opera54.0.2952.54 2 2
+chrome50.0.2661.89 44 4
+chrome80.0.3987.149 15 15
+safari12.1.2 36 2
+safari11.0 45 3
+chrome58.0.3029.110 2 2
+chrome76.0.3809.89 84 4
+msie6.0 4 4
+chrome58.0.1145.75 2 2
+chrome61.0.3163.79 1 1
+chrome72.0.3626.121 3 1
+safari5.1.7 1 1
+chrome79.0.3945.136 126 13
+chrome42.0.2311.135 1 1
+firefox57.0 7 7
+chrome71.0.3578.99 34 1
+safari5.0.2 3 3
+chrome71.0.3578.98 6 6
+chrome65.0.3325.181 139 48
+chrome68.0.3440.106 2 2
+chrome64.0.3282.119 6 6
+safari13.1.1 38 2
+chrome84.0.4143.7 45 3
+chrome85.0.4183.83 210 28
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 18
+\ 20200926233834
+AccompanyBot 20200924220411
+Mozilla 20200922183114
+Jetpack_by_WordPress.com 20200930131902
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20200925003804
+Mozilla/5.0_(compatible;_ips-agent) 20200919120949
+PageThing.com 20200920143655
+Mozilla/4.0_(compatible;) 20200918131559
+WordPress.com;_https://www.mylavarapu.net 20200927104526
+Mozilla/5.0_(compatible;_Dataprovider.com) 20200904115137
+Mozilla/5.0_Firefox/35.0 20200918102015
+Go-http-client/1.1 20200929114328
+Mozilla/5.0_(compatible) 20200925210733
+WhatsApp/2.20.198.15_A 20200909134104
+proxy_ip:172.252.226.184:60000_AccompanyBot 20200924142753
+Mozilla/5.0_(compatible;_tracemyfile/1.0) 20200916001434
+WordPress/5.4.2;_https://www.mylavarapu.net 20200930235725
+Go-http-client/2.0 20200915192846
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 11
+AccompanyBot 20200924220411
+Go-http-client/1.1 20200929114328
+\ 20200926233834
+PageThing.com 20200920143655
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20200925003804
+Jetpack_by_WordPress.com 20200930131902
+WordPress/5.4.2;_https://www.mylavarapu.net 20200930235725
+WordPress.com;_https://www.mylavarapu.net 20200927104526
+proxy_ip:172.252.226.184:60000_AccompanyBot 20200924142753
+WhatsApp/2.20.198.15_A 20200909134104
+Go-http-client/2.0 20200915192846
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 490 594
+From1 8 8
+From2 285 503
+From3 17 19
+From4 7478 15223
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 8
+in_images_search_yahoo_com 0 1
+bing 2 2
+youtube 1 1
+www_google_com_au 2 2
+google_com 0 8
+www_google_co_in 24 34
+www_google_com 254 427
+google_translate 2 28
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+https://lm.facebook.com 7 7
+http://l.facebook.com/l.php 3 3
+https://mail.mylavarapu.net 3 3
+https://l.facebook.com 2 2
+http://taal.pctip.net/blog/25979518/view/ 1 2
+http://jqzazy.prizesk.com/view/25979518/profile/ 1 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 14
+400 64 2001
+503 28 261089
+206 22 215968
+406 4602 1040052
+302 23 0
+409 62 5146
+301 1517 0
+404 1180 12219642
+500 8 5002
+405 9 378
+421 1 322
+401 48 5502
+308 1 85
+403 662 52459
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 270
+/wp-content/plugins/wp-file-manager/lib/files/xxx.php 14 -
+/demo/wp-content/plugins/ioptimization/IOptimize.php 3 www.google.com
+/wp-content/plugins/wp-support-plus-responsive-ticket-system/includes/admin/downloadAttachment.php 1 -
+/wp-includes/dcomay.php 2 http://site.ru
+/Bou.php 1 -
+/wp-content/plugins/groupsassembly/js/js.php 1 mylavarapu.net
+/wp-content/plugins/woo-refund-and-exchange-lite/public/js/woocommerce_refund_and_exchange_lite-public.js 1 mylavarapu.net
+/wp-content/plugins/unlimited-addons-for-wpbakery-page-builder/css/blank_page_preview.css 1 mylavarapu.net
+/wp/wordpress/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+/wp-admin/mysql-adminer.php 1 -
+/Qifbvav.php 1 -
+/undefined 1 https://www.mylavarapu.net/store
+/wp/wordpress/old/new/blog/test/demo/admin/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+/wp-info.php 2 http://site.ru
+/wp-content/uploads/2020/04/blackhat.php 2 http://site.ru
+/wplogin.txt 1 -
+/wp-content/plugins/docs-assembly/js/js.php/ 1 mylavarapu.net
+/hello.php 1 http://site.ru
+/force-download.php 1 -
+/anusamputi-vidhaanam/%23comments 8 -
+/wp-content/plugins/cherry-plugin/admin/import-export/settings_auto.php 2 -
+/wp-content/plugins/background-image-cropper/wp-console.php.suspected 2 http://site.ru
+/wp-content/uploads/2020/08/doc.php 2 http://site.ru
+/phpmyadmin/ 2 -
+/wp-content/plugins/wp-file-manager/lib/files/accesson.php 4 https://mylavarapu.net/wp-content/plugins/wp-file-manager/lib/files/accesson.php
+/wp-content/_input_3_vuln.htm 1 -
+/adminer/ 1 -
+/wp-content/plugins/ioptimization/IOptimize.php 25 www.google.com
+/store/%23!/~/product/category=7118730&id=30597903 6 -
+/store/%23!/~/product/category=7118730&id=30567539 5 -
+/wp-admin/css/colors/blue/theme.php 2 http://site.ru
+/popcorn.php 1 -
+/s2.wp.com 6 -
+/wp-content/plugins/downloads-manager/img/unlock.gif 2 -
+/wp-content/plugins/groupsassembly/js/js.php/ 1 mylavarapu.net
+/wp-content/plugins/docs-assembly/js/js.php 1 mylavarapu.net
+/wp-content/plugins/front-end-editor/lib/aloha-editor/plugins/extra/draganddropfiles/demo/index.css 1 http://www.google.com/
+/wordpress/ 2 -
+/blog/wp-content/plugins/ioptimization/IOptimize.php 3 www.google.com
+/wp-content/plugins/password-protect-wordpress/doc.php 1 -
+/store/%23!/~/product/category=7118730&id=30567536 2 -
+/wp-content/plugins/pojo-forms/assets/js/app.min.js 1 mylavarapu.net
+/wp-content/mu-pluginsss 1 -
+/adminer/adminer.php 1 -
+/wp-content/plugins/formcraft/file-upload/server/php/ 1 http://www.google.com/
+/wp-admin/vuln.htm 2 -
+/ups.php 1 http://site.ru
+/wp/wordpress/old/new/blog/test/demo/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+/wp-content/plugins/drpsassembly/js/js.php 1 mylavarapu.net
+/wp-admin/user/user-profile.php 2 http://site.ru
+/wp-admin/includes/images.php 1 http://site.ru
+/wp-content/plugins/acf-frontend-display/js/blueimp-jQuery-File-Upload-d45deb1/js/main.js 1 http://www.google.com/
+/wp-admin/vuln.php 2 -
+//wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 7 -
+/wp-content/plugins/background-image-cropper/ups.php.suspected 2 http://site.ru
+/wp-content/plugins/wp-mailinglist/vendors/uploadify/upload.php 1 http://www.google.com/
+/login.txt 1 -
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 64 mylavarapu.net
+/sitemap-pt-feedback-2014-11.xml 1 -
+/wp-content/uploads/2020/05/ups.php 2 http://site.ru
+/wp-includes/Requests/Cookie/images.php 1 http://site.ru
+/wp-content/plugins/file-manager-advanced/php/connector.minimal.php 2 http://www.mylavarapu.net/wp-content/plugins/file-manager-advanced/php/connector.minimal.php
+/wp-content/uploads/2014/01/Balakanda_Undrajavar%E2%80%A6 1 https://www.mylavarapu.net/
+/app/system/include/class/phpqrcode/tools/merge.sh 2 -
+/wp-content/plugins/realia/libraries/PayPal-PHP-SDK/vendor/phpunit/phpunit/build.xml 1 -
+/logins.txt 1 -
+/wp/wordpress/old/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+/blog/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 7 www.google.com
+/triraatra-upavaasa-deeksha/%23comments 4 -
+/wp-content/plugins/wp-file-manager-pro/lib/php/connector.minimal.php 10 http://www.mylavarapu.net/wp-content/plugins/wp-file-manager-pro/lib/php/connector.minimal.php
+/wp/wordpress/old/new/blog/test/demo/admin/2020/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+/wp-sidebarchange.php 1 -
+/adminer/adminer-4.7.0.php 1 -
+/wp-content/cpl.php 1 mylavarapu.net
+/store/%23!/~/product/category=7118730&id=30597882 6 -
+/s0.wp.com 6 -
+/wp-admin/css/colors/blue/images.php 2 http://site.ru
+/wp-content/plugins/wp-file-manager/lib/js/elFinder.js 4 https://mylavarapu.net/wp-content/plugins/wp-file-manager/lib/js/elFinder.js
+/wp-admin/maint/images.php 2 http://site.ru
+/wp-admin/code87/5.php 1 http://site.ru
+/content-post.php 1 http://site.ru
+/wp-content/uploads/2014/01/Lalite_Namostutae-14%E2%80%A6 1 https://www.mylavarapu.net/
+/seter.php.suspected 1 http://site.ru
+/wp-content/themes/bordeaux-theme/style.css 2 http://www.google.com/
+/wp-content/plugins/wp-front-end-repository/js/uploadify/uploadify.css 1 http://www.google.com/
+/wp-content/plugins/background-image-cropper/simple.php5.suspected 1 http://site.ru
+/wp-content/themes/bulteno-theme/functions/Readme!.txt 1 http://www.google.com/
+/wp-admin/adminer.php 1 -
+/2019/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 4 www.google.com
+/wp-admin/network/sitenet.php5 3 http://site.ru
+/mysql-adminer.php 1 -
+/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/build.xml 1 -
+/wp-content/plugins/cherry-plugin/admin/import-export/download-content.php 1 -
+/wp-content/themes/themes.php 1 -
+/api/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/sitemap-pt-feedback-2014-08.xml 1 -
+/wp-content/mu-plugins/fgjfgjfgjrt.php 2 https://mylavarapu.net/wp-content/mu-plugins/fgjfgjfgjrt.php
+/wp-content/mu-plugins/rms_unique_wp_mu_pl_fl_nm.php 2 https://mylavarapu.net/wp-content/mu-plugins/rms_unique_wp_mu_pl_fl_nm.php
+/wp_login.txt 1 -
+/v0.wordpress.com 3 -
+/lalita-sahasranamam-by-mylavarapu-srinivasa-rao/%23comments 3 -
+/wp-content/uploads/2020/09/settings_auto.php 1 -
+/store/%23!/~/product/category=7118730&id=30597898 2 -
+/anusamputi-vidhaanam/%23respond 6 -
+/wp-content/plugins/work-the-flow-file-upload/public/assets/jQuery-File-Upload-9.5.0/server/php/ 1 http://www.google.com/
+/wp-content/plugins/wp-file-manager/lib/files/upload.php 4 https://mylavarapu.net/wp-content/plugins/wp-file-manager/lib/files/upload.php
+/2.gravatar.com 5 -
+/wp-content/plugins/wp-file-manager/lib/files/ 2 -
+/wp-content/plugins/jekyll-exporter/vendor/phpunit/phpunit/build.xml 1 -
+/cache/simple.php5 2 http://site.ru
+/wp-content/plugins/wp-file-manager/lib/files/thumbs.php 4 https://mylavarapu.net/wp-content/plugins/wp-file-manager/lib/files/thumbs.php
+/wp-admin/network/sitenets.php5.suspected 2 http://site.ru
+/store/undefined 413 https://www.mylavarapu.net/store/
+/wordpress/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 7 www.google.com
+/wp-content/themes/oxygen-theme/style.css 1 http://www.google.com/
+/ganks.php.PhP.suspected 2 http://site.ru
+/wp-content/plugins/myweather/theme.php 1 -
+/site/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 3 www.google.com
+/popup-pomo.php 1 -
+/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/rules.key 1 mylavarapu.net
+/wp-content/themes/CP20/content-post.php 2 http://site.ru
+/store/%23!/~/category/id=8759607&offset=0&sort=normal 6 -
+/wp-content/plugins/tassembly/js/js.php/ 1 mylavarapu.net
+/old/wp-content/plugins/ioptimization/IOptimize.php 3 www.google.com
+/wp-content/uploads/2020/07/doc.php 1 http://site.ru
+/blackhat.php 3 -
+/admin/.env 2 -
+/wp/wordpress/old/new/blog/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+/wordpress/wp-content/plugins/ioptimization/IOptimize.php 3 www.google.com
+/wp-content/plugins/gassembly/js/js.php/ 1 mylavarapu.net
+/wp-content/themes/kernel-theme/style.css 1 http://www.google.com/
+/wp-content/plugins/wp-file-manager/lib/files/x.php 23 -
+/usa-trip 1 -
+/wp/ 2 -
+/wp-content/plugins/hd-webplayer/playlist.php 1 -
+/uploads/adminer.php 1 -
+/Egdewgpd.php 1 -
+/2020/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 4 www.google.com
+/public-api.wordpress.com 5 -
+/wp-content/plugins/pdf-assembly/js/js.php/ 1 mylavarapu.net
+/wp-content/plugins/contabileads/integracoes/mautic/api-library/vendor/phpunit/phpunit/build.xml 1 -
+/2019/wp-content/plugins/ioptimization/IOptimize.php 3 www.google.com
+/0.gravatar.com 2 -
+/google-site-verification-content-fpk8ez12pdbewljjo9xhbxlv7lhxa9nplpcode87.php 4 http://site.ru
+/vendor/phpunit/phpunit/phpunit.xsd 3 -
+/wp-content/plugins/formcraft/file-upload/server/php/upload.php 1 http://www.google.com/
+/wp-content/themes/timelaph/style.css 1 -
+/installer.php 4 -
+/Mksbfps.php 1 -
+/Rjhfsv.php 1 -
+/wp-content/uploads/2020/05/doc.php 2 http://site.ru
+/googlee9e806a1177930ad.html 1 -
+/hqgihbjp.php 1 -
+/wp-content/plugins/redirection/models/wp-contentt.php 2 http://site.ru
+/wp-content/plugins/prh-api/vendor/phpunit/phpunit/build.xml 1 -
+/dup-installer/main.installer.php 1 -
+/wp-content/plugins/background-image-cropper/content-post.php.suspected 1 http://site.ru
+/utility/convert/source/d7.2_x1.5/readme.txt 1 -
+/wp-content/plugins/wp-file-manager/lib/files/n.php 4 https://mylavarapu.net/wp-content/plugins/wp-file-manager/lib/files/n.php
+/php.info.php 1 -
+/upload/adminer.php 1 -
+/%23 1 http://www.mylavarapu.net/#
+/wp-content/uploads/2013/12/Nanna_Lalita_TeluguO%E2%80%A6 1 https://www.mylavarapu.net/
+/wp-content/plugins/category-page-icons/css/menu.css 1 -
+/secure.gravatar.com 5 -
+/apple-touch-icon-120x120-precomposed.png 1 -
+/wp-content/plugins/background-image-cropper/header-cache.php.suspected 1 http://site.ru
+/wp-content/uploads/2013/12/Bhakti_TV-670x424.jp%E2%80%A6 1 https://www.mylavarapu.net/
+/sites/default/settings.php 1 -
+/choosep.php 1 -
+/new/wp-content/plugins/ioptimization/IOptimize.php 3 www.google.com
+/stats.php 1 -
+/wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/build.xml 1 -
+///wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 -
+/wp-content/plugins/Tevolution/tmplconnector/monetize/templatic-custom_fields/css/jquery.lightbox-0.5.css 1 http://www.google.com/
+/store/%23!/~/product/category=7118730&id=30597900 7 -
+/admin/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+/triraatra-upavaasa-deeksha/%23respond 6 -
+/wp/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 7 www.google.com
+/wp-content/plugins/awesome-support/plugins/jquery.fineuploader-3.5.0/server/php/example.php 1 http://www.google.com/
+/asset-manifest.json 1 https://www.mylavarapu.net/
+/humans.txt 4 https://mylavarapu.net/humans.txt
+/index2.php 1 -
+/installer-backup.php 3 -
+/phpMyAdmin/ 2 -
+/s.w.org 6 -
+/wp-content/plugins/wp-file-manager/lib/css/places.css 1 mylavarapu.net
+/-/~/code87/5.php 3 http://site.ru
+/d1oxsl77a1kjht.cloudfront.net 2 -
+/wp/wp-content/plugins/ioptimization/IOptimize.php 3 www.google.com
+/ajax-index.php 1 mylavarapu.net
+/adminer-4.6.4.php 1 -
+/2020/wp-content/plugins/ioptimization/IOptimize.php 3 www.google.com
+/lalita-sahasranamam-by-mylavarapu-srinivasa-rao/%23respond 6 -
+/wp-content/plugins/barclaycart/uploadify/settings_auto.php 1 -
+/wp-content/uploads/404.php 2 http://site.ru
+/wp-content/plugins/tassembly/js/js.php 1 mylavarapu.net
+/wp-content/plugins/advanced_file_manager_5/php/connector.minimal.php 2 http://www.mylavarapu.net/wp-content/plugins/advanced_file_manager_5/php/connector.minimal.php
+/style.php 1 -
+/wp-admin/links.php 4 http://site.ru
+/wp-content/uploads/wp-stream.php 1 http://www.facebook.net/
+/wp-content/zpl.php 1 mylavarapu.net
+/wp-content/force-download.php 1 -
+/wp/wordpress/old/new/blog/test/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+/manifest.json 1 -
+/test/wp-content/plugins/ioptimization/IOptimize.php 3 www.google.com
+/wp-content/uploads/2020/04/content-post.php 1 http://site.ru
+/assets/editor/file-upload/server/php/ 1 http://www.google.com/
+/wp-content/wp-muen.php 1 http://site.ru
+/pma/ 2 -
+/ 39 -
+/wp-content/plugins/aviary-image-editor-add-on-for-gravity-forms/includes/upload.php 1 http://www.google.com/
+/wp-admin/include.php.PhP 3 http://site.ru
+/wp-content/plugins/assembly/js/js.php 1 mylavarapu.net
+/rbi.php 1 -
+/wp-content/plugins/wp-copysafe-pdf/lib/uploadify/uploadify.css 1 http://www.google.com/
+/wp-content/plugins/assembly/js/js.php/ 1 mylavarapu.net
+/Esbkdv.php 1 -
+/wp-content/themes/distance-lite/languages/namespaces.php 1 http://site.ru
+/wp-content/plugins/fluid_forms/file-upload/server/php/ 1 http://www.google.com/
+/_input_3_vuln.htm 1 -
+/wp/wordpress/old/new/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+/s1.wp.com 3 -
+/wp-content/plugins/wp-mailinglist/css/colorbox.css 1 http://www.google.com/
+/wp-content/plugins/file-manager/elFinder/php/connector.minimal.php 2 http://www.mylavarapu.net/wp-content/plugins/file-manager/elFinder/php/connector.minimal.php
+/ads.txt 76 -
+/simple.php5 1 http://site.ru
+/wp-content/plugins/drpsassembly/js/js.php/ 1 mylavarapu.net
+/site/wp-content/plugins/ioptimization/IOptimize.php 3 www.google.com
+/wp-content/plugins/background-image-cropper/doc.php 2 http://site.ru
+/wp/wordpress/old/new/blog/test/demo/admin/2020/2019/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+/mirasvit_adminer_mysql.php 1 -
+/videos/%23respond 5 -
+/wp-admin/includes/class-wp-filesystem-import.php 1 http://site.ru
+/mini.php 2 http://site.ru
+/wp-content/plugins/gassembly/js/js.php 1 mylavarapu.net
+/wp-content/plugins/woocommerce-software-license-manager/vendor/phpunit/phpunit/build.xml 1 -
+/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/build.xml 1 -
+/apple-touch-icon-120x120.png 1 -
+/new/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 7 www.google.com
+/Xjske.php 1 -
+/wp-content/plugins/wp-file-manager/lib/files/hardfork.php 2 -
+/wp-content/plugins/wp-file-manager/lib/files/admin.php 1 -
+/wp-content/themes/CP20/doc.php 1 http://site.ru
+/wp-content/adminer.php 1 -
+/app/etc/local.xml 1 -
+/favicon.png 1 -
+/wp-content/plugins/simplepress/resources/jscript/sp-common.min.js 1 mylavarapu.net
+/wp-content/plugins/unlimited-elements-for-elementor/css/blank_page_preview.css 1 mylavarapu.net
+/old/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 6 www.google.com
+/jetpack.wordpress.com 3 -
+/test/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 5 www.google.com
+/wp-content/plugins/pdf-assembly/js/js.php 1 mylavarapu.net
+/wp-content/uploads/2020/06/ups.php 1 http://site.ru
+/wp-content/themes/enfold-child/update_script/vendor/phpunit/phpunit/build.xml 1 -
+/adminer.php 1 -
+/wp-content/themes/botanica-theme/style.css 1 http://www.google.com/
+/ee97.php 1 -
+/demo/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 6 www.google.com
+/wp-content/uploads/adminer.php 1 -
+/wp-content/uploads/2020/05/content-post.php 1 http://site.ru
+/search/ 2 -
+/wp-content/plugins/wp-file-manager/lib/files/feoidasf4e0_index.php 4 https://www.mylavarapu.net/wp-content/plugins/wp-file-manager/lib/files/feoidasf4e0_index.php
+/bantty.php 1 -
+/wp-m.php 2 http://site.ru
+/Icsndh.php 1 -
+/wp-content/plugins/wp-file-manager/css/fm_custom.css 5 -
+/wp-content/plugins/formcraft/file-upload/server/content/upload.php 3 http://www.google.com/
+/wp-content/plugins/simple-ads-manager/css/jslider.round.plastic.css 1 http://www.google.com/
+/wp-content/uploads/2020/05/blackhat.php 1 http://site.ru
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 509
+192.185.35.30 6678 6678 0 20200930235725
+103.49.206.211 38 85 914943 20200905042131
+104.210.42.42 35 35 637683 20200903081009
+86.98.156.26 23 79 763663 20200930163106
+223.182.35.198 22 42 387823 20200913032749
+82.80.249.192 22 37 479102 20200925210817
+138.229.107.98 22 44 2210538 20200926020609
+131.220.6.152 21 21 405557 20200930210141
+106.0.39.202 20 70 869402 20200924023756
+49.207.139.194 20 24 287632 20200903073229
+183.83.169.252 19 128 1411142 20200904063003
+157.44.74.14 19 68 878533 20200903151620
+157.48.223.112 16 86 714135 20200915164357
+159.89.176.204 15 34 753984 20200910205453
+117.197.223.53 15 62 807727 20200913103515
+159.65.44.69 15 34 753938 20200930184839
+183.82.156.200 15 103 1069677 20200928051948
+122.169.233.168 15 53 512459 20200903103939
+165.231.253.20 15 67 815053 20200918142507
+142.93.70.155 15 34 753989 20200923191502
+18.144.133.188 14 14 91395 20200912170639
+158.69.54.207 13 13 562413 20200904102006
+138.246.253.15 12 12 0 20200926193046
+62.4.14.206 11 11 616109 20200922125827
+204.63.40.45 11 63 824333 20200918131624
+46.248.167.38 1 1 2894 20200927011720
+217.171.147.164 1 1 60041 20200921012046
+157.47.89.66 1 2 40463 20200922194103
+207.188.146.231 1 1 19226 20200924220244
+192.0.87.36 1 1 659 20200907132043
+106.201.50.152 2 38 322148 20200923211758
+122.174.132.196 1 35 316018 20200914134653
+157.48.173.89 6 83 468379 20200916084908
+207.90.14.12 1 1 12019 20200924220321
+192.0.86.128 1 1 660 20200903132656
+106.66.46.109 2 38 355761 20200909204913
+5.31.149.94 5 52 563268 20200930161718
+117.219.209.17 8 48 428642 20200909134137
+49.206.125.32 6 52 596747 20200915093420
+51.15.172.43 2 2 6137 20200901185007
+117.195.238.86 2 42 414259 20200930062000
+192.0.87.17 1 1 661 20200902134345
+157.48.194.214 3 48 457670 20200910093543
+34.122.91.224 1 1 19312 20200908044022
+142.252.79.216 1 1 3085 20200924220327
+207.188.150.55 1 1 3085 20200924220346
+69.137.93.22 2 41 501400 20200901083053
+173.252.87.4 0 1 186 
+91.121.79.16 1 1 59979 20200921040031
+3.122.84.186 1 1 10529 20200909113032
+106.76.237.187 0 1 49380 
+183.83.145.10 0 1 49380 
+192.0.87.136 2 2 1320 20200916131646
+106.217.142.118 2 42 415942 20200930095252
+142.252.78.117 1 1 15273 20200924220355
+93.159.230.28 3 3 57938 20200929140950
+73.202.52.61 4 51 555966 20200901140831
+142.252.78.67 1 1 22638 20200924220242
+192.0.86.75 1 1 661 20200930131902
+95.217.207.28 1 1 19312 20200905045636
+207.66.17.191 1 1 9757 20200924165956
+91.213.50.99 1 1 2777 20200928003749
+192.0.87.55 1 1 659 20200918131508
+88.198.36.62 3 3 186045 20200927013650
+192.0.87.155 1 1 661 20200920133338
+49.206.39.104 4 39 344221 20200928082735
+157.48.139.46 4 4 28882 20200924142414
+95.152.40.21 1 1 60041 20200924062424
+138.197.137.225 1 1 0 20200919202127
+65.155.30.101 1 41 487153 20200912194748
+129.226.15.208 2 2 38624 20200914185545
+183.83.144.227 2 35 320322 20200918072750
+88.99.2.89 3 3 67515 20200909043543
+217.160.60.249 2 2 2090 20200917224532
+27.59.129.191 6 41 366215 20200928123353
+106.76.192.47 1 1 10995 20200913212317
+207.188.146.52 1 1 22638 20200924165955
+185.225.136.163 1 1 11133 20200905070246
+27.59.247.58 2 39 344351 20200902065823
+157.48.179.130 1 1 15358 20200920220928
+142.252.77.40 1 1 14802 20200924220321
+88.198.43.207 6 6 265586 20200927025030
+66.102.6.43 2 15 226832 20200929055032
+106.208.117.217 3 43 430293 20200914192226
+157.48.223.252 1 32 289907 20200903103708
+51.15.191.81 8 8 341307 20200921182035
+106.53.82.40 3 3 57931 20200921073017
+192.0.89.51 1 1 662 20200923131906
+66.102.6.47 0 8 40555 
+142.252.78.200 1 1 19226 20200924220250
+136.143.190.44 3 3 52980 20200918072923
+115.98.165.234 3 43 415944 20200921020658
+158.69.158.103 6 6 5426 20200928203725
+185.162.128.133 1 1 19309 20200908182704
+106.208.78.142 0 4 441093 
+212.129.7.81 2 2 3822 20200915084425
+49.37.136.35 1 38 399101 20200917122500
+142.252.78.97 1 1 10556 20200924170000
+106.66.46.97 2 39 359880 20200909200627
+188.165.230.118 2 2 120082 20200923194957
+144.76.162.206 2 2 109174 20200914130233
+183.83.36.196 2 40 337124 20200911163659
+157.47.112.46 3 9 117118 20200911005708
+207.188.150.145 1 1 14269 20200924220411
+50.35.184.37 1 37 330496 20200916202112
+183.82.115.240 7 47 406491 20200922024748
+195.154.63.222 2 2 96105 20200920143151
+64.137.120.181 1 1 19312 20200905070235
+73.109.60.139 2 39 409082 20200907010044
+64.137.120.112 1 1 19312 20200905124510
+223.237.217.105 2 42 415944 20200919080813
+49.204.226.61 7 9 141480 20200906112000
+94.154.190.232 1 1 65963 20200920015028
+49.37.136.31 7 52 504544 20200914075520
+78.46.94.83 2 2 103252 20200912004859
+195.54.167.190 4 4 7644 20200914091652
+157.48.178.197 1 1 0 20200921123821
+20.52.36.34 2 2 120082 20200912125811
+66.102.6.41 1 1 12105 20200929055031
+157.48.206.144 1 1 0 20200910051229
+35.245.188.175 8 8 480328 20200918131314
+195.54.160.72 1 1 2777 20200929124725
+106.208.127.182 2 42 415944 20200910053538
+159.203.99.106 1 18 119151 20200918130003
+157.48.194.130 2 42 415946 20200905181649
+223.237.205.204 2 43 355054 20200930022309
+85.208.21.169 2 2 38624 20200925003804
+34.83.188.91 9 99 1228250 20200921202358
+66.102.6.39 0 1 4119 
+157.47.66.152 2 42 487872 20200901065115
+157.44.71.116 0 1 49380 
+142.93.78.12 1 18 119150 20200906044457
+198.252.50.183 1 1 11048 20200924220314
+213.168.249.115 2 2 0 20200920143655
+157.44.101.14 2 3 96848 20200925053138
+62.4.14.198 7 8 274292 20200922125654
+192.0.86.108 1 1 250 20200922021314
+193.186.4.90 2 2 0 20200913095419
+157.48.211.92 2 38 332037 20200918174942
+49.204.179.149 4 39 354111 20200905053919
+188.165.174.33 1 1 10995 20200930220300
+192.0.87.41 1 1 661 20200922133148
+49.204.229.221 1 1 0 20200915021108
+5.9.75.114 1 1 2556 20200903080334
+157.55.39.90 0 1 1275 
+115.98.165.7 4 46 453285 20200916021430
+93.75.194.31 1 1 19312 20200919123454
+207.188.146.140 1 1 12073 20200924220313
+103.24.127.69 2 42 415944 20200926124701
+49.205.4.73 2 44 582674 20200904221741
+68.205.216.0 0 1 49380 
+94.24.87.57 1 1 15172 20200917201435
+104.171.148.62 1 1 12019 20200924220355
+183.136.225.35 1 1 60041 20200902184717
+157.47.70.203 1 1 14351 20200923040703
+192.255.69.147 1 1 19312 20200914212311
+106.76.249.106 3 28 319179 20200926105424
+157.47.122.107 1 42 429730 20200911004231
+167.71.144.54 1 1 19311 20200922153856
+162.249.167.18 1 1 15087 20200924220339
+192.0.87.21 2 2 1318 20200927133004
+157.48.190.201 2 38 331920 20200917073431
+51.15.78.133 1 1 19313 20200925120605
+51.11.143.181 2 2 3822 20200918030732
+46.4.83.150 5 5 219496 20200928060154
+192.0.91.169 1 1 662 20200926131823
+51.77.128.205 1 41 487153 20200904115129
+157.48.220.145 2 40 417571 20200920210354
+85.204.246.235 2 2 21819 20200922183121
+192.236.146.22 1 1 22720 20200912195824
+192.0.87.140 1 1 660 20200908134527
+49.204.185.123 10 96 1310017 20200928065237
+157.44.98.238 2 40 413201 20200902093751
+13.78.187.69 6 6 5426 20200927072221
+223.238.84.163 1 34 311899 20200904212455
+117.200.8.225 4 44 430298 20200912113515
+192.0.86.176 1 1 660 20200912132107
+91.236.116.14 1 1 19311 20200914224329
+108.65.110.246 10 64 453416 20200916063825
+74.125.190.44 1 1 10996 20200904020203
+139.99.134.195 1 1 0 20200917111015
+192.0.87.43 1 1 660 20200901140713
+170.178.155.64 1 1 10690 20200924220243
+62.210.83.78 3 3 57934 20200928233039
+68.8.76.114 6 82 837827 20200918140136
+192.0.86.136 1 1 250 20200912001833
+157.48.37.182 3 38 343580 20200929090936
+80.82.68.114 0 1 4119 
+23.230.53.124 1 1 19226 20200924220354
+74.125.190.46 5 38 367923 20200904020247
+192.0.87.27 1 1 663 20200917133244
+192.0.86.66 1 1 659 20200929131749
+49.206.43.151 0 1 49380 
+94.23.199.195 2 2 5447 20200922001753
+54.36.246.232 1 1 0 20200907084546
+134.202.64.57 10 12 127498 20200905124712
+170.178.155.243 1 1 9757 20200924220401
+124.123.181.165 3 43 415943 20200902230659
+193.186.4.84 1 1 0 20200920110112
+74.125.212.23 2 56 261318 20200914035911
+138.197.202.197 1 1 19312 20200913104341
+107.165.177.83 1 1 15273 20200924165954
+106.217.214.95 0 1 130571 
+52.240.53.155 2 2 3822 20200903140534
+157.47.112.82 0 1 49380 
+175.44.42.172 1 2 19612 20200912010510
+49.205.228.158 8 100 1085961 20200910001656
+192.71.3.26 1 1 19313 20200904200713
+223.238.17.226 0 1 49380 
+195.154.62.232 2 2 81593 20200922133124
+41.222.186.56 5 5 36137 20200929015806
+175.101.36.18 1 40 411340 20200912114707
+104.171.157.236 1 1 19228 20200924165947
+157.48.33.15 4 44 371158 20200914035029
+207.66.17.78 1 1 10660 20200924220351
+66.102.7.222 1 1 19314 20200910154024
+170.178.155.180 1 1 11048 20200924220402
+49.206.45.239 2 42 415943 20200914211404
+157.48.141.251 2 42 362812 20200922233050
+120.159.74.183 7 53 637037 20200927003603
+213.239.193.124 1 1 60041 20200912195539
+49.37.203.89 4 44 436890 20200921125322
+157.48.192.13 3 41 413201 20200909210615
+106.217.144.166 10 56 676872 20200920140332
+207.188.164.81 2 2 18175 20200924220249
+34.122.32.203 1 1 0 20200924013221
+124.206.180.133 1 1 60041 20200918102015
+124.123.174.199 5 50 483267 20200909221828
+217.160.58.238 4 4 77252 20200914092320
+142.252.79.168 1 1 14802 20200924220339
+107.15.219.220 2 41 415334 20200904102318
+103.98.63.229 0 1 127104 
+23.230.53.118 1 1 3085 20200924165951
+183.83.144.129 1 39 393330 20200903123348
+89.36.76.117 1 1 60041 20200914121039
+49.205.249.15 2 38 332038 20200906035735
+183.82.153.190 7 46 416481 20200910040237
+23.27.147.35 1 1 9757 20200924220307
+212.83.146.233 9 12 461707 20200921182633
+207.188.146.92 2 2 30075 20200924220258
+159.69.58.136 2 2 33667 20200910184527
+157.47.69.104 1 1 14352 20200924015206
+99.243.139.2 0 22 0 
+207.188.146.103 2 2 21738 20200924170007
+209.126.3.30 1 1 19312 20200920100812
+192.0.89.25 1 1 250 20200903022440
+18.224.171.170 2 2 29843 20200909223519
+106.198.93.88 2 50 533774 20200904100224
+106.215.50.232 1 1 0 20200922040126
+60.243.23.184 6 44 373836 20200929030950
+87.106.204.37 4 4 77244 20200913161554
+198.143.155.138 1 1 19314 20200919054055
+117.197.217.216 3 44 588535 20200904103432
+5.9.145.132 8 8 440569 20200927013715
+49.204.176.124 8 55 501699 20200907124217
+207.188.150.53 1 1 10446 20200924220345
+157.48.53.80 8 8 73035 20200925132129
+223.228.114.23 2 42 415944 20200914081348
+157.47.83.151 5 51 617750 20200917103839
+2.56.101.95 1 1 22718 20200902034401
+138.201.154.233 2 2 3822 20200911012946
+107.165.177.86 1 1 10556 20200924220328
+157.55.39.4 0 1 2199 
+117.195.170.74 0 1 49380 
+192.210.186.120 1 1 11132 20200905124520
+192.71.36.158 1 1 19312 20200909034458
+157.47.76.253 5 49 610824 20200927101912
+27.7.86.86 10 61 717196 20200918082300
+117.230.128.207 1 35 316017 20200909080244
+168.90.197.54 1 1 19312 20200905124719
+104.236.168.190 4 4 240164 20200918033446
+66.102.6.45 0 14 69519 
+46.105.120.49 5 5 18856 20200924221842
+62.109.12.239 1 1 19311 20200925051330
+124.123.183.157 2 40 417571 20200921045952
+106.200.157.208 1 36 326376 20200912100739
+45.137.22.44 1 1 19312 20200920153725
+106.220.123.62 3 43 430296 20200926110854
+192.0.86.67 1 1 662 20200928131805
+92.119.161.215 1 1 65963 20200916013354
+178.62.14.25 2 2 21821 20200918064714
+192.0.86.113 2 2 500 20200922024740
+157.48.211.152 1 1 0 20200911105217
+18.144.57.221 1 1 60041 20200911112024
+172.245.50.17 1 1 10556 20200924220412
+157.48.146.236 1 1 22721 20200912220632
+207.66.17.165 1 1 10690 20200924220403
+157.44.70.148 6 50 458774 20200903215333
+122.175.76.3 2 38 330496 20200913003657
+106.217.215.66 8 48 483849 20200908034431
+74.125.212.25 7 70 821123 20200915233432
+195.154.191.98 1 1 19312 20200908235307
+103.56.148.238 4 4 240164 20200924175457
+103.55.213.31 2 42 415944 20200914075158
+170.55.168.210 8 59 665344 20200903141340
+27.59.245.128 2 2 24880 20200930100547
+207.188.150.139 1 1 10446 20200924220315
+40.76.198.171 1 1 1045 20200914234510
+192.0.102.194 4 4 39094 20200927104529
+98.26.131.128 7 57 538334 20200917182742
+69.10.58.29 10 10 138156 20200929014708
+106.66.47.27 2 42 415945 20200908114040
+23.228.109.146 1 1 19269 20200905213212
+70.113.61.48 4 39 353565 20200906075413
+124.123.173.74 5 44 385966 20200903091426
+192.0.87.19 1 1 660 20200910131906
+192.0.89.55 2 2 1321 20200925132032
+95.152.39.171 1 1 60041 20200929032239
+74.125.212.27 2 60 642169 20200911005628
+51.161.105.115 2 2 5168 20200903011139
+142.252.77.95 2 2 21494 20200924220312
+195.154.61.206 10 12 559256 20200922125730
+157.44.65.28 1 1 15173 20200918054307
+72.13.46.2 3 3 44796 20200919120949
+49.37.207.47 1 34 311898 20200926233839
+106.200.175.29 3 38 343580 20200925003812
+27.59.35.106 2 42 415944 20200926210907
+157.44.125.47 2 4 24829 20200902095738
+85.159.164.224 5 5 36139 20200915194108
+162.249.167.30 1 1 10446 20200924220238
+223.186.199.15 2 42 415942 20200928100705
+107.152.173.195 2 2 22576 20200913095906
+104.171.158.42 3 3 51994 20200924220255
+192.0.86.152 1 1 660 20200919133405
+5.189.162.237 1 1 59913 20200907152604
+168.81.92.144 1 2 144924 20200915215957
+34.66.87.205 3 3 19312 20200916070821
+157.47.127.100 2 2 33250 20200911004554
+107.165.177.180 1 1 12019 20200924220258
+46.248.187.39 1 1 3085 20200929202556
+122.175.96.105 7 49 558954 20200922123522
+223.238.15.229 1 1 0 20200904112507
+136.185.235.190 2 46 576086 20200921090606
+142.252.74.224 1 1 19226 20200924220337
+104.248.8.188 1 1 60041 20200904033432
+182.65.73.219 2 40 359930 20200914075454
+87.106.168.173 4 4 77256 20200913213015
+142.252.78.17 1 1 9757 20200924220328
+23.230.53.23 1 1 15273 20200924220246
+45.127.44.2 2 37 349096 20200908080937
+223.238.11.137 1 43 504073 20200902075311
+157.47.98.128 5 48 684534 20200912115436
+106.76.208.11 0 1 1129544 
+45.140.17.190 4 4 7644 20200919145721
+157.48.214.253 3 42 429691 20200906075444
+192.0.86.124 1 1 661 20200906134653
+106.200.183.29 8 48 470169 20200903031159
+117.209.212.206 8 53 511482 20200903022448
+148.251.50.77 4 4 199552 20200927013659
+120.18.163.234 2 42 415944 20200926181257
+198.240.115.255 1 1 19314 20200919221728
+138.197.160.158 1 1 0 20200919202132
+185.206.224.237 2 2 103252 20200917194732
+104.171.150.109 1 1 19226 20200924220342
+69.142.46.116 5 40 353560 20200919190143
+185.191.204.9 2 2 73965 20200921071139
+86.98.214.83 8 49 458573 20200906032357
+134.202.64.151 9 9 104559 20200905070445
+192.0.87.134 1 1 664 20200909134014
+49.206.45.42 2 42 415944 20200926210125
+117.195.231.138 2 77 805128 20200904020317
+223.237.41.237 2 42 362669 20200904093003
+122.175.6.99 2 42 415944 20200928213717
+103.41.99.227 5 40 364636 20200926100904
+163.172.52.161 2 2 45384 20200901062316
+18.191.225.199 5 38 394727 20200930130646
+54.147.248.244 1 1 0 20200915192846
+122.175.26.123 2 42 415944 20200914074516
+157.48.39.104 3 47 528901 20200903090046
+207.90.15.212 1 1 10660 20200924220311
+49.204.225.244 10 22 364455 20200904074146
+157.48.145.170 1 4 19233 20200916132037
+103.135.200.254 3 41 371941 20200902074241
+64.233.173.59 0 12 57931 
+95.216.113.229 1 1 19312 20200927170525
+188.165.211.206 1 1 60041 20200925022639
+157.48.210.20 3 40 344352 20200911045146
+73.116.192.122 2 43 336874 20200919112634
+144.76.102.243 8 8 437418 20200929221754
+62.210.172.189 2 2 3822 20200902010618
+77.69.242.237 7 52 457970 20200913104647
+124.123.178.159 2 42 415943 20200903085313
+207.188.146.199 2 2 15104 20200924220243
+124.123.162.108 6 80 480322 20200926052403
+34.91.229.108 0 1 5923 
+173.211.35.86 1 1 15090 20200924165950
+77.74.177.114 2 2 38625 20200929101508
+75.183.4.173 3 42 426064 20200926080515
+54.213.158.204 1 1 19313 20200926135328
+112.133.232.33 0 1 26111 
+49.37.205.116 2 45 503994 20200905094412
+23.230.53.37 1 1 14802 20200924220408
+192.0.86.196 1 1 662 20200911134924
+91.241.19.182 2 2 120083 20200908140535
+178.128.226.90 1 1 0 20200919202115
+157.48.223.152 1 1 15173 20200920180229
+213.217.0.184 3 3 57931 20200924015744
+1.129.104.52 2 38 330496 20200917175832
+192.36.53.165 1 1 19313 20200929114328
+185.195.24.69 1 1 0 20200920064831
+171.49.219.185 0 1 49380 
+172.112.4.49 1 40 322408 20200929102641
+106.217.247.244 10 54 459646 20200930214007
+45.76.38.253 2 2 182897 20200913121440
+158.69.38.243 2 2 3822 20200912003857
+157.48.138.233 4 4 24881 20200921070012
+69.154.150.97 3 41 425306 20200916121957
+157.48.162.231 9 50 486396 20200905052025
+157.48.160.224 8 54 515427 20200912235245
+183.83.134.143 4 44 439143 20200905032402
+188.93.56.216 1 2 23433 20200917142912
+157.48.210.202 4 47 670182 20200909210805
+78.46.90.120 3 3 163293 20200929221740
+175.44.42.233 1 2 19611 20200925005824
+157.48.50.151 1 1 15175 20200921072131
+139.59.82.245 1 1 2556 20200904145930
+106.197.250.164 2 37 333052 20200908113053
+49.34.56.20 2 42 415943 20200922210710
+99.250.160.245 4 39 354111 20200928210907
+185.14.30.124 4 4 240164 20200906134712
+3.81.245.94 6 6 557905 20200926233834
+192.0.87.37 1 1 662 20200921132152
+34.215.244.39 1 1 19313 20200904044657
+223.227.33.70 3 37 326547 20200911215731
+138.197.131.30 1 1 0 20200919202121
+27.60.229.219 0 1 49380 
+45.19.49.85 3 43 420405 20200927214558
+192.0.87.173 1 1 664 20200905133701
+192.0.89.23 1 1 250 20200903091413
+49.37.133.61 2 42 362673 20200902045414
+49.204.224.64 6 46 388882 20200904065515
+62.210.92.175 1 1 19313 20200910010824
+122.176.227.168 4 66 731718 20200916114601
+106.217.214.126 0 1 130571 
+103.104.125.41 3 39 333006 20200901075351
+157.48.164.103 1 1 15172 20200916221016
+157.44.118.48 2 42 415944 20200910091302
+192.71.225.127 1 1 19313 20200914175450
+13.56.234.14 1 33 314174 20200912170537
+106.52.240.60 3 3 57936 20200911170234
+176.9.8.180 8 8 145371 20200923200531
+67.176.232.246 0 1 141488 
+138.128.98.56 1 1 19314 20200915215946
+106.206.16.97 3 41 417569 20200911104842
+159.89.230.105 4 4 240164 20200907064222
+173.211.35.35 1 1 10446 20200924220348
+38.18.54.244 1 1 19312 20200912000206
+14.98.162.18 1 1 14352 20200902045818
+157.48.134.147 3 43 374776 20200917135405
+27.60.226.52 0 1 130571 
+49.204.228.32 7 56 571982 20200915031111
+34.87.100.247 1 1 2556 20200913173800
+223.230.94.103 2 42 362673 20200915213443
+183.83.144.119 2 7 109355 20200919063348
+183.83.37.20 2 42 415944 20200929092439
+206.189.117.9 2 2 118882 20200906110046
+157.48.220.47 2 42 415944 20200926084243
+185.156.73.64 1 2 64160 20200930042131
+64.233.173.55 1 21 217524 20200911004534
+157.47.79.149 1 1 14352 20200924002822
+183.83.152.158 2 46 516795 20200902224231
+73.112.75.87 2 36 325999 20200906115102
+198.12.80.190 2 2 22352 20200906123700
+183.82.2.160 4 80 833746 20200912054837
+157.47.113.220 1 6 33061 20200911004426
+178.128.26.251 1 1 2556 20200910075428
+117.98.148.165 3 45 440922 20200916230149
+106.217.131.138 0 1 130571 
+23.27.147.184 1 1 14802 20200924165955
+142.252.79.142 1 1 19226 20200924220405
+103.126.204.179 0 2 75491 
+69.12.68.194 1 1 2556 20200930081222
+104.171.148.140 3 3 35652 20200924220351
+207.188.160.108 1 1 15090 20200924220309
+85.10.202.243 1 41 487155 20200914053137
+49.206.195.168 2 42 415943 20200921065841
+185.220.101.148 1 27 346223 20200915195941
+124.123.189.89 4 44 440824 20200930084026
+64.233.173.57 2 15 229926 20200911004533
+117.249.248.128 1 39 411420 20200902214051
+23.249.228.114 1 1 14268 20200924142748
+88.198.90.9 5 5 232372 20200927025000
+207.188.164.231 1 1 19228 20200924165949
+104.171.148.136 2 2 26287 20200924165955
+157.46.242.109 3 43 415944 20200914080621
+193.106.30.99 9 9 19210 20200924093318
+73.223.169.35 7 52 472664 20200915171131
+157.45.8.19 4 49 472018 20200922044615
+95.179.229.244 1 1 60041 20200901233235
+66.102.7.223 0 1 4119 
+223.182.15.213 8 47 403303 20200910082128
+157.44.73.131 1 1 0 20200926082404
+192.0.86.72 1 1 661 20200924131603
+172.252.226.111 1 1 22638 20200924220348
+89.163.144.169 2 2 3822 20200905095949
+65.154.226.109 1 41 487153 20200912193452
+72.84.229.246 1 37 330495 20200903090551
+49.204.230.205 2 40 413201 20200908003941
+34.123.233.249 1 1 19311 20200906095443
+107.165.177.211 0 15 195022 
+192.0.86.146 1 1 658 20200913134523
+192.36.52.37 1 1 19312 20200925085455
+71.191.146.51 6 50 540073 20200903201548
+77.74.177.113 1 1 19311 20200914134310
+64.233.173.61 1 1 10995 20200910033925
+223.227.107.201 5 50 415457 20200912002010
+106.78.86.178 0 36 450715 
+52.13.57.98 1 1 19311 20200904101945
+223.182.58.144 5 75 742296 20200914031417
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20200901 178 341 2017617 15
+20200902 246 642 4360751 21
+20200903 441 945 7091006 28
+20200904 341 894 7462213 29
+20200905 284 532 3569156 28
+20200906 205 409 2600490 19
+20200907 191 277 1410781 12
+20200908 229 428 2178099 15
+20200909 240 513 3129116 17
+20200910 279 594 4383812 23
+20200911 169 486 3423285 25
+20200912 298 736 5695363 33
+20200913 259 409 2659952 19
+20200914 370 975 7778530 34
+20200915 307 693 4447683 23
+20200916 235 492 2619103 23
+20200917 224 511 4227421 27
+20200918 307 624 4967326 24
+20200919 196 282 1036757 17
+20200920 185 271 1634640 17
+20200921 218 522 4159925 23
+20200922 288 496 2727465 19
+20200923 175 232 1414633 13
+20200924 318 385 3515015 71
+20200925 200 252 1188753 16
+20200926 285 789 7331608 23
+20200927 805 972 2875299 23
+20200928 288 610 3998965 16
+20200929 252 407 2101306 22
+20200930 265 627 4825364 20
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 37
+5mn-15mn 23
+30mn-1h 19
+1h+ 69
+30s-2mn 46
+15mn-30mn 25
+0s-30s 476
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 52
+/wp-cron.php 6678 0 91 91
+/ 401 10355900 224 204
+/store/ 270 2869718 29 103
+/about/ 177 2768251 94 46
+/contact-us/ 95 1263609 38 26
+/lalita-sahasranamam-by-mylavarapu-srinivasa-rao/ 90 2452837 42 42
+/books/ 78 872970 18 12
+/triraatra-upavaasa-deeksha/ 54 777901 11 7
+/anusamputi-vidhaanam/ 47 854039 8 12
+/videos/ 42 732726 15 16
+/xmlrpc.php 41 22710 38 38
+/category/lalita-sahasranamam/triratra-upavaasa-deeksha-lalita-sahasranamam/ 37 392686 7 3
+/wp-content/plugins/jetpack/_inc/social-logos/social-logos.eot 34 339388 0 11
+/mobile-users/ 20 235246 4 7
+/category/lalita-sahasranamam/ 18 170124 1 1
+/feed/ 18 73806 9 8
+//wp-includes/wlwmanifest.xml 17 17765 16 2
+//wp-json/oembed/1.0/embed 16 44432 2 13
+/category/lalita-sahasranamam/anusamputi/ 15 128762 2 3
+/tag/anusamputi/ 14 173428 4 3
+/tag/lalita-sahasranamam-by-mylavarapu-srinivasa-rao/ 14 161398 5 4
+/wp-login.php 12 31087 10 8
+/tag/triratra-upavaasa-deeksha/ 11 118263 3 5
+/wp-json/oembed/1.0/embed 10 14332 0 2
+//xmlrpc.php 9 3609 0 2
+/.well-known/apple-app-site-association/ 1 12362 0 0
+/.well-known/assetlinks.json/ 1 12362 0 0
+/2014/01/ 1 9643 0 0
+/wp-content/themes/wp-opulus/ 3 0 2 1
+//wp-admin/admin-post.php 1 0 0 0
+/wp-content/uploads/2014/01/ 1 5655 1 0
+//wp-login.php 2 14633 0 1
+/us-trip/ 1 11982 1 0
+/triraatra-upavaasa-deeksha/feed/ 2 6374 1 1
+/wp-config.php 1 0 1 1
+/wp-json 1 182897 0 1
+/2014/02/ 8 117195 0 0
+/wp-content/uploads/2014/02/ 2 13322 1 1
+/2014/02/24/ 1 11414 0 0
+/wp-json/ 7 824970 3 3
+//wp-admin/admin-ajax.php 1 471 0 1
+/wp-content/themes/wp-opulus/css/ 2 4424 2 2
+/feed/atom/ 1 3052 0 1
+/wp-load.php 1 0 1 1
+/wp-admin/admin-ajax.php 1 471 0 0
+/search/feed/rss2/ 3 3252 2 1
+/comments/feed/ 7 38579 2 2
+/index.php 1 19210 1 1
+/store 6 62760 5 5
+/wp-content/uploads/2013/12/ 2 37530 1 2
+/2014/01/09/ 1 9653 0 1
+/wp-admin/admin-post.php 1 0 0 0
+END_SIDER
